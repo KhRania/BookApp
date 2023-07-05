@@ -1,0 +1,228 @@
+{
+    "titre": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+    "page": 3,
+    "titreTableau": "Liste des abréviations",
+    "tableau": [
+      {
+        "abreviation": "ABRI",
+        "signification": "Acinetobacter baumannii résistant à l’imipénème",
+        "page": 3
+      },
+      {
+        "abreviation": "AMPI",
+        "signification": "Ampoule injectable",
+        "page": 3
+      },
+      {
+        "abreviation": "ATB",
+        "signification": "Antibiotique",
+        "page": 3
+      },
+      {
+        "abreviation": "BA",
+        "signification": "Bactériurie asymptomatique",
+        "page": 3
+      },
+      {
+        "abreviation": "BG-",
+        "signification": "Bacilles Gram -",
+        "page": 3
+      },
+      {
+        "abreviation": "BG+",
+        "signification": "Bacilles Gram +",
+        "page": 3
+      },
+      {
+        "abreviation": "BGN",
+        "signification": "Bacilles Gram Négatif",
+        "page": 3
+      },
+      {
+        "abreviation": "BMR",
+        "signification": "Bactéries multirésistantes",
+        "page": 3
+      },
+      {
+        "abreviation": "BPCO",
+        "signification": "Bronchopneumopathie obstructive chronique",
+        "page": 3
+      },
+      {
+        "abreviation": "C1G",
+        "signification": "Céphalosporine de 1ère génération",
+        "page": 3
+      },
+      {
+        "abreviation": "C2G",
+        "signification": "Céphalosporine de 2ème génération",
+        "page": 3
+      },
+      {
+        "abreviation": "C3G",
+        "signification": "Céphalosporine de 3ème génération",
+        "page": 3
+      },
+      {
+        "abreviation": "Cc",
+        "signification": "Concentration",
+        "page": 3
+      },
+      {
+        "abreviation": "CG-",
+        "signification": "Cocci Gram -",
+        "page": 3
+      },
+      {
+        "abreviation": "CG+",
+        "signification": "Cocci Gram +",
+        "page": 3
+      },
+      {
+        "abreviation": "CMI",
+        "signification": "Concentration Minimale Inhibitrice",
+        "page": 3
+      },
+      {
+        "abreviation": "CVVH",
+        "signification": "Continuous Veno-Venous Hemofiltration",
+        "page": 3
+      },
+      {
+        "abreviation": "CVVHD",
+        "signification": "Continuous Veno-Venous Hemodilaysis",
+        "page": 3
+      },
+      {
+        "abreviation": "CVVHDF",
+        "signification": "Continuous Veno-Venous Hemodiafiltration",
+        "page": 3
+      },
+      {
+        "abreviation": "DC",
+        "signification": "Dose de Charge",
+        "page": 3
+      },
+      {
+        "abreviation": "DE",
+        "signification": "Dose d’entretien",
+        "page": 3
+      },
+      {
+        "abreviation": "DHBN",
+        "signification": "dermo-hypodermite bactérienne nécrosante",
+        "page": 3
+      },
+      {
+        "abreviation": "DHNN",
+        "signification": "dermo-hypodermite non nécrosante",
+        "page": 3
+      },
+      {
+        "abreviation": "DP",
+        "signification": "Dialyse Péritonéale",
+        "page": 3
+      },
+      {
+        "abreviation": "DPA",
+        "signification": "Dialyse Péritonéale Automatisée",
+        "page": 3
+      },
+      {
+        "abreviation": "DU",
+        "signification": "Dose Usuelle",
+        "page": 3
+      },
+      {
+        "abreviation": "EBLSE",
+        "signification": "Entérobactéries sécrétrices de β-lactamase à spectre élargi",
+        "page": 3
+      },
+      {
+        "abreviation": "ECBU",
+        "signification": "Examen cytobactériologique des urines",
+        "page": 3
+      },
+      {
+        "abreviation": "ED",
+        "signification": "Examen Direct",
+        "page": 3
+      },
+      {
+        "abreviation": "EERC",
+        "signification": "Epuration Extra-Rénale Continue",
+        "page": 3
+      },
+      {
+        "abreviation": "EI",
+        "signification": "Endocardite Infectieuse",
+        "page": 3
+      },
+      {
+        "abreviation": "EPPI",
+        "signification": "Eau pour préparation injectable",
+        "page": 3
+      },
+      {
+        "abreviation": "FDR",
+        "signification": "Facteur de risque",
+        "page": 3
+      },
+      {
+        "abreviation": "FQ",
+        "signification": "Fluoroquinolones",
+        "page": 3
+      },
+      {
+        "abreviation": "HACEK",
+        "signification": "Haemophilus spp, Aggregatibacter actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae",
+        "page": 3
+      },
+      {
+        "abreviation": "HC",
+        "signification": "Hémoculture",
+        "page": 3
+      },
+      {
+        "abreviation": "HD",
+        "signification": "Hémodialyse",
+        "page": 3
+      },
+      {
+        "abreviation": "HN",
+        "signification": "Hors Nomenclature hospitalière",
+        "page": 3
+      },
+      {
+        "abreviation": "IIA",
+        "signification": "Infection intra-abdominale",
+        "page": 3
+      },
+      {
+        "abreviation": "IM",
+        "signification": "Intra-musculaire",
+        "page": 3
+      },
+      {
+        "abreviation": "IOA",
+        "signification": "Infections Ostéoarticulaires",
+        "page": 3
+      },
+      {
+        "abreviation": "IU",
+        "signification": "Infection urinaire",
+        "page": 3
+      },
+      {
+        "abreviation": "IV",
+        "signification": "Intraveineuse",
+        "page": 3
+      },
+      {
+        "abreviation": "IVSE",
+        "signification": "Intraveineuse à la seringue électrique",
+        "page": 3
+      }
+    ]
+  }
+  

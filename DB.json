@@ -1,0 +1,16 @@
+{
+  "titreLivre": "Ministère de la Santé",
+  "sousTitre": "CHU Sahloul de Sousse",
+  "organisations": {
+    "nom1": "Comité de Lutte Contre les Infections Nosocomiales (CLIN)",
+    "nom": "Comité Thérapeutique (CT)"
+  },
+  "guide": {
+    "titre": "ANTIBIOGUIDE",
+    "version": "Version 1",
+    "année": "2022 – 2023"
+  },
+  "piedDePage": {
+    "titre": "GU/CT 01_V1_03/01/2023"
+  }
+}

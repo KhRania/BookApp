@@ -1,0 +1,105 @@
+{
+    "livre": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+    "chapitres": [
+      {
+        "titre": "Liste des abréviations",
+        "page": 3
+      },
+      {
+        "titre": "Règles de bon usage des antibiotiques",
+        "page": 5
+      },
+      {
+        "titre": "Suivi Thérapeutique Pharmacologique (STP) des antibiotiques",
+        "page": 9
+      },
+      {
+        "titre": "Partie 1 : Antibiothérapie curative par infection",
+        "sous_chapitres": [
+          {
+            "titre": "Traitement initial des méningites bactériennes aiguës communautaires",
+            "page": 15
+          },
+          {
+            "titre": "Bactériémies",
+            "page": 17
+          },
+          {
+            "titre": "Endocardites infectieuses (EI)",
+            "page": 25
+          },
+          {
+            "titre": "Infections respiratoires basses et pneumopathies",
+            "page": 31
+          },
+          {
+            "titre": "Infections de la peau et des tissus mous",
+            "page": 39
+          },
+          {
+            "titre": "Infections sur cathéter central pour hémodialyse",
+            "page": 45
+          },
+          {
+            "titre": "Infection sur cathéter de dialyse péritonéale",
+            "page": 47
+          },
+          {
+            "titre": "Infections intra-abdominale (IIA)",
+            "page": 49
+          },
+          {
+            "titre": "Infections urinaires (IU)",
+            "page": 53
+          },
+          {
+            "titre": "Infections ostéo-articulaires aiguës communautaires",
+            "page": 62
+          },
+          {
+            "titre": "Infections précoces sur prothèse articulaire",
+            "page": 66
+          },
+          {
+            "titre": "Infections fongiques",
+            "page": 70
+          }
+        ]
+      },
+      {
+        "titre": "Partie 2 : Caractéristiques des espèces bactériennes isolées",
+        "sous_chapitres": [
+          {
+            "titre": "Espèces bactériennes isolées : caractéristiques et antibiotique de choix",
+            "page": 76
+          }
+        ]
+      },
+      {
+        "titre": "Partie 3 : Antibiotiques et antifongiques",
+        "sous_chapitres": [
+          {
+            "titre": "Guide des posologies des antibiotiques disponibles au CHU Sahloul (Adultes)",
+            "page": 86
+          },
+          {
+            "titre": "Guide d’administration des anti-infectieux injectables",
+            "page": 96
+          },
+          {
+            "titre": "Guide d’adaptation posologique des antibiotiques chez l’insuffisant rénal",
+            "page": 107
+          },
+          {
+            "titre": "Guide d’adaptation posologique des antifongiques chez l’insuffisant rénal",
+            "page": 112
+          }
+        ]
+      },
+      {
+        "titre": "Comité de rédaction",
+        "page": 113
+      }
+    ]
+  }
+  

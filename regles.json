@@ -1,0 +1,30 @@
+{
+    "livre": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+    "page5":  {
+        "titrePartie1" : "Règles de bon usage des antibiotiques",
+        "contenu0": "La prescription inappropriée des antibiotiques, source de pression de sélection, aboutit à l’émergence des résistances bactériennes et à des impasses thérapeutiques. Chaque prescription d’antibiotique doit être réfléchie, en mettant en balance :\n\n➢ Les effets bénéfiques à court terme pour le patient, objectif prioritaire s’il est effectivement atteint d’une infection bactérienne ;\n➢ Les effets néfastes pour le patient sur ses flores commensales et pour l’écologie bactérienne par la sélection de bactéries multirésistantes.\n➢ Le lavage des mains avec un savon ou l’utilisation d’une solution hydroalcoolique participent à la réduction de la transmission manuportée des micro-organismes.\n➢ Toute fièvre n’est pas d’origine infectieuse.\n➢ La plupart des infections sont virales.\n➢ Il n’y a pas lieu de prescrire un antibiotique en cas de fièvre isolée.\n➢ L’antibiotique n’a pas d’effet immédiat sur les symptômes fièvre et douleur qui nécessitent un traitement symptomatique.\n➢ Un antibiotique peut avoir des effets indésirables individuels de toxicité d’organe ou d’allergie.\n➢ Les allergies vraies aux antibiotiques sont rares et peu documentées.\n➢ Un antibiotique a toujours un impact sur l’écologie des flores commensales (flore microbienne du tube digestif, des voies respiratoires, de la muqueuse vaginale et de la peau).\n➢ Le patient doit être informé de l’évolution naturelle de sa maladie, qu’il y ait ou non prescription d’un antibiotique.",
+        "titrePartie2": "Conseils de prescription des antibiotiques",
+        "contenu1": "➢ La prescription repose sur :\n • Un diagnostic précis, avec un recours aux tests rapides d’orientation diagnostique si possible, sinon sur un traitement probabiliste en se référant à l’étiologie bactérienne la plus probable;\n• Les caractéristiques du patient : âge (enfant et personnes âgées), poids, fonction hépatique et rénale (clairance de la créatinine chez la personne âgée), fragilité (diabète, déficit immunitaire), grossesse et allaitement ;\n• Le choix d’un antibiotique ayant le spectre le plus étroit possible ;\n• Une durée de traitement la plus courte possible afin d’éviter la sélection de souches résistantes."
+      
+    },
+
+  
+    
+        "page6": {
+          "contenu2": " ➢ Il est préconisé de :\n • Privilégier la voie orale ;\n • Respecter les posologies et les durées de traitement préconisées ;\n • Évaluer l’efficacité du traitement antibiotique sur les symptômes entre 48 et 72 heures après le début du traitement ;\n • Informer le patient sur l’importance de respecter la posologie et la durée du traitement.",
+          "titrePartie3": "Éviter une prescription inutile d’antibiotiques: ",
+          "contenu3": "  ➢ L’utilisation de test rapide d’orientation diagnostique permet d’éviter des traitements antibiotiques inutiles quand il est négatif : bandelette urinaire dans la cystite.\n ➢ La présence de bactéries sur un prélèvement n’est pas synonyme d’infection.\n ➢ L’aspect purulent ou muco-purulent des sécrétions nasales n’est pas synonyme d’infection bactérienne.\n  ➢ En l’absence de signes de gravité ou de terrain à risque le traitement antibiotique n’est pas urgent.\n  ➢ En cas de doute sur l’utilité d’une prescription d’antibiotique, il est préférable de surseoir et de réévaluer à 48 heures.\n  ➢ Certaines infections bactériennes ne relèvent pas d’une antibiothérapie mais d’une intervention chirurgicale, par exemple le drainage d’un abcès.\n   ➢ Il n’y a pas lieu de prescrire un antibiotique dans les infections suivantes, en majorité virales : rhinopharyngite aiguë, angine virale ;\n • Épisode grippal ;\n • Otite moyenne aiguë de l’enfant de plus de 2 ans ;\n • Otite moyenne aiguë congestive et otite séro-muqueuse ;\n  • Otite externe (en dehors de l’otite externe maligne du diabétique) ;\n • Otorrhée sur drain ;\n• Bronchite aiguë de l’adulte sain, y compris chez le fumeur ;\n • Exacerbation aiguë d’une bronchite chronique simple (sans obstruction) ;\n • Exacerbation aiguë d’une bronchite chronique obstructive légère ou modérée, en l’absence de sécrétions purulentes ;\n • Bronchiolite ou trachéobronchite d’évolution favorable dans les 72 heures, en l’absence d’otite moyenne aiguë associée ;\n • Sinusite maxillaire de l’enfant ou de l’adulte quand l’évolution sous traitement symptomatique est favorable.\n ➢ Il n’y a pas lieu de prescrire un antibiotique dans les bactériuries asymptomatiques (colonisation urinaire) en dehors de la grossesse, y compris sur sonde."
+        },
+      
+      
+    "page7":{
+            "titrePartie4": "Préserver l’efficacité de certains antibiotiques",
+            "contenu4": "  ➢ Trois antibiotiques (ou familles d’antibiotiques), particulièrement générateurs de résistances bactériennes, sont concernés : l’association amoxicilline-acide clavulanique ; les céphalosporines de 3e génération, orales ou injectables, notamment la ceftriaxone ; les fluoroquinolones.\n ➢ Il n’y a pas lieu en général de prescrire l’association amoxicilline-acide clavulanique en première intention. L’amoxicilline seule à dose adaptée est le plus souvent suffisante.\n ➢ Il n’y a pas lieu de banaliser la prescription de céphalosporines qui favorise l’émergence d’entérobactéries productrices de bêta-lactamases à spectre étendu. Leur prescription doit être modérée dans le respect de leurs indications.\n ➢ Il n’y a pas lieu de prescrire une fluoroquinolone dans les situations où d’autres antibiotiques peuvent être utilisés. Il est conseillé de ne pas réitérer une prescription de fluoroquinolone suivant une précédente utilisation de cette classe dans les 6 mois pour une infection urinaire ou les 3 mois pour une infection respiratoire.",
+            "titrePartie5": "Référence",
+            "contenu5": "Recommandations : Stratégie d’antibiothérapie et prévention des résistances bactériennes en établissement de santé. Haute Autorité de Santé (HAS) Avril 2008."
+          }
+        
+
+}
+
+  
