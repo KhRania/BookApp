@@ -1,0 +1,353 @@
+{
+    "tableau22": {
+        "colonnes22": [
+          {
+            "titre2a": "Porte d’entrée présumée/Agent cible"
+          },
+          {
+            "titre2b": "Antibiothérapie de 1ère intention"
+          },
+          {
+            "titre2c": "Alternative"
+          },
+          {
+            "titre2d": "Durée"
+          }
+        ],
+        
+            "note": "b. Infection nosocomiale à PE présumée :
+            ",
+          
+    
+        "lignes22": [
+          {
+            "cellules2a": [
+              {
+                "contenu2b": "Digestive/Voies biliaires/urinaire\nPas de foyer"
+              },
+              {
+                "contenu2d": "Pipéracilline-Tazobactam\n4,5g x 3/j\n(4,5gx4/j si neutropénie)"
+              },
+              {
+                "contenu2c": "Ou ceftazidime : 2gx3/j"
+              },
+              {
+                "contenu2f": "Selon diagnostic final et évolution"
+              }
+            ]
+          }
+        ],
+    },
+
+        "note2": "c. Prélèvement < 3 mois à E BLSE :
+        ",
+        "tableau222": {
+            "colonnes222": [
+              {
+                "titre222": "Antécédents de BLSE < 3 mois"
+              },
+              {
+                "titre222": "Antibiothérapie de 1ère intention"
+              },
+              {
+                "titre222": "Alternative"
+              },
+              {
+                "titre222": "Durée"
+              }
+            ],
+            "lignes222": [
+              {
+                "cellules222": [
+                  {
+                    "contenu222": "Imipénème : 1gx4/j\nOu Méropénème : 1gx3/j"
+                  },
+                  {
+                    "contenu222": "Ciprofloxacine : 400 mg x3/j\n+ Amikacine : 25–30 mg/kgx1/j"
+                  },
+                  {
+                    "contenu222": "±Métronidazole : 500mgx3/j (si porte d’entrée présumée digestive ou biliaire)"
+                  },
+                  {
+                    "contenu222": "Selon le diagnostic final et l’évolution"
+                  }
+                ]
+              }
+            ],
+          },
+          "note3":"d. Facteurs de risque de Pseudomonas aeruginosa ou de BMR :
+          ",
+          "tableau333": {
+            "colonnes333": [
+              {
+                "titre333": "Antécédents de P.aeruginosa < 3 mois\nMucoviscidose\nPrésence de ≥ 2 critères suivants : bronchectasies, traitement immunosuppresseur, hospitalisation dans les 90 jours précédents, antibiothérapie dans les 90 jours précédents"
+              },
+              {
+                "titre333": "Antibiothérapie de 1ère intention"
+              },
+              {
+                "titre333": "Alternative"
+              },
+              {
+                "titre333": "Durée"
+              }
+            ],
+            "lignes333": [
+              {
+                "cellules333": [
+                  {
+                    "contenu333": "Piperacilline-tazobactam : 4,5 gx3/j\n(4,5 gx4/j si neutropénie)"
+                  },
+                  {
+                    "contenu333": "Lévofloxacine : 500 mgx2/j\n+ Amikacine : 25-30 mg/kg x1/j"
+                  },
+                  {
+                    "contenu333": ""
+                  },
+                  {
+                    "contenu333": "Selon le diagnostic final et l’évolution"
+                  }
+                ]
+              }
+            ],
+          },
+          
+          
+    
+      },
+    
+      "tableau23": {
+        "colonnes23": [
+          {
+            "titre231": "Bactérie isolée"
+          },
+          {
+            "titre232": "Antibiothérapie de 1ère intention"
+          },
+          {
+            "titre233": "Alternative en cas d’allergie"
+          },
+          {
+            "titre234": "Durée"
+          }
+        ],
+        "lignes23": [
+          {
+            "cellules231": [
+              {
+                "contenu232": "SAMS"
+              },
+              {
+                "contenu233": "Oxacilline : 150 mg/kg/j en 4-6 injections (2gx4-6 fois/j)\nOu Céfazoline : 80 mg/kg/j en 3-4 injections (2gx3/j)"
+              },
+              {
+                "contenu234": "Vancomycine : 30-40 mg/kg/j"
+              },
+              {
+                "contenu235": "14 jours"
+              }
+            ]
+          },
+          {
+            "cellules23": [
+              {
+                "contenu231": "SARM"
+              },
+              {
+                "contenu232": "Vancomycine : 30-40 mg/kg/j"
+              },
+              {
+                "contenu233": "- 14 jours"
+              },
+              {
+                "contenu234": ""
+              }
+            ]
+          },
+          {
+            "cellules23": [
+              {
+                "contenu231": "SCN Méti-S"
+              },
+              {
+                "contenu232": "Oxacilline : 150 mg/kg/j en 4-6 injections (2gx4-6/j)\nOu Céfazoline : 80 mg/kg/j en 3-4 injections (2gx3/j)"
+              },
+              {
+                "contenu233": "Vancomycine : 30-40 mg/kg/j"
+              },
+              {
+                "contenu234": "05 jours"
+              }
+            ]
+          },
+          {
+            "cellules232": [
+              {
+                "contenu235": "SCN Méti-R"
+              },
+              {
+                "contenu236": "Vancomycine : 30-40 mg/kg/j"
+              },
+              {
+                "contenu237": "- 05 jours"
+              },
+              {
+                "contenu238": ""
+              }
+            ]
+          },
+          {
+            "cellules233": [
+              {
+                "contenu23a": "Streptocoques oraux et du groupe bovis"
+              },
+              {
+                "contenu23b": "Amoxicilline : 100 mg/kg/j en 4-6 injections\nCéfotaxime : 100 mg/kg/j en 4 injections (ou 2gx3/j)"
+              },
+              {
+                "contenu23c": "05 jours"
+              },
+              {
+                "contenu23d": ""
+              }
+            ]
+          },
+          {
+            "cellules23w": [
+              {
+                "contenu23x": "Entérococcus sp"
+              },
+              {
+                "contenu23r": "Amoxicilline : 100 mg/kg/j en 4-6 injections\nVancomycine : 30-40 mg/kg/j"
+              },
+              {
+                "contenu23z": "07 jours"
+              },
+              {
+                "contenu23h": ""
+              }
+            ]
+          },
+          {
+            "cellules23a": [
+              {
+                "contenu23aa": "E.coli"
+              },
+              {
+                "contenu23aaa": "Céfotaxime: 2gx3/j"
+              },
+              {
+                "contenu23aaaa": "- 07 jours"
+              },
+              {
+                "contenu23aaaaa": ""
+              }
+            ]
+          },
+          {
+            "cellules23aaaaa": [
+              {
+                "contenu23b": "Enterobacter, Serratia, Hafnia, Morganella"
+              },
+              {
+                "contenu23bb": "Céfotaxime : 2gx3/j\n+ Amikacine : 25-30 mg/kgx1/j"
+              },
+              {
+                "contenu23bbb": "- 07 jours (02 jours au maximum pour l’Amikacine)"
+              },
+              {
+                "contenu23bbbbb": ""
+              }
+            ]
+          },
+          {
+            "cellules23c": [
+              {
+                "contenu23cc": "Pseudomonas aeruginosa"
+              },
+              {
+                "contenu23ccc": "Ceftazidime IVSE : 2gx3/j (après une DC de 2g sur 1h)\n+ Amikacine : 25-30 mg/kgx1/j"
+              },
+              {
+                "contenu23cccc": "Ciprofloxacine : 400 mgx3/j\n+ Amikacine : 25-30 mg/kgx1/j"
+              },
+              {
+                "contenu23ccc": "10 jours (3-5 jours pour l’Amikacine)"
+              }
+            ]
+          }
+        ],
+        "page24": {
+            "titre24": "Références",
+            "paragraphe24": "ECN. PILLY 2020 (6ème édition), Maladies infectieuses et tropicales, Bactériémie et fongémie de l’adulte et de l’enfant, UE6 N°154, p119-124.\nPranita D. Tamma, Samuel L. Aitken, Robert A. Bonomo, Amy J. Mathers, David van Duin et al, Infectious Diseases Society of America Guidance on the Treatment of AmpC βlactamase-Producing Enterobacterales, Carbapenem-Resistant Acinetobacter baumannii, and Stenotrophomonas maltophilia Infections, version 2.0, Last updated March 30, 2022, and posted online at https://www.idsociety.org/practice-guideline/amr-guidance-2.0/.\nGuide d’antibiothérapie empirique chez l’adulte, version 5, Mai 2022, centre hospitalier universitaire Vaudois, Réf : SMPH_W_REC_00018 / Guide d’antibiothérapie empirique chez l’adulte."
+          }
+          
+      },
+
+
+      "page25":
+        {
+            "table": {
+              "headers": [ "","Critères majeurs", "Critères mineurs"],
+              "rows": [
+                {
+                    "title" :"Clinique",
+                  "Critères majeurs": "SOUFFLE CARDIAQUE
+                  (Nouveau souffle de régurgitation valvulaire)",
+                  "Critères mineurs": "*Antécédents de cardiopathie à risque d’EI\n*Toxicomanie IV\n*Fièvre > 38 C\n*Phénomènes immunologiques ou thrombo-emboliques cliniques"
+                },
+                { "title1" :"Biologique",
+                  "Critères majeurs": "*HEMOCULTURES POSITIVES
+                  2 hémocultures + avec bactéries responsables d’EI
+                  -SA, S. oraux, S. gallolyticus, bactéries du groupe HACEK
+                  Ou
+                  -Entérocoque d’origine communautaire sans foyer infectieux
+                  primitif
+                  Bactériémie prolongée avec bactéries susceptibles de causer EI
+                  (SCN, Pseudomonas aeruginosa, entérobactéries,
+                  -≥ 2 hémoc séparées de 12h
+                  Ou
+                  -3/3 hémoc + prélevées dans un intervalle d’au moins 1h
+                  Ou
+                  -La majorité s’il en est réalisé plus de 4, prélevées dans un
+                  intervalle d’au moins 1h entre la 1 ère et la dernière hémoculture
+                  2 hémoc + avec bactéries susceptibles de causer EI
+                  Bactériémie prolongée' avec bactéries susceptibles de causer EI",
+                  "Critères mineurs": "*HEMOCULTURES POSITIVES\n2 hémocultures + avec bactéries responsables d’EI\n-SA, S. oraux, S. gallolyticus, bactéries du groupe HACEK\nOu\n-Entérocoque d’origine communautaire sans foyer infectieux primitif\nBactériémie prolongée avec bactéries susceptibles de causer EI\n(SCN, Pseudomonas aeruginosa, entérobactéries,\n-≥ 2 hémoc séparées de 12h\nOu\n-3/3 hémoc + prélevées dans un intervalle d’au moins 1h\nOu\n-La majorité s’il en est réalisé plus de 4, prélevées dans un intervalle d’au moins 1h entre la 1ère et la dernière hémoculture\n2 hémoc + avec bactéries susceptibles de causer EI\nBactériémie prolongée\" avec bactéries susceptibles de causer EI\n*Hémocultures positives qui ne correspondent pas aux critères ci-dessus\n*Démonstration sérologique d’une infection évolutive due à un agent infectieux susceptible de causer une EI"
+                },
+                {
+                    "title2" :"Radiologique",
+                    
+                  "Critères majeurs": "*DEMONSTRATION DE L’ATTEINTE CARDIAQUE
+                  Végétation
+                  Abcès
+                  Désinsertion de prothèse partielle récente",
+                  "Critères mineurs": "*Aspect compatible avec une EI mais ne remplissant pas les conditions définies ci-dessus d'un critère majeur"
+                }
+              ]
+            }
+
+            {
+                "table001": {
+                  "headers0": ["Endocardite confirmée", "Endocardite probable"],
+                  "rows0": [
+                    {
+                      "Endocardite confirmée": "2 critères majeurs
+                      Ou
+                      1 critère majeur + 3 critères mineurs
+                      Ou
+                      5 critères mineur",
+                      "Endocardite probable": "1 critère majeur et 1critère mineur
+                      Ou
+                      3 critères mineurs",
+                    },
+                    
+                  ]
+                }
+              },
+            },
+        },
+        
+      
+      
+}

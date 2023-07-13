@@ -1,0 +1,421 @@
+{
+    "page13": {
+      "titre": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+      "Chap1": [
+        "Partie 1 :",
+        "Antibiothérapie curative par infection"
+      ]
+    },
+    "page14": {
+      "contenu": null
+    },
+    "page15": {
+      "titre15": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+      "contenu15": [
+        "Traitement initial des méningites bactériennes aiguës communautaires",
+        "Antibiothérapie",
+        "La mise en route de l’antibiothérapie est une urgence absolue dans l’heure qui suit l’arrivée à l’hôpital et au plus tard dans les 3 heures. L’antibiothérapie est probabiliste, d’abord adaptée par l’examen direct du LCR, puis optimisée avec les résultats de l’identification et de l’antibiogramme.",
+        "1) Traitement de première intention : Examen Direct et PCR négatifs"
+      ],
+      "tableau0": {
+        "titre0": "Tableau : Traitement initial des méningites bactériennes aiguës communautaires",
+        "colonnes0": [
+          { "titrea": "Situation clinique" },
+          { "titreb": "Antibiothérapie de 1ère intention" },
+          { "titrec": "Alternative si allergie aux bétalactamines" }
+        ],
+        "lignes": [
+          {
+            "cellules": [
+              { "contenua": "Pas d’arguments pour listériose" },
+              { "contenub": "Céfotaxime 300mg/kg/j en 4 perfusions ou continue ou Ceftriaxone 100mg/kg/j en 1 ou 2 perfusions + Gentamicine 5mg/kg en1 perfusion" },
+              { "contenuc": "Vancomycine 40-60 mg/kg/j + Rifampicine10mg/kg/12h" }
+            ]
+          },
+          {
+            "cellules": [
+              { "contenua": "Arguments pour listériose" },
+              { "contenub": "Céfotaxime 300mg/kg/j en 4 perfusions ou continue ou Ceftriaxone 100mg/kg/j en 1 ou 2 perfusions + Amoxicilline 200 mg/kg/j en 4 perfusions ou continue + Gentamicine 5mg/kg en 1 perfusion" },
+              { "contenuc": "Vancomycine 40-60 mg/kg/j + Rifampicine 10mg/kg/12h + triméthoprime - sulfaméthoxazole" }
+            ]
+          }
+        ]
+      },
+
+      
+        "tableau1": {
+          "titre1": "Tableau : Traitement de 1ère intention - Examen Direct LCS positif",
+          "colonnes1": [
+            { "titree": "Situation clinique" },
+            { "titref": "Antibiothérapie de 1ère intention" },
+            { "titreg": "Alternative" },
+            { "titleh": "Durée" }
+          ],
+          "lignes": [
+            {
+              "cellules": [
+                { "contenue": "CG + (pneumocoque)" },
+                { "contenuf": "Céfotaxime 300 mg/kg/j en 4 perfusions ou continue ou Ceftriaxone 100 mg/kg/j en 1 ou 2 perfusions" },
+                { "contenug": "Vancomycine 40-60 mg/kg/j + Rifampicine 10mg/kg/12h" },
+                { "contenuh": "10 – 14 j" }
+              ]
+            }
+          ]
+        }
+      },
+
+      
+        "page16": {
+          "titre16": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+          "tableau2": {
+            "titre2": "Tableau : Traitement de 1ère intention - Page 16",
+            "colonnes2": [
+              { "titreh": "Situation clinique" },
+              { "titrei": "Antibiothérapie de 1ère intention" },
+              { "titrej": "Alternative" },
+              { "titrek": "Durée" }
+            ],
+            "lignes02": [
+              {
+                "cellules02": [
+                  { "contenuh": "CG – (méningocoque)" },
+                  { "contenui": "Céfotaxime 200 mg/kg/j en 4 perfusions ou continue ou Ceftriaxone 75 mg/kg/j en 1 ou 2 perfusions" },
+                  { "contenuj": "Ciprofloxacine ou Rifampicine" },
+                  { "contenuk": "4 à 7 j" }
+                ]
+              },
+              {
+                "cellules": [
+                  { "contenul": "BG + (Listeria)" },
+                  { "contenum": "Amoxicilline 200 mg/kg/j en 4 perfusions ou continue + Gentamicine 5 mg/kg en 1 perfusion" },
+                  { "contenun": "Triméthoprime-sulfaméthoxazole" },
+                  { "contenuo": "21 j" }
+                ]
+              },
+              {
+                "cellules": [
+                  { "contenup": "BG – (H. influenzae)" },
+                  { "contenuq": "Céfotaxime 200 mg/kg/j en 4 perfusions ou continue ou Ceftriaxone 75 mg/kg/j en 1 ou 2 perfusions" },
+                  { "contenur": "Ciprofloxacine" },
+                  { "contenus": "7 j" }
+                ]
+              }
+            ]
+          },
+
+
+          
+         "references": [
+              "Prise en charge des méningites bactériennes aiguës communautaires (à l’exclusion du nouveau-né). SPILF 2017.",
+              "Hoen B, Varon E, Debroucker T, Fantin B, Grimprel E, Wolff M et Duval X. Management of acute community-acquired bacterial meningitis (excluding newborns). Short text. Med Mal Infect. 2019; 49(6) : 367-398."
+            ]
+          
+          
+        },
+
+        
+            "page17": {
+              "titre": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+              "contenu": [
+                "Bactériémies",
+                "• Définition : Une bactériémie est définie par la présence de bactéries viables dans le sang. Une bactériémie est généralement en rapport avec un foyer infectieux focal (pneumonie, pyélonéphrite…) ou une translocation de la flore digestive (lésion de la paroi colique, neutropénie PNN <500/mm3) ou un foyer endovasculaire (endocardite, thrombophlébite septique, infection d’une prothèse vasculaire).",
+                "• Diagnostic clinique :",
+                "Une bactériémie peut être asymptomatique ou symptomatique.",
+                "La symptomatologie comprend :",
+                "- Une fièvre ou une hypothermie  des frissons  des critères de sepsis.",
+                "- Des critères de sepsis sans fièvre",
+                "- Une fièvre isolée ou non chez un patient immunodéprimé ou porteur de matériel (prothèse valvulaire, pacemaker...)",
+                " Devant ces circonstances, il faut faire des hémocultures, rechercher une porte d’entrée et des localisations secondaires.",
+                "• Biologie : biomarqueurs inflammatoires (CRP, Procalcitonine) :",
+                "- Non spécifiques, valeur d’orientation uniquement. Une procalcitonine < 0,25 ng/ml rend peu probable l’existence d’une bactériémie.",
+                "• Diagnostic microbiologique :",
+                "Le diagnostic des bactériémies repose sur la positivité des hémocultures (HC).",
+                "Une bactériémie est certaine si :",
+                "- Une ou plusieurs HC sont positives à un ou plusieurs micro-organisme(s) pathogène(s) obligatoire(s).",
+                "- Plusieurs HC sont positives au même micro-organisme commensal cutané, si elles ont été prélevées lors de ponctions différentes en moins de 48 heures.",
+                "- Un rapport quantitatif des HC sur cathéter central (KTC) sur HC sur voie veineuse périphérique (VVP)  5 et/ou un délai différentiel de positivité des HC sur KTC par rapport à celles sur VVP  2H est en faveur d’une bactériémie liée au KTC.",
+                "N.B :",
+                "⬧ Une seule HC positive à des micro-organismes commensaux cutanés (SCN, Bacillus sp, Corynebacterium spp, …) correspond le plus souvent à une contamination lors du prélèvement.",
+                "⬧ Une négativité de toutes les HC réalisées indique soit l’absence de bactériémie soit une bactériémie non décelable (HC réalisée sous antibiotiques, bactéries intracellulaires, bactéries à croissance lente)."
+              ]
+            },
+                "page18_tableau": {
+                  "titre03": "1) Selon la porte d’entrée (PE) présumée (ED non disponible)",
+                  "colonnes": [
+                    {"nom1": "PE présumée / Agent cible"},
+                    {"nom2": "Antibiothérapie de 1ère intention"},
+                    {"nom3": "Alternative en cas d’allergie"}
+                  ],
+                  "lignes03": [
+                    {
+                      "cellules03": [
+                        {"contenu031": "Infections communautaires"},
+                        {"contenu032": "En cas de choc septique, associer un aminoside +++ pendant 1-3 jours : Gentamicine (7-8 mg/kg/j) en cas de bactérie GRAM+ suspectée et Amikacine (25-30 mg/kg/j) dans les autres cas\n(Sauf en cas de PE pulmonaire associer Lévofloxacine 500 mg x 2/j ou Clarithromycine 500 mg x 2/j)"},
+                        {"contenu033": ""}
+                      ]
+                    },
+                    {
+                      "cellules04": [
+                        {"contenu034": "Tube digestif Voies biliaires\n(Entérobactéries, anaérobies)"},
+                        {"contenu035": "Céfotaxime : 2g x 3 /j\nou Ceftriaxone : 2g x 1/j\n+ Métronidazole : 500 mg x 3/j"},
+                        {"contenu036": "Ciprofloxacine :\n400 mg x 2 /j\n+ Métronidazole : 500 mg x3/ j"}
+                      ]
+                    },
+                    {
+                      "cellules05": [
+                        {"contenu037": "Urinaire (Entérobactérie : E.coli)"},
+                        {"contenu038": "Céfotaxime : 2gx3 /j\nOu Ceftriaxone : 2gx1/j"},
+                        {"contenu039": "Ciprofloxacine :\n400 mg x 2 /j"}
+                      ]
+                    },
+                    {
+                      "cellules06": [
+                        {"contenu13": "Pulmonaire\n(Entérobactérie : K.pneumoniae)"},
+                        {"contenu12 ": "Céfotaxime : 2gx3 /j\nOu Ceftriaxone : 2gx1/j\nOu Amoxicilline-Acide clavulanique :\n1,2 – 2,2 g x 3 à 4 /j"},
+                        {"contenu14": "Lévofloxacine :\n500mgx1 /j\nou clarithromycine : 500mgx2 /j"}
+                      ]
+                    }
+                  ]
+                
+              },
+
+
+              
+
+              
+                "page19_tableau": {
+                  "titre": "PE présumée / Agent cible",
+                  "colonnes": [
+                    {"nom": "Antibiothérapie de 1ère intention"},
+                    {"nom": "Alternative en cas d’allergie"}
+                  ],
+                  "lignes": [
+                    {
+                      "cellules": [
+                        {"contenu": "Cutanée (Staphylococcus sp)"},
+                        {"contenu": "Amoxicilline-Acide clavulanique :\n1,2 – 2,2 g x 3 à 4/j\nSi choc septique :\nPipéracilline-tazobactam :\n4,5g x3/j\n+ Gentamicine 7-8 mg/kgx1/j\n± Vancomycine :\n30 - 40 mg/kg/j (si SARM connu)"}
+                      ]
+                    },
+                    {
+                      "cellules": [
+                        {"contenu": ""},
+                        {"contenu": "Céfazoline : 2gx3/j\nOu Vancomycine : 30 - 40 mg/kg/j\nSi choc septique :\nImipénème : 1gx 4/j\n+ Gentamicine 7-8 mg/kgx1/j\n± Vancomycine : 30 - 40 mg/kg/j (si SARM connu)\nOu Ciprofloxacine : 400 mgx3/j\n+ Gentamicine 7-8 mg/kgx1/j\n+ Vancomycine : 30 - 40 mg/kg/j"}
+                      ]
+                    },
+                    {
+                      "cellules": [
+                        {"contenu": "Pas de foyer infectieux présumé\n→ Urinaire, digestif ou biliaire par argument de fréquence"},
+                        {"contenu": "Céfotaxime : 2gx3 /j\nou Ceftriaxone : 2gx1 /j"}
+                      ]
+                    }
+                  ]
+                },
+                
+                  "page20": {
+                    "titre20": "2) Selon les résultats de l’examen direct (ED) :",
+                    "tableau20": {
+                      "colonnes20": [
+                        {
+                          "titrez": "Porte d’entrée présumée/Agent cible"
+                        },
+                        {
+                          "titrey": "Antibiothérapie de 1ère intention"
+                        },
+                        {
+                          "titrex": "Alternative"
+                        },
+                        {
+                          "titres": "Durée"
+                        }
+                      ],
+                      "lignes0r": [
+                        {
+                          "cellules0r": [
+                            {
+                              "contenu0r": "ED : Cocci Gram positifs en amas\nAu moins 1 item (SARM)"
+                            },
+                            {
+                              "contenu024": "Vancomycine\n(30-40 mg/kg/j)"
+                            },
+                            {
+                              "contenu025": "Linezolide\n600 mgx2/j\n→ ou TMP-SMX\n15-20 mg/kg/j de TMP en 3 à 4 prises par jour"
+                            },
+                            {
+                              "contenu": ""
+                            }
+                          ]
+                        },
+                        {
+                          "cellules032": [
+                            {
+                              "contenu011": "Staphylococcus Méti-S\nAucun des items précédents"
+                            },
+                            {
+                              "contenu014": "Cloxacilline (ou Oxacilline):\n2g / 4-6h\nAllergie à la pénicilline\n→ Céfazoline : 2gx3/j"
+                            },
+                            {
+                              "contenu012": "Vancomycine : 30 - 40 mg/kg/j\nAllergie aux bétalactamines"
+                            },
+                            {
+                              "contenu": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "tableau002": {
+                      "colonnes002": [
+                        {
+                          "titre0021": "Porte d’entrée présumée/Agent cible"
+                        },
+                        {
+                          "titre0022": "Antibiothérapie de 1ère intention"
+                        },
+                        {
+                          "titre0023": "Alternative"
+                        },
+                        {
+                          "titre0025": "Durée"
+                        }
+                      ],
+                      "lignes002": [
+                        {
+                          "cellules002": [
+                            {
+                              "contenu003": "ED : Cocci Gram positifs en chainettes\nEn cas de choc septique, associer la Gentamicine : 7-8 mg/kg x 1/j"
+                            },
+                            {
+                              "contenu004": "Amoxicilline\n1 à 2g /4-6 heures"
+                            },
+                            {
+                              "contenu005": "Allergie à la pénicilline\n→ Céfotaxime : 2gx3 /j\nCI aux bétalactamines ou origine uro-digestive\n→ Vancomycine : 30 - 40 mg/kg/j"
+                            },
+                            {
+                              "contenu006": ""
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "tableau": [
+                    {
+                      "Porte d’entrée présumée/Agent cible": "Infection nosocomiale à PE présumée :",
+                      "Antibiothérapie de 1ère intention": "Respiratoire",
+                      "Alternative": "Céfotaxime : 2gx3 /j",
+                      "Durée": ""
+                    },
+                    {
+                      "Porte d’entrée présumée/Agent cible": "Infection nosocomiale à PE présumée :",
+                      "Antibiothérapie de 1ère intention": "Allergie à la pénicilline",
+                      "Alternative": "Céfotaxime : 2gx3 /j\nCI aux bétalactamines ou origine uro-digestive\n→ Vancomycine : 30-40 mg/kg/j",
+                      "Durée": ""
+                    },
+                    {
+                      "Porte d’entrée présumée/Agent cible": "Digestive/Voies biliaires",
+                      "Antibiothérapie de 1ère intention": "Pipéracilline-Tazobactam : 4,5gx3/j (4,5 gx4/j si neutropénie)",
+                      "Alternative": "",
+                      "Durée": ""
+                    },
+                    {
+                      "Porte d’entrée présumée/Agent cible": "Prélèvement antérieur (<1an) positif à E.faecium",
+                      "Antibiothérapie de 1ère intention": "",
+                      "Alternative": "Vancomycine : 30-40 mg/kg/j\nLinezolide : 600 mg x2/j",
+                      "Durée": ""
+                    }
+                  ],
+                  "tableau21_2": {
+                    "titrees": [
+                      {
+                        "titrez": "ED : Bacilles Gram Négatif (BGN)"
+                      },
+                      {
+                        "titrey": "En cas de choc septique, associer l’Amikacine : 25-30 mg/kgx1/j"
+                      },
+                      {
+                        "titrex": "Infection communautaire à PE présumée"
+                      }
+                     
+                    ],
+                    "lignes20_2": [
+                      {
+                        "cellules20_2": [
+                          {
+                            "contenu20_2": "Digestive/voies biliaires\n(Entérobactéries+anaéro\nbie)"
+                          },
+                          {
+                            "contenu20_2": "Céfotaxime : 2gx3 /j ou\nCeftriaxone : 2g x1/j +\nMétronidazole :500 mgx3/j"
+                          },
+                          {
+                            "contenu20_2": "Ciprofloxacine : 400 mgx2/j\n+ Métronidazole : 500 mgx3/j"
+                          },
+                          {
+                            "contenu20_2": "Selon diagnostic final et évolution"
+                            
+                            
+                          }
+                        ]
+                      },
+                      {
+                        "cellules20_2": [
+                          {
+                            "contenu20_2": "Urinaire\n(Entérobactéries (E.coli, ..))"
+                          },
+                          {
+                            "contenu20_2": "Céfotaxime : 2gx3 /j ou\nCeftriaxone : 2g x1/j"
+                          },
+                          {
+                            "contenu20_2": "Ciprofloxacine : 400 mgx2/j"
+                          },
+                          {
+                            "contenu20_2": ""
+                          }
+                        ]
+                      },
+                      {
+                        "cellules20_2": [
+                          {
+                            "contenu20_2": "Pulmonaire\n(EB : Klebsiella pneumoniae)"
+                          },
+                          {
+                            "contenu20_2": "Céfotaxime : 2gx3 /j ou\nCeftriaxone : 2g x1/j"
+                          },
+                          {
+                            "contenu20_2": "Lévofloxacine : 500 mgx1/j\nou Clarithromycine : 500 mgx2/j"
+                          },
+                          {
+                            "contenu20_2": ""
+                          }
+                        ]
+                      },
+                      {
+                        "cellules20_2": [
+                          {
+                            "contenu20_2": "Pas de foyer présumé\n(urinaire, digestif, biliaire par argument de fréquence)"
+                          },
+                          {
+                            "contenu20_2": "Céfotaxime : 2gx3 /j ou\nCeftriaxone : 2g x1/j"
+                          },
+                          {
+                            "contenu20_2": ""
+                          },
+                          {
+                            "contenu20_2": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+
+
+                
+                
+          
+          
+      
+      
+      
+    
+  }
+  

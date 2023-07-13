@@ -1,0 +1,795 @@
+{
+    "page27":{
+        "h1":"2) Antibiothérapie Documentée
+        ",
+        "title": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "Situation": {
+            "titre":"Situation clinique selon la
+            bactérie, son niveau de
+            sensibilité et la nature de la
+            valve
+            ",
+            "contenu1":"Endocardite à streptocoques",
+            "contenu2":{
+                "header":"CMI Péni G < 0,125mg/l",
+                "head":{
+                
+                      "titre1":"Non compliquée Sur valve native ",
+                      "Titrecolonne" : "Antibiothérapie de 1ère intention ",
+                      "Molécule":"Ampicilline
+                      ou Ceftriaxone
+                      +/- Gentamicine",
+                      "Posologie" :"100mg/kg/j
+                      2g/j
+                      3mg/kg/j
+                      ",
+
+                      "Titrecolonne1" : "Alternative ",
+                      "Molécule":"Vancomycine
+                      (en cas
+                      d’allergie aux
+                      béta-lactamines)",
+                      "Posologie" :"30-
+                      40mg/kg/j
+                      ",
+                        "Durée": "2 semaines de
+                        bithérapie ou 4
+                        semaines de
+                        monothérapie",
+
+                    
+                },
+
+                "head2":{
+                
+                    "titre2":"Compliquée
+                    et/ou sur
+                    Valve
+                    prothétique
+                    (Prothèse)
+                     ",
+                    "Titrecolonne0" : "Antibiothérapie de 1ère intention ",
+                    "Molécule":"Ampicilline
+                    ou Ceftriaxone
+                    +/- Gentamicine",
+                    
+                    "Posologie" :"100mg/kg/j
+                    2g/j
+                    3mg/kg/j
+                    ",
+
+                    "Titrecolonne01" : "Alternative ",
+                    "Molécule":"Vancomycine
+                    (en cas
+                    d’allergie aux
+                    béta-lactamines)
+                    + Gentamicine
+                    ",
+                    "Posologie" :"30-
+                    40mg/kg/j
+                    3mg/kg/j
+                    ",
+                      "Durée": "4 semaines
+                      dont les 2
+                      premières de
+                      bithérapie ou 6
+                      semaines de
+                      monothérapie",
+                      
+                  
+              }
+                
+                
+                
+                
+                
+            },
+
+
+            "contenu3":{
+                "header2":"CMI Péni G > 0,125 mg/l",
+                "head":{
+                
+                      "titre1":"Sur Valve native ",
+
+                      "Titrecolonne01" : "Antibiothérapie de 1ère intention ",
+                      "Moléculea":"Ampicilline
+                      ou Ceftriaxone
+                      + Gentamicine ",
+                      "Posologiea" :"200mg/kg/j
+                      2g/j
+                      3mg/kg/j
+                      
+                      ",
+
+                      "Titrecolonne02" : "Alternative ",
+                      "Moléculeb":"Vancomycine
+                      (en cas
+                      d’allergie aux
+                      béta-lactamines)",
+                      "Posologieb" :"30-
+                      40mg/kg/j
+                      3mg/kg/j
+                      ",
+                        "Durée": "4 semaines :
+                        bithérapie
+                        pendant 2
+                        semaines puis
+                        monothérapie",
+
+                    
+                },
+
+                "head02":{
+                
+                    "titre02":"Sur Valve
+                    prothétique
+                     ",
+                    "Titrecolonne0" : "Antibiothérapie de 1ère intention ",
+                    "Moléculeab":"Ampicilline
+                    ou Ceftriaxone
+                    + Gentamicine",
+                    
+                    "Posologieab" :"200mg/kg/j
+                    2g x 2/j
+                    3mg/kg/j
+                    
+                    ",
+
+                    "Titrecolonneab" : "Alternative ",
+                    "Molécule":"Vancomycine
+                    (en cas
+                    d’allergie aux
+                    béta-lactamines)
+                    + Gentamicine
+                    ",
+                    "Posologie" :"30-
+                    40mg/kg/j
+                    3mg/kg/jj
+                    ",
+                      
+                                },
+
+                     "Durée": "6 semaines :
+                      bithérapie
+                      pendant 2
+                      semaines puis
+                      monothérapie",
+                      
+                
+                
+                
+                
+                
+            }
+        }
+    }
+},
+
+
+
+ {
+    "page28": {
+        "titre28":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+               ",
+       "TitreColonneS":"Situation clinique selon la
+       bactérie, son niveau de
+       sensibilité et la nature de la
+       valve",
+       "sit1":"Endocardites à entérocoques",
+       "sit2":{
+           "nom":"E. faecalis",
+           "sit2.1": {
+               "titre2.1" :"De bas niveau de résistance à la Gentamicine",
+               "Valve1":{
+                   "nomV":"Valve native",
+                   "c1": {
+                       "NomcolonneVN":"Antibiothérapie de 1ère
+                   intention
+                   ",
+                   "MoléculeVN1":" Ampicilline
+                   + Gentamicine
+                   ",
+                   "Posologie1":"200mg/kg/j
+                   3mg/kg/j",
+                  
+       
+                   },
+                   "Durée1":"4 semaines : 2
+                   de bithérapie
+                   puis 2 de
+                   monothérapie",
+       
+                   "c2": {
+                       "NomcolonneVN":"Alternative ",
+                   "MoléculeVN2":"Vancomycine
+                   (en cas
+                   d’allergie aux
+                   béta-lactamines)
+                   + Gentamicine
+                   ",
+                   "Posologie2":"30-
+                   40mg/kg/j
+                   3mg/kg/j
+                   ",
+                  
+       
+                   },
+                   "Durée2":"4 à 6 semaines
+                   dont au moins
+                   2 semaines de
+                   bithérapie",
+                   
+                   
+       
+               },
+       
+               "Valve2":{
+                   "nomVP":"Valve
+                   prothétique",
+                   "c1": {
+                       "NomcolonneVP":"Antibiothérapie de 1ère
+                   intention
+                   ",
+                   "MoléculeVP1":" Ampicilline
+                   + Gentamicine
+                   ",
+                   "PosologieVP":"200mg/kg/j
+                   3mg/kg/j",
+                   
+                   },
+                   "DuréeVP":"6 semaines : 2
+                   de bithérapie
+                   puis 4 de
+                   monothérapie",
+       
+       
+                   "c2": {
+                       "NomcolonneVP":"Alternative ",
+                   "MoléculeVP2":"Vancomycine
+                   (en cas
+                   d’allergie aux
+                   béta-lactamines)
+                   + Gentamicine
+                   ",
+                   "PosologieVP2":"30-
+                   40mg/kg/j
+                   3mg/kg/j
+                   ",
+                   
+                   },
+                   "DuréeVP2":"6 semaines
+                   dont au moins
+                   2 semaines de
+                   bithérapie",
+       
+                   
+                   
+       
+               }
+           },
+       
+           "sit2.2":{
+               "titre": "De haut
+               niveau de
+               résistance à la
+               Gentamicine
+               ou
+               insuffisance
+               rénale",
+               "c111": {
+                   "NomcolonneS2":"Antibiothérapie de 1ère
+               intention
+               ",
+               "MoléculeS1":" Ampicilline
+               + Ceftriaxone
+               ",
+               "PosologieS2":"200mg/kg/j
+               2gx2/j",
+               
+       
+               },
+       
+               "DuréeVP":"200mg/kg/j
+               2gx2/j",
+       
+               "c2": {
+                   "NomcolonneVP":"Alternative ",
+               "MoléculeS22":null,
+               "PosologieS22":null,
+       
+       
+           }
+       
+       },
+       "sit3":{
+           "titre33":"E. faecium et
+           autres espèces
+           d’entérocoques",
+           "contenu":"Mêmes schémas thérapeutiques à l’exclusion de l’association Ampicilline +
+           Ceftriaxone (qui ne doit pas être utilisée)",
+       
+       },
+       
+       
+           
+       
+       
+       
+       
+           }
+       },
+ },
+{
+    "page29":{
+        "title":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "TitreColonneS2":"Situation clinique selon la
+        bactérie, son niveau de
+        sensibilité et la nature de la
+        valve",
+        "sit01":"Endocardites du cœur gauche à staphylocoques",
+        "sit02":{
+            "sit2.1": {
+                "Valve1":{
+                    "nomV01":"Valve native",
+                    "l1":{
+                        "TL":"SASM",
+                        "c1": {
+                            "NomcolonneVN01":"Antibiothérapie de 1ère
+                        intention
+                        ",
+                        "MoléculeVN01":" Ampicilline",
+                        "Posologie1":"200mg/kg/j
+                        en 4 à 6
+                        injections
+                        ou IVSE",
+                       
+            
+                        },
+                                    
+                        "c2": {
+                            "NomcolonneVN01":"Alternative ",
+                        "MoléculeVN02":"Vancomycine
+                        (en cas
+                        d’allergie aux
+                        béta-lactamines)
+                        + Gentamicine
+                        ",
+                        "Posologie2":"30-
+                        40mg/kg/j
+                        en IVSE
+                        ",
+                       
+            
+                        },
+                        "Durée2":"4 semaines
+                        monothérapie,
+                        quel que soit
+                        l’antibiotique
+                        utilisé
+                        ",
+
+
+
+
+
+
+
+
+                    },
+                 "l2":{
+                        "TL1":"SARM",
+                        "c001": {
+                            "NomcolonneVN001":"Antibiothérapie de 1ère
+                        intention
+                        ",
+                        "MoléculeVN01":" Vancomycine",
+                        "Posologie001":"30-
+                        40mg/kg/j
+                        en IVSE
+                        ",
+                       
+            
+                        },
+                                    
+                        "c002": {
+                            "NomcolonneVN01":"Alternative ",
+                        "MoléculeVN02":"Vancomycine
+                        (en cas
+                        d’allergie aux
+                        béta-lactamines)
+                        + Gentamicine
+                        ",
+                        "Posologie2":"30-
+                        40mg/kg/j
+                        en IVSE
+                        ",
+                       
+            
+                        },
+                        "Durée2":"4 semaines
+                        monothérapie,
+                        quel que soit
+                        l’antibiotique
+                        utilisé
+                        ",
+
+
+
+
+
+                        
+
+
+                    },
+                    
+                    
+        
+                },
+        
+                "Valve02":{
+                    "nomVP1":"Valve prothéti
+                    que
+                    ",
+                    "l01":{
+                        "TL1":"SASM",
+                        "c001": {
+                            "NomcolonneVP1":"Antibiothérapie de 1ère
+                        intention
+                        ",
+                        "MoléculeVP01":"Ampicilline
+                        + Gentamicine
+                        + Rifampicine",
+                        "Posologie1":"200mg/kg/j
+                        en 4 à 6
+                        injections
+                        ou IVSE
+                        3mg/kg/j IV
+                        en PU
+                        15mg/kg/j
+                        IV ou PO
+                        en 1 à 2
+                        prises
+                        ",
+                       
+            
+                        },
+                                    
+                        "c002": {
+                            "NomcolonneVP01":"Alternative ",
+                        "MoléculeVN02":"Vancomycine
+                        + Gentamicine
+                        + Rifampicine
+                        ",
+                        "Posologie2":"30-
+                        40mg/kg/j
+                        en IVSE
+                        3mg/kg/j
+                        IV en 1
+                        prise
+                        15mg/kg/j
+                        IV ou PO
+                        en 1 à 2
+                        prises
+                        ",
+                       
+            
+                        },
+                        "Durée2":"6 semaines
+                        2 semaines de
+                        triple
+                        antibiothérapie
+                        : bétalactamine antistaph,
+                        gentamicine et
+                        rifampicine à
+                        débuter 3à 5
+                        jours du TTT
+                        (ou
+                        vancomycine),
+                        gentamicine,
+                        rifampicine)
+                        PUIS 4
+                        semaines de
+                        bithérapie
+                        (arrêt de la
+                        gentamicine)
+                        ",
+
+
+
+
+
+
+
+
+                    },
+                 "l02":{
+                        "TLb1":"SARM",
+                        "c001": {
+                            "NomcolonneVP001":"Antibiothérapie de 1ère
+                        intention
+                        ",
+                        "MoléculeVN01":" Vancomycine
+                        + Gentamicine
+                        + Rifampicine",
+                        "Posologie001":"30-
+                        40mg/kg/j
+                        en IVSE
+                        3mg/kg/j IV
+                        en 1 prise
+                        15mg/kg/j
+                        IV ou PO
+                        en 1 à 2
+                        prises
+                        
+                        ",
+                       
+            
+                        },
+                                    
+                        "ca002": {
+                            "NomcolonneVP01":"Alternative ",
+                        "MoléculeVN02":null,
+                        
+                        "Posologie2":null,
+                       
+            
+                        },
+                                    
+
+
+                    },
+                },
+            }
+        },
+
+        "Reference":{
+            "titleRef":"Références:",
+            "ContentRef" :"  
+            - Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta J-P, Del Zotti F, et al. 2015
+            ESC Guidelines for the management of infective endocarditis: The Task Force for the
+            Management of Infective Endocarditis of the European Society of Cardiology ",
+
+        },
+        
+        
+    },
+
+
+
+},
+
+    
+    {
+        "page30":{
+            "TitlePage30":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+            ",
+            "contentRefp2":"(ESC)Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the
+            European Association of Nuclear Medicine (EANM). European Heart Journal.
+            2015;36(44):3075-128.
+            - Recommandations de la SPILF pour des durées optimisées des traitements antibiotiques.
+            SPILF 2021",
+
+        },
+    },
+
+
+
+    {
+        "page31":{
+            "TitlePage31":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+            ",
+            "TitleContentP31":"Infections respiratoires basses et pneumopathies
+            ",
+            "contentP31":"Le principal agent pathogène impliqué dans les pneumonies aiguës communautaires est le
+            pneumocoque (Streptococcus pneumoniae).
+            En cas de pneumonie aiguë communautaire survenant dans un contexte grippal, les bactéries à
+            prendre en compte étant S.pneumoniae, Staphylococcus aureus, Haemophilus influenzae et les
+            streptocoques du groupe A. Les bactéries « atypiques » semblent ne jouer aucun rôle dans ce
+            contexte.
+            La bronchopneumopathie chronique obstructive (BPCO) est une maladie chronique
+            inflammatoire des bronches, lentement progressive, caractérisée par une diminution non
+            complètement réversible des débits aériens. Seules certaines exacerbations de BPCO sont
+            d’origine bactérienne, et justifient alors une antibiothérapie pendant 7 à 14 jours en se basant sur
+            les critères suivants :
+            - dyspnée d’effort en dehors de toute exacerbation et expectoration franchement purulente
+            verdâtre;
+            - dyspnée au moindre effort ou dyspnée de repos en dehors de toute exacerbation.
+            Les facteurs de risque de bactéries multi-résistantes (BMR) :
+            - Antibiothérapie dans les 90 jours
+            - Hospitalisation récente
+            - Dialyse chronique
+            - Immunodéprimé",
+
+        },
+    },
+
+    {
+        "page32":{
+            "Figure1":"Figure 1 : Prise en charge en ambulatoire ou à l'hopital des pneumonies communautaires",
+            "Pneumonie Communautaire":{
+                "Key":"Pneumonie Communautaire, Hospitalisation recommandée",
+                "content":"Recherche de signes de gravité :
+                - atteinte des fonctions supérieures (altération de la conscience),
+                - atteinte des fonctions vitales :
+                PA systolique < 90 mmHg, fréquence cardiaque > 120 /min, fréquence respiratoire > 30 / min
+                - température < 35°C ou 2 40°C
+                - néoplasie associée (cancer actif ou diagnostiqué dans l'année, autre que baso-cellulaire),
+                - pneumonie d'inhalation ou sur obstacle trachéo-bronchique connu ou suspecté.
+                ou de situations particulières :
+                - complication de la pneumonie (notamment suspicion d'épanchement pleural ou
+                d'abcédation)
+                - conditions socio-économiques défavorables
+                -inobservance thérapeutique prévisible
+                - isolement social, notamment chez les personnes âgées",
+            },
+
+            "Pneumonie Communautaire":{
+                "Key01":"Non , Pneumonie Communautaire, Hospitalisation recommandée",
+                "content01":"Recherche de facteurs de risque de mortalité :
+                - âge > 65 ans
+                - insuffisance cardiaque congestive,
+                - maladie cérébro-vasculaire (antécédents d'accident vasculaire cérébral ou ischémique transitoire).
+                - maladie rénale (insuffisance rénale chronique ou élévation de la créatininémie),
+                - maladie hépatique (cirrhose hépatique ou autre hépatopathie chronique),
+                - BPCO,
+                - immunodépression (corticothérapie par voie générale ou traitement immunosuppresseur dans les 6 mois, splénectomie, chimiothérapie dans les 6 mois, SIDA, cachexie
+                - drépanocytose homozygote.
+                - antécédent de pneumonie bactérienne.
+                - hospitalisation dans l'année,
+                - vie en institution.",
+                "Prise en charge":"Prise en charge généralement ambulatoire , âge $ 65 ans et deux facteurs de risque
+                ou
+                - âge > 65 ans sans facteur de risque
+                ",
+                "Hospitalisation":"Hospitalisation recommandée ,âge $ 65 ans et deux facteurs de risque
+                ou
+                - âge > 65 ans et au moins un facteur de risque",
+            },
+
+            "note32":"Agence Française de Sécurité Sanitaire des Produits de Santé
+            Juillet 2010",
+        },
+    },
+},
+
+
+{
+    "page33":{
+        "title33":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "title33.1":"1) Antibiothérapie probabiliste des Pneumonies Aiguës Communautaires non
+        graves, hospitalisées",
+        "soustitre":"a) Pneumonies hors contexte grippal",
+    
+            "tableauP33": [
+              {
+                "Situation clinique": "Sujets jeunes sans comorbidité",
+                "Antibiothérapie de 1ère intention": "Amoxicilline : 1g x 3/j PO ou IV",
+                "Alternative": "Ajouter un macrolide ou substituer par Pristinamycine : 1gx3/j",
+                "Durée": "5-7 jours"
+              },
+              {
+                "Situation clinique": "Sujets âgés ou comorbidité",
+                "Antibiothérapie de 1ère intention": "Amoxicilline-Acide clavulanique : 1g x 3/j PO ou IV",
+                "Alternative": "Ajouter un macrolide ou substituer par Lévofloxacine 500mg x1 à 2/j (selon le poids)",
+                "Durée": "7 jours"
+              },
+              {
+                "Situation clinique": "Légionellose",
+                "Antibiothérapie de 1ère intention": "Azithromycine 500mg x 1/j",
+                "Alternative": "Clarithromycine : 500mg x 2/j PO\nSpiramycine : 3MUI x 3/j PO\nErythromycine : 1g x 3/j PO",
+                "Durée": "5 jours (pour l'azithromycine)\n8-14 jours (pour les autres macrolides)"
+              }
+            ],
+            "soustitreb":"b) Pneumonies dans un contexte grippal
+            ",
+            {
+                "tableaub": [
+                  {
+                    "Situation clinique": "Sujets jeunes sans comorbidité",
+                    "Antibiothérapie de 1ère intention": "Amoxicilline : 1g x 3/j PO ou IV",
+                    "Alternative": "Pristinamycine : 1gx3/j",
+                    "Durée": "7 jours"
+                  },
+                  {
+                    "Situation clinique": "Sujets âgés ou comorbidité",
+                    "Antibiothérapie de 1ère intention": "Amoxicilline-Acide clavulanique : 1g x 3/j PO ou IV\nOuCéfotaxime : 1 à 2g x3/j IV\nOuCeftriaxone : 1 à 2g x 1/j IV,IM",
+                    "Alternative": "Lévofloxacine 500mg x1 à 2x/j (selon le poids)",
+                    "Durée": "7 jours"
+                  }
+                ],
+              
+              
+
+          
+          
+    },
+
+
+},
+
+{
+    "page34":{
+        "title34":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titre34":"Antibiothérapie probabiliste des Pneumonies Aiguës Communautaires (PAC)
+        graves (Unité de Soins Intensifs ou réanimation)
+        ",
+        "soustitre34":"a) Pneumonies hors contexte grippal
+        ",
+
+        
+            "tableau34": [
+              {
+                "Situation clinique": "Sujets jeunes, sujets âgés, sujets avec comorbidité",
+                "Antibiothérapie de 1ère intention": "Céfotaxime : 1 à 2g x3/j IV\nOuCeftriaxone : 1 à 2g x 1/j IV,IM\n+ Macrolides IV",
+                "Alternative": "Céfotaxime : 1 à 2g x3/j IV\nOuCeftriaxone : 1 à 2g x 1/j IV,IM\n+ Lévofloxacine 500mg x1 /j IV",
+                "Durée": "7 jours"
+              },
+              {
+                "Situation clinique": "Tous sujets si suspicion P.aeruginosa",
+                "Antibiothérapie de 1ère intention": "Piperacilline-Tazobactam : 4g x 3/j\n+ Amikacine : 15 à 30 mg/Kg/j\n+Macrolide IV",
+                "Alternative": "Piperacilline-Tazobactam : 4g x 3/j\n+ Ciprofloxacine : 400mg x 2 à 3/j\nImipénème : 1g x 3/j\n+ Amikacine : 15 à 30 mg/Kg/j\n+ Macrolide ou Ciprofloxacine",
+                "Durée": "7-14 jours"
+              },
+              {
+                "Situation clinique": "Aminoside <3j",
+                "Antibiothérapie de 1ère intention": null,
+                "Alternative": null,
+                "Durée": null
+              },
+              {
+                "Situation clinique": "Légionellose",
+                "Antibiothérapie de 1ère intention": "Lévofloxacine : 500mg x 2/j IV puis PO\n+ Spiramycine : 3MUI x 3/j IV puis PO\nOu Azithromycine : 500mg/j",
+                "Alternative": "Autre association de 2 molécules au sein de 3 familles :\n- Fluroquinolone IV :\nLévofloxacine : 500 mg x 2/j\nOfloxacine : 800 mg en 2-3 perf./j\nCiprofloxacine : 400 mg x 3/j\n- Macrolide IV :\nSpiramycine : 3MUI x 3/j\nErythromycine : 1 g x 3-4/j\n- Rifampicine IV : 2 x 10 mg/kg/j",
+                "Durée": "21 jours\n10 jours pour l'azithromycine"
+              }
+            ]
+          
+          
+    },
+},
+{
+    "page35":{
+        "title35":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "soustitres":"b) Pneumonies contexte grippal
+        ",
+       "tableau35":[
+        {
+          "Situation clinique": "Cas général",
+          "Antibiothérapie de 1ère intention": "Céfotaxime : 1 à 2g x3/j\n+/- Macrolide IV",
+          "Alternative": "Céfotaxime : 1 à 2g x3/j\n+/- Lévofloxacine : 500 mg x1/j",
+          "Durée": "7j"
+        },
+        {
+          "Situation clinique": "Pneumonie gravissime, Pneumonie nécrosante",
+          "Antibiothérapie de 1ère intention": "Céfotaxime : 1-2 g x 3/j\n+ Glycopeptide\n+ Clindamycine : 600 mg x 3/j ou\nRifampicine : 20 mg /kg/j",
+          "Alternative": "Céfotaxime : 2g x3/j\n+ Linézolide : 600mg x2/j IV",
+          "Durée": "7-14j"
+        },
+        {
+          "Situation clinique": "Abcès du poumon (+/- drainage chirurgical)",
+          "Antibiothérapie de 1ère intention": "Amoxicilline + Ac. clavulanique : 1g x 3/j\n+/- Aminoside IV",
+          "Alternative": "Cefotaxime : 2g x 3/j\n+ Métronidazole : 500 mg x 3/j\nOu Piperacilline-tazobactam : 4 g x 4/j\nOu Lévofloxacine : 500 mg x 2/j IV\n+ Métronidazole : 500 mg x 3/j\n+/- Aminoside (si sepsis)",
+          "Durée": "Usuellement de 4 à 6 semaines\n(Aminoside <3 j)\n(Durée très variable selon la présentation clinique initiale)"
+        },
+        {
+          "Situation clinique": "Pleurésie purulente",
+          "Antibiothérapie de 1ère intention": "Idem abcès du poumon (drainage ++++)",
+          "Alternative": "",
+          "Durée": "3 à 4 semaines",
+        },
+        {
+          "Situation clinique": "Pneumopathie d’inhalation",
+          "Antibiothérapie de 1ère intention": "Amoxicilline + Ac. clavulanique : 1g x 3/j\nCefotaxime : 1g x3 /j\n+ Métronidazole : 500 mg x 3/j",
+          "Alternative": "",
+          "Durée": "5-7j"
+        }
+      ],
+      
+
+    },
+},

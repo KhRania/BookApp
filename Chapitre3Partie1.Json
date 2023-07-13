@@ -1,0 +1,453 @@
+{
+    "TitreChapitre3":"Antibiotiques et antifongiques",
+    
+        "page85" :{
+            "titlepage85": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+            
+        },
+        "page86" :{
+            "titlepage86": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+            
+            "titrepage86":" Guide des posologies des antibiotiques disponibles au CHU Sahloul (Adultes)",
+            
+            "tableaup86":{
+                [
+                                    
+                    "PENICILLINES":{
+                        "DCI ": "Benzylpénicilline (Pénicilline G)",
+                        "Forme et dosage":"1 MUI 5MUI Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "12 MUI à 24 MUI/j en 6 injections ou en administration continue",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH"
+                
+                },
+                ],
+
+                [
+                    "PENICILLINES":{
+                        "DCI ": "Benzathine benzylpénicilline",
+                        "Forme et dosage":"1200.000 UI Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1,2 MUI à 2,4 MUI x1/semaine",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "PENICILLINES":{
+                        "DCI ": "",
+                        "Forme et dosage":"",
+                         "Posologie usuelle (adultes) " : "",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non"
+    
+                         },
+                         "Disponibilité": "NH"
+                    }
+                ],
+                [
+                    "PENICILLINES":{
+                        "DCI ": "Oxacilline",
+                        "Forme et dosage":"1g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "100 à 200 mg/Kg/j en 4 à 6 injections ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "PENICILLINES":{
+                        "DCI ": "Amoxicilline",
+                        "Forme et dosage":"500 mg Comprimés/ gélules",
+                         "Posologie usuelle (adultes) " : "1g à 2g toutes les 8 heures ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "PENICILLINES":{
+                        "DCI ": "Amoxicilline + Ac. clavulanique",
+                        "Forme et dosage":"2g/200mg 1g/200mg Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g à 2g toutes les 8 heures en amoxicilline En cas d’utilisation de posologie d’amoxicilline plus élevées, l’administration d’amoxicilline seule peut être réalisée. (doses max d’Ac clavulanique = 200mg/injection et 1200 mg/j).",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+
+ 
+              "notetableau86":"NH : Nomenclature Hospitalière, UI : Unité Internationale, MUI : Million d’Unités Internationales
+              ",
+
+            }
+        },
+
+
+        "page87" :{
+            "titlepage87": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+            ",
+            "tableaupage87":{
+                [
+                    "PENICILLINES":{
+                        "DCI ": "Pipéracilline",
+                        "Forme et dosage":"2g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "4g toutes les 6 à 8h",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "PENICILLINES":{
+                        "DCI ": "",
+                        "Forme et dosage":"",
+                         "Posologie usuelle (adultes) " : "",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "PENICILLINES":{
+                        "DCI ": "Pipéracilline + Tazobactam",
+                        "Forme et dosage":"2 g/0,25 g 4 g/0,5 g, Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "4g toutes les 6 à 8h",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CEPHALOSPORINES":{
+                        "DCI ": "Céfazoline",
+                        "Forme et dosage":"1g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "60 à 100 mg/Kg/j en 3 à 6 injections IVL ou IVSE",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CEPHALOSPORINES":{
+                        "DCI ": "Céfotaxime",
+                        "Forme et dosage":" 500 mg 1g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "Posologie standard : 1 à 2g toutes les 8h Posologie élevée : 100 à 150 mg/Kg/j (infections ostéo-articulaire) ou 200 à 300 mg/Kg/j (infections méningées) en 4 à 6 injections",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CEPHALOSPORINES":{
+                        "DCI ": "Ceftriaxone",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "Infection modérée : 1 à 2g toutes les 24h Infection sévère : 2 à 4g/j Infection neuroméningée : 75-100mg/Kg/j en 1 à 2",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+
+                [
+                    "CEPHALOSPORINES":{
+                        "DCI ": "Ceftazidime",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "2g toutes les 8h ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+            }
+
+        },
+        "page88" :{
+            "titlepage88": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+            ",
+            
+            "tableaup88":{
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Ertapénème",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g/j ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Imipénème + cilastatine",
+                        "Forme et dosage":"500 mg/500mg Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "Posologie standard : 500 mg/500 mg toutes les 6 heures 1g toutes les 8h",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Méropénème",
+                        "Forme et dosage":"1g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1 à 2g toutes les 8h Des posologies allant à 6g/j peuvent être envisagées.",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "AMINOSIDES":{
+                        "DCI ": "Amikacine",
+                        "Forme et dosage":"500 mg AMPI",
+                         "Posologie usuelle (adultes) " : "15 à 30 mg/kg/jour en une seule injection par jour",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "AMINOSIDES":{
+                        "DCI ": "Gentamicine",
+                        "Forme et dosage":"80 mg AMPI",
+                         "Posologie usuelle (adultes) " : "3 à 8 mg/kg/jour en une seule injection par jour",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "QUINOLONES":{
+                        "DCI ": "Ofloxacine",
+                        "Forme et dosage":"200 mg Poudre pour solution injectable/ comprimés",
+                         "Posologie usuelle (adultes) " : "200 mg toutes les 12h (400 mg/j) 200 mg toutes les 8h (600mg/j) pour les infections sévères",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "QUINOLONES":{
+                        "DCI ": "Ciprofloxacine",
+                        "Forme et dosage":"200 mg Poudre pour solution injectable 500 mg comprimés",
+                         "Posologie usuelle (adultes) " : "IV : 400 mg toutes les 8 à 12h PO : 500 mg à 750 mg toutes les 12h",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    },
+                ]
+                "notepage88":"NH : Nomenclature Hospitalières
+                ",
+            },
+
+                },
+            
+        
+
+            
+        "page89" :{
+            "titlepage89": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+            ",
+            "tableaup88":{
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Ertapénème",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g/j ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Ertapénème",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g/j ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Ertapénème",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g/j ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Ertapénème",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g/j ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "CARBAPENEMES":{
+                        "DCI ": "Ertapénème",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g/j ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+            },
+
+        },
+        "page90" :{
+            "titlepage90": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+            ",
+            "tableaup90":{
+                [
+                    "NITROIMIDAZOLES":{
+                        "DCI ": "Métronidazole",
+                        "Forme et dosage":"250mg Comprimés 500mg Comprimés 500mg solution injectable",
+                         "Posologie usuelle (adultes) " : "1 à 1,5 g par jour en 2 à 3 prises  ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "MACROLIDES":{
+                        "DCI ": "Spiramycine",
+                        "Forme et dosage":"1500 UI Comprimés 3000 UI Comprimés",
+                         "Posologie usuelle (adultes) " : "PO : 3 MUI toutes les 8h à 12h ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         "Disponibilité": "NH",
+                    }
+                ],
+                [
+                    "MACROLIDES":{
+                        "DCI ": "Erythromycine",
+                        "Forme et dosage":"1 g Poudre pour solution injectable",
+                         "Posologie usuelle (adultes) " : "1g toutes les 12h. La posologie peut atteindre 3 à 4 g/j dans les infections sévères ",
+                         "Adaptation posologique" : {
+                            "IR": "Oui",
+                            "IH" : "Non",
+    
+                         },
+                         [
+                            "LINCOSAMIDES":{
+                                "DCI ": "Clindamycine",
+                                "Forme et dosage":"600 mg Solution injectable",
+                                 "Posologie usuelle (adultes) " : "600 à 2400mg/24h en 2, 3 ou 4 administrations ",
+                                 "Adaptation posologique" : {
+                                    "IR": "Oui",
+                                    "IH" : "Non",
+            
+                                 },
+                                 "Disponibilité": "NH",
+                            }
+                        ],
+                        [
+                            "SYNERGISTINES":{
+                                "DCI ": "Pristinamycine",
+                                "Forme et dosage":"",
+                                 "Posologie usuelle (adultes) " : "1g toutes les 8h à 12h Infections sévères : 4g par jour ",
+                                 "Adaptation posologique" : {
+                                    "IR": "Oui",
+                                    "IH" : "Non",
+            
+                                 },
+                                 "Disponibilité": "NH",
+                            }
+                        ],
+
+                         "Disponibilité": "NH",
+                    }
+                ],
+            }
+        },
+       
+}
