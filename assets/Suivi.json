@@ -1,0 +1,270 @@
+{
+  "titre": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+  "page9": {
+    "titre0": "Suivi Thérapeutique Pharmacologique (STP) des antibiotiques",
+    "paragraphes0": [
+      "Le suivi thérapeutique des médicaments (Therapeutic Drug Monitoring, TDM), par la mesure des concentrations sanguines, représente un moyen d’augmenter l’efficacité et la sécurité des traitements, en ajustant les posologies, pour optimiser l’exposition au médicament circulant.",
+      "Pour les antibiotiques, la mesure des concentrations sanguines des antibiotiques doit tenir compte des caractéristiques pharmacocinétiques du patient et des caractéristiques pharmacodynamiques des bactéries incriminées dans les infections et représente un moyen pour améliorer l’efficacité et la tolérance des antibiotiques et diminuer l’émergence des nouvelles résistances.",
+      "Indications :",
+      "- Non-réponse clinique et persistance de l’infection malgré un choix approprié du traitement",
+      "- Signes compatibles avec une toxicité médicamenteuse",
+      "- Situations à risque de sous- ou surdosage :",
+      "  o Altération de la fonction rénale et/ou hépatique",
+      "  o Infections sévères/choc septique/brûlés (situations caractérisées par une modification des paramètres pharmacocinétiques des antibiotiques)",
+      "  o Suspicion d’interactions médicamenteuses/incompatibilités responsables de modification des concentrations plasmatiques de l’antibiotique",
+      "  o Diminution de la biodisponibilité digestive ou doute sur la compliance",
+      "  o Infections à pathogènes avec sensibilité in vitro diminuée ou multi-résistants",
+      "  o Poids extrêmes",
+      "  o Âge extrême : Population pédiatrique / sujets âgés"
+    ]
+  },
+  "page10": {
+    "titre": "Bonnes pratiques pour le dosage des antibiotiques",
+    "paragraphes": [
+      "• Les taux résiduels doivent être réalisés juste avant la prise lorsque l'état d'équilibre est théoriquement atteint, soit après la 3ème dose à posologie constante pour les antibiotiques.",
+      "Un recontrôle ultérieur, notamment en cas d’altération des fonctions d’élimination, peut être proposé par les pharmacologues.",
+      "• Le prélèvement sur voie périphérique doit toujours être privilégié à un prélèvement sur voie centrale. Prélever dans le bras opposé à celui de l’administration iv, jamais à travers la voie ayant servi à l’injection iv des médicaments.",
+      "• La qualité de l’interprétation des résultats dépend des informations reportées sur la feuille de demande accompagnant le prélèvement (dates et heures précises de prélèvement et de dernière prise, posologie, épuration extra rénale, sensibilité in vitro du pathogène, …)."
+    ],
+    "contact": {
+      "titrec": "Contact",
+      "paragraphesc": [
+        "Laboratoire de Biochimie / Unité de pharmacologie",
+        "Poste : 1335",
+        "Pr Ag Dorra Amor",
+        "Mail : dorra_a@live.fr",
+        "Dr Sana Boujaafar",
+        "Mail: sana.boujaafar@gmail.com"
+      ]
+    }
+  },
+  "page11": {
+    "titre": "Tableau I : Conditions pré-analytiques pour les dosages des antibiotiques réalisés au laboratoire de biochimie",
+    "remarque": "IMPORTANT : DATE ET HEURE DU PRELEVEMENT ET DATE ET HEURE DE DERNIERE PRISE OBLIGATOIRES (Voir Feuille de demande de dosage Annexe n)",
+    "colonnes": [
+      {
+        "titreM": "Molécule"
+      },
+      {
+        "titreTu": "Tube"
+      },
+      {
+        "titreQP": "Quand prélever?"
+      },
+      {
+        "titreTDP": "Temps de prélèvement pour le TDM"
+      },
+      {
+        "titreTDA": "Temps d'acheminement au laboratoire"
+      }
+    ],
+    "lignes": [
+      {
+        "cellules": [
+          {
+            "contenu1": "Vancomycine"
+          },
+          {
+            "contenu0": "Tube sec/hépariné"
+          },
+          {
+            "contenu3": "Environ 48H après le début du traitement si pas de dose de charge"
+          },
+          {
+            "contenu2": "Cc résiduelle* : avant la prochaine administration si administration en discontinu"
+          },
+          {
+            "contenu4": "A acheminer dans un délai < 1h au laboratoire"
+          }
+        ]
+      },
+      {
+        "cellules": [
+          {
+            "contenu1": null
+          },
+          {
+            "contenu0": null
+          },
+          {
+            "contenu3": null
+          },
+          {
+            "contenu2": "A n'importe quel moment, si administration en continu"
+          },
+          {
+            "contenu4": null
+          }
+        ]
+      },
+      {
+        "cellules": [
+          {
+            "contenu1": "Amikacine"
+          },
+          {
+            "contenu0": null
+          },
+          {
+            "contenu3": "Dès la première dose (Pic)\n48H après le début du traitement (résiduelle)"
+          },
+          {
+            "contenu2": "Cc max*: 30 min après la fin de la perfusion"
+          },
+          {
+            "contenu4": null
+          }
+        ]
+      },
+      {
+        "cellules": [
+          {
+            "contenu1": "Gentamicine"
+          },
+          {
+            "contenu0": null
+          },
+          {
+            "contenu3": null
+          },
+          {
+            "contenu2": "Cc résiduelle: avant la prochaine administration"
+          },
+          {
+            "contenu4": null
+          }
+        ]
+      }
+    ]
+  },
+  "notes": {
+    "note1": "*Cc max : Concentration maximale",
+    "note2": "*Cc résiduelle : concentration résiduelle"
+  },
+  "page12": {
+    "Tableau2": {
+      "titreT2": "Tableau II : Concentrations cibles pour les antibiotiques dosés au laboratoire de biochimie",
+      "colonnes2": [
+        {
+          "titre01": "Molécule"
+        },
+        {
+          "titre02": "Interprétation / Cibles"
+        }
+      ],
+      "lignes01": [
+        {
+          "cellules01": [
+            {
+              "contenu01": "Vancomycine"
+            },
+            {
+              "contenu02": "Si administration discontinue"
+            },
+            {
+              "contenu03": "Cc Résiduelle : 10-20 mg/L*"
+            }
+          ]
+        },
+        {
+          "cellules02": [
+            {
+              "contenu04": null
+            },
+            {
+              "contenu05": "Si administration en continu"
+            },
+            {
+              "contenu06": "Cc : 20-25 mg/L"
+            }
+          ]
+        },
+        {
+          "cellules03": [
+            {
+              "contenu07": "Amikacine"
+            },
+            {
+              "contenu08": "Pour évaluer la toxicité"
+            },
+            {
+              "contenu09": "Cc résiduelle : <2.5 mg/L"
+            }
+          ]
+        },
+        {
+          "cellules04": [
+            {
+              "contenu0a": null
+            },
+            {
+              "contenu0b": "Pour évaluer l’efficacité"
+            },
+            {
+              "contenu0c": "Cc au pic : 60-80 mg/L si traitement probabiliste"
+            }
+          ]
+        },
+        {
+          "cellules05": [
+            {
+              "contenu0d": null
+            },
+            {
+              "contenu0e": null
+            },
+            {
+              "contenu0f": "Cc au pic / CMI > 8-10 si infection documentée"
+            }
+          ]
+        },
+        {
+          "cellules06": [
+            {
+              "contenu0g": "Gentamicine"
+            },
+            {
+              "contenu0h": "Pour évaluer la toxicité"
+            },
+            {
+              "contenu0i": "Cc résiduelle : <0.5 mg/L"
+            }
+          ]
+        },
+        {
+          "cellules07": [
+            {
+              "contenu0j": null
+            },
+            {
+              "contenu0k": "Pour évaluer l’efficacité"
+            },
+            {
+              "contenu0l": "Cc au pic : 30-40 mg/L si traitement probabiliste"
+            }
+          ]
+        },
+        {
+          "cellules08": [
+            {
+              "contenu0m": null
+            },
+            {
+              "contenu0n": null
+            },
+            {
+              "contenu0o": "Cc au pic / CMI > 8-10 si infection documentée"
+            }
+          ]
+        }
+      ]
+    },
+    "paragraphes04": [
+      "* En administration discontinue, il est nécessaire de cibler des concentrations résiduelles > 15mg/L pour des infections graves et profondes et /ou avec des germes de sensibilité diminuée à la vancomycine.",
+      "Une surveillance accrue de la fonction rénale est recommandée pour des concentrations > 15 mg/L.",
+      "Références :",
+      "- Therapeutic monitoring of vancomycin: A revised consensus guideline and review of Society of the American Society of Health-System Pharmacists.The Infectious Diseases Society of America, the Pediatric Infectious Diseases Society and the Society of Infectious Diseases Pharmacists 2019.",
+      "- Mise au point sur le bon usage des aminosides administrés par voie injectable chez l’adulte et l’enfant > 3 mois. AFSSAPS - 2011."
+    ]
+  }
+}

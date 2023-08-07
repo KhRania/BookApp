@@ -1,0 +1,130 @@
+{
+    "Booktitle": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+    
+    "Titles": [
+      {
+        "title": "Liste des abréviations",
+        "page": 3,
+        "id":1
+      },
+      {
+        "title": "Règles de bon usage des antibiotiques",
+        "page": 5,
+        "id":2
+
+      },
+      {
+        "title": "Suivi Thérapeutique Pharmacologique (STP) des antibiotiques",
+        "page": 9,
+        "id":3
+
+
+      },
+      {
+        "title": "Partie 1 : Antibiothérapie curative par infection",
+        "Subtitles": [
+          {
+            "subtitle": "Traitement initial des méningites bactériennes aiguës communautaires",
+            "page": 15,
+            "id":4
+
+          },
+          {
+            "subtitle": "Bactériémies",
+            "page": 17,
+            "id":5
+
+
+          },
+          {
+            "subtitle": "Endocardites infectieuses (EI)",
+            "page": 25,
+            "id":6
+
+          },
+          {
+            "subtitle": "Infections respiratoires basses et pneumopathies",
+            "page": 31,
+            "id":7
+          },
+          {
+            "subtitle": "Infections de la peau et des tissus mous",
+            "page": 39,
+            "id":8
+          },
+          {
+            "subtitle": "Infections sur cathéter central pour hémodialyse",
+            "page": 45,
+            "id":9
+          },
+          {
+            "subtitle": "Infection sur cathéter de dialyse péritonéale",
+            "page": 47,
+            "id":10
+          },
+          {
+            "subtitle": "Infections intra-abdominale (IIA)",
+            "page": 49,
+            "id":11
+          },
+          {
+            "subtitle": "Infections urinaires (IU)",
+            "page": 53,
+            "id":12
+          },
+          {
+            "subtitle": "Infections ostéo-articulaires aiguës communautaires",
+            "page": 62,
+            "id":13
+
+          },
+          {
+            "subtitle": "Infections précoces sur prothèse articulaire",
+            "page": 66,
+            "id":14
+
+          },
+          {
+            "subtitle": "Infections fongiques",
+            "page": 70,
+            "id":15
+          }
+        ]
+      },
+      {
+        "title": "Partie 2 : Caractéristiques des espèces bactériennes isolées",
+        "Subtitle": [
+          {
+            "subtitle": "Espèces bactériennes isolées : caractéristiques et antibiotique de choix",
+            "page": 76
+          }
+        ]
+      },
+      {
+        "title": "Partie 3 : Antibiotiques et antifongiques",
+        "Subtitles": [
+          {
+            "subtitle": "Guide des posologies des antibiotiques disponibles au CHU Sahloul (Adultes)",
+            "page": 86
+          },
+          {
+            "subtitle": "Guide d’administration des anti-infectieux injectables",
+            "page": 96
+          },
+          {
+            "subtitle": "Guide d’adaptation posologique des antibiotiques chez l’insuffisant rénal",
+            "page": 107
+          },
+          {
+            "subtitle": "Guide d’adaptation posologique des antifongiques chez l’insuffisant rénal",
+            "page": 112
+          }
+        ]
+      },
+      {
+        "title": "Comité de rédaction",
+        "page": 113
+      }
+    ]
+  }
+  

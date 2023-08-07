@@ -1,0 +1,782 @@
+{
+    "page36": {
+      "title36": "ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+      "soustitre36": "3) Exacerbations aigues de BPCO",
+      "note36": "*Facteurs de risque : VEMS < 50% de la valeur prédite, plus de 2 exacerbations/an, cardiopathie ischémique, oxygénothérapie à domicile, corticothérapie orale chronique",
+      "tableau36": [
+        {
+          "Situation clinique": "Exacerbations aigues de BPCO sans facteurs de risque*",
+          "Antibiothérapie de 1ère intention": "Amoxicilline : 1g x 3/j PO",
+          "Alternative": "Ou Amoxicilline + Ac clavulanique : 1g x 3/j PO\n(Seulement si franche expectoration purulente verdâtre)",
+          "Durée": "5j"
+        },
+        {
+          "Situation clinique": "Exacerbations aigues de BPCO avec facteurs de risque*",
+          "Antibiothérapie de 1ère intention": "Amoxicilline+Ac clavulanique : 1g x 3/j PO",
+          "Alternative": "Ceftriaxone : 1g x 1/j IV,IM\nLévofloxacine : 500mg x 1/j PO\nCiprofloxacine : 500 mg x 2/j PO\n(seulement si colonisation pulmonaire connue à P.aeruginosa)",
+          "Durée": "5j"
+        }
+      ],
+      "titre36":"4) Pneumonies Associées Aux soins
+      ",
+      
+        "tableau36b": [
+          {
+            "Situation clinique": "Pneumonies associées aux soins précoces <5j sans facteurs de risques de bactéries multirésistantes",
+            "Antibiothérapie de 1ère intention": "Amoxicilline-ac.clavulanique : 2g x 3/j IV , Céfotaxime : 2g x 3/j\nCéftriaxone : 2g/j IV, IM\n± Aminoside si sepsis sévère",
+            "Alternative si allergie aux Béta-lactamines":  "Lévofloxacine 500mg x 2/j IV, PO dès que possible",
+            "Durée": "7j",
+            
+          }
+        ]
+      
+      
+      
+    },
+
+    "page37": {
+        "title37":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        
+            "tableau": [
+              {
+                "Situation clinique": "Pneumonies associées aux soins tardives ≥ 5j avec facteurs de risques de bactéries multirésistantes",
+                "Antibiothérapie de 1ère intention": "Piperacilline-tazobactam : 4g x 4/j IV\n+ Amikacine : 20-30 mg/kg/j 3 j (max 5j)" "\\n Si facteurs de risque de SARM
+                +Vancomycine :
+                15mg/kg puis 30 à 40mg/kg/j
+                ",
+                "Alternative si allergie aux Béta-lactamines": "Imipénème : 1g x 3/j IV\nMéropénème : 1-2g x 3/j IV\n+ Amikacine \n Si facteurs de risque de SARM
+                \n   + Vancomycine :
+                15mg/kg puis 30 à 40mg/kg/j
+                   Ou Linézolide : 600 mg x 2/j
+                   PO ou IV              ",
+                "Durée": "7j \n Durée plus longue
+                recommandée :
+                immunodépression,
+                empyème,
+                pneumonie
+                nécrosante ou
+                abcédée."
+              }
+            ],
+            "reference":{
+                "titreRef37":"Références",
+                "contenuref37":" Antibiothérapie par voie générale dans les infections respiratoires basses de l'adulte.
+                AFSSAPS, SPILF, SPLF 2010.
+                Prise en charge des exacerbations de la bronchopneumopathie chroniqueobstructive (BPCO).
+                Recommandations de la Société de pneumologie de langue française. SPLF 2017.
+                Leone M, Bouadma L, Bouhemad B, Brissaud O, Dauger S, Gibot S et Chanques, G.
+                Pneumonies associées aux soins de réanimation. Anesthésie & Réanimation. 2018; 4(5) :
+                421-441.",
+            },
+           
+          
+          
+
+    },
+    "page38":{
+        "title38":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+    },
+    "page39":{
+
+        "title38":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "Titre39":"Infections de la peau et des tissus mous
+        ",
+        "header":"Éléments de diagnostic
+        ",
+        "contenu39":"
+        ✓ Les infections cutanées à pyogènes sont dues principalement à Staphylococcus aureus et à
+Streptococcus pyogenes (également appelé Streptocoque β-hémolytique du groupe A)
+✓ La dermo-hypodermite non nécrosante (DHNN) est essentiellement due à S.pyogenes. Le
+diagnostic est clinique. Le traitement repose sur l’antibiothérapie.
+✓ La dermo-hypodermite bactérienne nécrosante (DHBN) est une infection rare mais gravissime.
+✓ Les furoncles sont des infections du follicule pilo-sébacé. Une antibiothérapie générale est
+indiquée dans les furoncles de la face en raison du risque de staphylococcie maligne.
+✓ L’infection d’un pied diabétique peut revêtir plusieurs formes cliniques allant de l’infection
+superficielle d’une plaie jusqu’à la fasciite nécrosante qui peut engager le pronostic vital et qui
+relève d’un traitement médicochirurgical urgent.
+✓ L’impétigo est une infection contagieuse de l’épiderme due à S. aureus, S.pyogenes, ou aux
+deux.
+✓ L’abcès cutané est le plus souvent lié à S.aureus. Le traitement est essentiellement chirurgical.
+✓ Les furoncles sont des infections du follicule pilo-sébacé. Une antibiothérapie générale est
+indiquée dans les furoncles de la face en raison du risque de staphylococcie maligne.
+✓ L’infection d’un pied diabétique peut revêtir plusieurs formes cliniques allant de l’infection
+superficielle d’une plaie jusqu’à la fasciite nécrosante qui peut engager le pronostic vital et qui
+relève d’un traitement médicochirurgical urgent.
+        ",
+        "nomtab":"Classification PEDIS pour l’infection d’un pied diabétique
+        ",
+        
+            "tableau39": [
+              {
+                "Grade": "Grade I 1 Non infecté",
+                "Description": "Pas de symptômes ou signes locaux ou systémiques d’infection"
+              },
+              {
+                "Grade": "Grade I 2 Infection légère",
+                "Description": "Infection de la peau et des tissus sous-cutanés sans atteinte des tissus profonds (fascias, tendons, articulations, os) et sans signe systémique: cellulite ou hypodermite limitées (< 2cm autour de l’ulcère)."
+              },
+              {
+                "Grade": "Grade I 3 Infection modérée",
+                "Description": "Infection de la peau et des tissus sous-cutanés étendue et/ou avec atteinte des tissus profonds sans signes systémiques : cellulite ou hypodermite étendues (> 2cm autour de l’ulcère), abcès, ténosynovite, fasciite nécrosante, myosite"
+              }
+            ],
+          
+          
+
+
+    },
+    "page40":{
+        "titlepage40":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        
+
+
+        "tableau40":[
+            {
+                "Grade": "Grade I 4 Infection sévère",
+                "Description": "Toute infection avec signes systémiques (fièvre, frissons…) ou équivalents
+                métaboliques chez le diabétique (décompensation acido-cétosique, coma
+                hyperosmolaire,…)"
+              },
+        ],
+        "contenu":"Analyses microbiologiques : à effectuer avant l’initiation/le changement d’antibiotique
+        ✓ Hémocultures si T° > 38°C ou patient septique (2 paires par ponction veineuse)
+        ✓ Prélèvements locaux
+        Mesures d’accompagnement :
+        • Repos avec surélévation du membre atteint
+        • Traitement de la porte d’entrée
+        • Contention veineuse dès l’amélioration de la douleur pendant au moins 3 semaines.
+        • Mise à jour de la vaccination antitétanique.
+        Dans le cas d’un sepsis : Cf. protocole thérapeutique de bactériémie.",
+
+        
+
+    },
+
+    "page41":{
+        "titlepage41":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titre41":"Antibiothérapie",
+        {
+            "tableau": [
+              {
+                "Situation clinique": "Dermo-hypodermite non nécrosante (DHNN) non compliquée",
+                "Antibiothérapie de 1ère intention": "Amoxicilline : 50 mg/kg/j en 3 prises, PO (Sans dépasser 6 g/j)",
+                "Alternative ou Allergie": "Clindamycine : 600mg x 3 à 4/j PO\nOuPristinamycine : 1g x 3/j PO",
+                "Durée": "7j"
+              },
+              {
+                "Situation clinique": "Dermo-hypodermite non nécrosante (DHNN) après morsure",
+                "Antibiothérapie de 1ère intention": "Amoxicilline + Ac-clavulanique : 50 mg/kg/j en 3 prises, PO (Sans dépasser 6 g/j d’amoxicilline et 375 mg/j d’Ac clavulanique)",
+                "Alternative ou Allergie": "Avis secondaire (Spécialiste hospitalier)",
+                "Durée": "7j"
+              },
+              {
+                "Situation clinique": "Dermo-hypodermite bactérienne nécrosante (DHBN) communautaire des membres",
+                "Antibiothérapie de 1ère intention": "Amoxicilline + Ac clavulanique : 2g x 3/j\n+ Clindamycine : 600 mg x 4/j\n+ Gentamicine : 5-7 mg/kg/j",
+                "Alternative ou Allergie": "Céfotaxime : 2g x3/j\n+ Métronidazole : 500 mg x 3/j\n+ Clindamycine : 600 mg x 4/j\n+ Gentamicine : 5-7 mg/kg/j",
+                "Durée": "14-21j"
+              },
+              {
+                "Situation clinique": "DHBN communautaire cervicofaciale",
+                "Antibiothérapie de 1ère intention": "Amoxicilline + Ac clavulanique: 2g x 3/j\n+ Clindamycine : 600 mg x 4/j\n+ Gentamicine : 5-7 mg/kg/j",
+                "Alternative ou Allergie": "Céfotaxime : 2g x3/j\n+ Métronidazole : 500 mg x 3/j\n+ Clindamycine : 600 mg x 4/j\n+ Gentamicine : 5-7 mg/kg/j",
+                "Durée": "14-21j
+                "
+              },
+              {
+                "Situation clinique": "DHBN communautaire périnéale ou abdominale",
+                "Antibiothérapie de 1ère intention": "Piperacilline – tazobactam : 4g x 4/j\n+ Gentamicine : 5-7 mg/kg/j",
+                "Alternative ou Allergie": "Imipénem : 1g x 3/j\n+ Gentamicine : 5-7 mg/kg/j",
+                "Durée": "14-21j
+                "
+              },
+              {
+                "Situation clinique": "DHBN post-opératoire
+                ou nosocomiale
+                ",
+                "Antibiothérapie de 1ère intention": "Piperacilline – tazobactam :
+                4g x 4/j
+                + Amikacine: 20-30 mg/kg/j",
+                "Alternative ou Allergie": "Imipénem : 1g x 3/j
+                + Amikacine 20-30 mg/kg/j",
+                "Durée": "14-21j
+                "
+              },
+              {
+                "Situation clinique": "Infection du pied
+                diabétique (hors ostéite)
+                Infection légère
+                (Grade I2)
+                ",              
+                "Antibiothérapie de 1ère intention": "Amoxicilline + Ac-clavulanique :
+                1g x 3/j PO
+                *Si troubles vasculaires sévères ou
+                troubles d’absorption digestives ou
+                échec du traitement per Os IV (2g
+                x 3/j)
+                **Si ulcère chronique, antécédent
+                récent d’infection du pied :
+                Piperacilline/Tazobactam: 4g x 4/j ",
+                "Alternative ou Allergie": "Clindamycine :
+                300 à 600mg x 3 à 4/j
+                +
+                Ciprofloxacine 500mgx2/j PO
+                **Méropénème : 2gx3/j",
+                "Durée": "3 à 5j
+                après
+                guérison
+                des
+                signes
+                locaux
+                ",
+              },
+              
+              
+
+          
+              
+              ],
+          
+        
+
+    },
+
+
+    "page42":{
+        "titlepage42":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableau42":{
+            [
+                "Situation clinique": "Infection du pied
+                diabétique (hors ostéite)
+                Infections modérées ou
+                profondes (Grade I3) et
+                sévères (Grade I4)
+                
+                ",              
+                "Antibiothérapie de 1ère intention": "*Absence d’antécédent récent
+                d’infection du pied :
+                Amoxicilline + Ac-clavulanique :
+                2g x 3/j IV
+                **Si ulcère chronique, cures ATB
+                préalables, ATCD récent d’infection
+                du pied
+                Piperacilline/Tazobactam: 4g x 4/j
+                - Si colonisation ou infection à
+                BMR :
+                Piperacilline/Tazobactam: 4g x 4/j
+                ou Imipenem/Cilastatine : 500 mg à
+                1000mg x 4/j
+                +
+                Amikacine : 25mg/Kg/j en dose
+                unique journalière
+                - Si infection récente ou
+                colonisation à SARM :
+                Vancomycine : DC de 15mg/Kg sur
+                1h puis DE : 30mg/Kg/j en IVSE
+                +
+                Piperacilline/Tazobactam: 4g x 4/j
+                ou Imipenem/Cilastatine : 500 mg à
+                1000mg x 4/j
+                +
+                Amikacine : 15 à 25mg/Kg/j en dose
+                unique journalière ",
+                "Alternative ou Allergie": "*Clindamycine :
+                300 à 600mg x 3 à 4/j
+                +
+                Ciprofloxacine 500mg x 2/j PO
+                **Méropénème : 2gx3/j",
+                "Durée": "14j "
+            ],
+        },
+    },
+
+    "page43":{
+        "title43":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+       "tableau43a":
+        [ 
+            {
+                "Situation clinique": "Impétigo localisé :
+                - Surface cutanée atteinte < 2 %
+                - < 6 lésions
+                - Sans extension rapide
+                ",              
+                "Antibiothérapie de 1ère intention": "Antibiothérapie locale",
+                "Alternative ou Allergie": "Acide fusidique : 2 à 3
+                applications/j",
+                "Durée": "5j",
+                
+              },
+              {
+                "Situation clinique": "Impétigo forme grave:
+                - Ecthyma
+                - Surface cutanée atteinte >2%
+                - > 6 lésions
+                - Extension rapide
+                ",              
+                "Antibiothérapie de 1ère intention": "Antibiothérapie par voie générale
+                Pristinamycine : 1g x 3/j PO",
+                "Alternative ou Allergie": "_",
+                "Durée": "7j",
+                
+              },
+    
+              {
+                "Situation clinique": "Furoncle simple 
+                ",              
+                "Antibiothérapie de 1ère intention": "Pas d’antibiotiques
+                Antiseptique 
+                ",
+                "Alternative ou Allergie": "_",
+                "Durée": "_",
+                
+              },
+    
+              {
+                "Situation clinique": "Furoncle diffus
+                (anthrax) ou
+                compliqué 
+                ",              
+                "Antibiothérapie de 1ère intention": "Clindamycine: 600 mg x 3/j PO/IV
+                (si poids > 100 kg : 600 mg x 4/j)
+                ou Pristinamycine: 1 g x 3 /j PO
+                ",
+                "Alternative ou Allergie": "_",
+                "Durée": "5j",
+                
+                
+              },
+              
+    
+        ],
+        "note43":{
+            "titrenote":"Antibioprophylaxie",
+            "contenu":"Elle est recommandée à partir de 2 épisodes de DHBNN dans l’année écoulée chez les
+            patients présentant des facteurs de risque non contrôlables, ou non résolutifs",
+        },
+        
+        "tableaub43":{
+            "Benzyl-pénicilline G retard":"2,4 MUI IM toutes les 2 à 4 semaines",
+            "Pénicilline V (phénoxyméthylpénicilline) ":"1 à 2 millions UI par jour selon le poids en 2 prises (PO)",
+
+
+        },
+        "note43b":"La durée de traitement est à évaluer en fonction de l’évolution des facteurs de risque de
+        récidive.",
+        "Références":
+        "Prise en charge des infections cutanées bactériennes courantes. HAS 2019.",
+       
+       
+
+
+       
+       
+          
+
+          
+    },
+
+    "page44":{
+        "titepage44":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "contenup44":"Prise en charge de l’impétigo. HAS 2021.
+        Prise en charge des furonculoses. HAS 2021.
+        Prise en charge des dermohypodermites bactériennes non nécrosantes (DHBNN) chez
+        l’adulte. HAS 2021.
+        Prise en charge des abcès cutanés. HAS 2021.
+        Orioli L, Vandeleene B, Putineanu D, Briquet C, Rodriguez-Villalobos H, Yombi JC. Prise
+        en charge de l’infection du pied diabétique : recommandations pratiques et antibiotiques. :10.
+        (2020)
+        Recommandations 2019 du Groupe International de Travail sur le Pied Diabétique (IWGDF).
+        Société Francophone du Diabète (sfdiabete.org) 2019.",
+    },
+
+    "page45":{
+        "titepage45":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titrepage45":"Infections sur cathéter central pour hémodialyse
+        ",
+        "img":"image",
+        "Figure1":"Algortihme recommandé pour le diagnostic et le traitment des bactériémies liées aux cathéters de dialyse (1)",
+   "tabtitle":"Antibiothérapie Probabiliste
+   ",
+   "tableau45":{
+    [ "Situation clinique":"_",
+    "Antibiothérapie de 1ère intention":{
+        "Antibiotique
+        systémique":"Vancomycine 20mg/kg
+        dose de charge au
+        cours des deux dernières
+        heures de HD
+        +
+        Ceftazidime 1g
+        Tout de suite après HD
+        * La gentamicine 1
+        mg/kg après une HD
+        peut être utilisée comme
+        une alternative à la
+        ceftazidime, mais
+        comporte un important
+        risque d'ototoxicité
+        ",
+        "Cathéter":"Vancomycine/ceftazidime/heparin :
+        • Vancomycine (1ml of 5mg/ml
+        dans solution saline)
+        • Ceftazidime (0,5ml de 10
+        mg/ml dans solution saline)
+        • Héparine (0,5 mlde 1000U/ml)",
+
+        "Durée":"Après chaque
+        séance de HD
+        jusqu’au résultat
+        de l’hémoculture",
+
+    }
+
+    
+
+    ],
+   },
+   
+    },
+
+
+    "page46":{
+        "titlepage46":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titretabpage46":"Antibiothérapie Documentée
+        ",
+
+        "tableau":{
+            [
+                "Situation clinique":"Bactéries Gram
+                Négatif (BGN)
+                ",
+                "Antibiothérapie de 1ère intention":{
+                    "Antibiotique systémique":"Ceftazidime 1g
+                    Tout de suite après HD",
+                    "Cathéter":"Ceftazidime/heparine
+                    (Ceftazidime1ml de 10 mg/ml dans
+                    solution saline) + héparine(1mlde
+                    1000U/ml)",
+
+                },
+
+                "Situation clinique":"Staphylocoques
+                méthicilline sensible
+                ",
+                "Antibiothérapie de 1ère intention":{
+                    "Antibiotique systémique":"Cefazoline 2g
+                    Tout de suite après HD",
+                    "Cathéter":"Cefazoline/heparine
+                    (Cefazoline 1ml de 20 mg/ml dans solution
+                    saline) + héparine (1ml de 1000U/ml)",
+
+                },
+
+                "Situation clinique":"Staphylocoques
+                Méthicilline résistant
+                
+                ",
+                "Antibiothérapie de 1ère intention":{
+                    "Antibiotique systémique":"Vancomycine 1g au cours de
+                    la dernière heure de HD
+                    ",
+                    "Cathéter":"Vancomycine/heparine
+                    (Vancomycine1ml de 5mg/ml dans
+                    solution saline) + héparine (1mlde
+                    1000U/ml)
+                    ",
+
+                },      
+            ]
+
+        },
+
+        "Référence": "(1) Recommended algorithm for the diagnosis and treatment of dialysis catheter-related bloodstream
+        infections (CRBSIs). MRSA, Methicillin-sensitive Staphylococcus aureus ; S. aureus,
+        Staphylococcus aureus.Clin J Am Soc Nephrol. 2019; 14: 611–613.",
+    },
+
+    "page47":{
+        "title47":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titrepage47":"Infection sur cathéter de dialyse péritonéale
+        ",
+        "contenu":{
+            "text": 
+            " 
+            La péritonite associée à la dialyse péritonéale (DP) est l’infection la plus fréquente et peut être
+associée à l’arrêt de la DP / transfert en HD /décès.
+• Infection de l’orifice de sortie : Ecoulement purulent au niveau de l’orifice de sortie.
+• Un érythème seul n’est pas obligatoirement un signe d’infection.
+• Infection de l’orifice réfractaire : Echec de guérison après trois semaines d’antibiothérapie
+efficace
+• Tunnelite : Présence d’une inflammation (rougeur, œdème local, douleur) ou de résultats
+échographiques réalisées le long du tunnel contenant la portion sous-cutanée du cathéter
+• Une péritonite : Au moins deux des critères suivants :
+1. Caractéristiques cliniques cohérentes :
+- Effluent trouble
+- Douleurs abdominales d’intensité et de localisation variables
+- Fièvre le plus souvent modérée
+- Dans les formes sévères : abdomen chirurgical.
+2. Nombre de globules blancs dans l’effluent : > 100/µl et > 50 % de neutrophiles
+            ",
+            "3. Culture d’effluent de dialyse positive":{
+                "Péritonite liée à une infection de cathéter":"
+                Concomitante ou dans les 3 mois suivant l'insertion du cathéter 
+                Infection de l'orfice de sortie Tunellite
+                Meme germe",
+                "Péritonite entérique":"Identification de multiples germes (Gram + et -)
+               * Infectieuses:
+                Perforation
+                ischémiqe
+                colique
+                Appendicite
+                *Non infectieuse :
+                Réaction
+                inflammatoire par contiguité à travers la membrane péritonéale
+
+                
+                ",
+                "Périnote à culture positive":"Culture positive 
+                Exp:péritonite à staphylocoque Aureus",
+
+            },
+            
+        },
+        
+
+
+        
+    },
+
+    "page48":{
+        "titlepage48":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableau":{
+            [
+                "Péritonite":{
+                    "Réfractaire":"Persistance d’un
+                    effluent trouble ou
+                    d’une cytologie
+                    avec plus de 100
+                    éléments nuclées /µl
+                    après 5 jours d’un
+                    TTT ATB bien
+                    condui",
+                    "Récidivante":" Épisode de
+                    péritonite
+                    apparaissant dans
+                    les 4 semaines après
+                    la fin du TTT d'une
+                    péritonite avec le
+                    même germe ou une
+                    culture négative
+                    
+                    ",
+                    "Récurrente":"Épisode de
+                    péritonite
+                    apparaissant dans
+                    les 4 semaines après
+                    la fin du TTT d’une
+                    péritonite avec un
+                    germe différent",
+                    "Répétée":"Épisode de
+                    péritonite
+                    apparaissant plus de
+                    4 semaines après la
+                    fin du TTT d’une
+                    péritonite avec le
+                    même germe
+                    ",
+                },
+            ]
+        },
+
+        "Antibiothérapie Probabiliste":"
+        Les antibiotiques doivent être commencés le plus tôt possible. La voie Intra-Péritonéale (IP)
+est recommandée dès que possible. Si la voie IP n’est pas possible, la voie IV doit être utilisée
+initialement. Le traitement doit couvrir les germes gram-positifs et gram-négatifs.
+La vancomycine + Céphalosporine de troisième génération ou aminoglycoside
+Considération spéciale pour la Dialyse Péritonéale Automatisée (DPA) : Elle se caractérise
+par une plus grande clairance antibiotique péritonéale et donc un sous-dosage potentiel. Afin
+d’obtenir une biodisponibilité adéquate, un temps de séjour minimal de 4 heures doit être
+respecté, mais un séjour de 6 heures peut être une meilleure option.
+Antibiothérapie Documentée des péritonites associées à la dialyse péritonéale
+Les antibiotiques doivent être adaptés à la sensibilité des germes responsables lorsque celleci est identifiée
+        ",
+
+        "Référence: ":"Recommended algorithm for the diagnosis and treatment of dialysis catheter-related bloodstream
+        infections (CRBSIs). MRSA, Methicillin-sensitive Staphylococcus aureus ; S. aureus,
+        Staphylococcus aureus.Clin J Am Soc Nephrol. 2019; 14: 611–613.",
+
+    },
+
+    "page49":{
+        "title49":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titre49":"Infections intra-abdominale (IIA)
+        ",
+
+        "Recommandations générales
+        ":"
+        Les hémocultures et les prélèvements microbiologiques intra-abdominaux sont recommandés en
+cas d’infection nosocomiale et / ou associées aux soins.
+Quelle que soit la voie d’abord du foyer infectieux intra abdominal (laparotomie, laparoscopie ou
+drainage radiologiquement guidé), l’éradication de ce foyer doit être systématique, complète et
+réalisée en urgence.
+L’initiation des anti-infectieux ne doit pas être différée pour effectuer les prélèvements
+microbiologiques péritonéaux.
+En cas de péritonite, il ne faut pas effectuer de prélèvement sur les systèmes de drainage (drain de
+Redon, sonde de Salem, Lame ondulée …), car les résultats sont ininterprétables.
+Quel que soit le résultat des prélèvements microbiologiques dans les péritonites, il faut que le
+spectre des antibiotiques comprenne les bactéries anaérobies.
+Dans les IIA communautaires, en l'absence de signes de gravité, il ne faut pas initier de traitement
+probabiliste actif sur les Candidas.
+Il ne faut probablement pas prendre en compte les entérocoques dans le traitement probabiliste des
+IIA communautaires sans signes de gravité.
+Chez un patient traité pour une IIA communautaire ou associée aux soins, après réception des
+analyses microbiologiques et mycologiques, il faut probablement faire une désescalade antibiotique
+et antifongique (adapter le traitement de façon à obtenir le spectre thérapeutique le plus étroit).
+        ",
+
+    },
+
+    "page50":{
+
+        "titlepage50":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titretableaupage50":"Antibiothérapie",
+        "tableaupage50":{
+            [{
+               "Situation clinique": "Péritonite communautaire (SANS signes de gravité[1])",
+                "Antibiothérapie de 1ère intention": "Amoxiciline-ac clavulanique 1-2g x 3/j\n+ Gentamicine 6-8mg/kg/j\nOU Cefotaxime/Ceftriaxone 1-2g x 3/j 8h|1-2g/24h\n+ métronidazole 500mg x3/j",
+                "Alternative": "Si Allergies au Blactamines\nLevofloxacine 500mg/12h\n+ métronidazole 500mg/8h\n+ gentamicine 6-8mg/kg/j\nOU Tigécycline 100mg(1ère injection), puis 50mg/12h 
+                + métronidazole
+500mg/8h
++ gentamicine 6-8mg/kg/j",
+                "Durée": "Localisée : 2-3j\nGénéralisée : 5-7j\n*Genta : 24-72h"
+                   
+            
+            
+            
+            },
+            {
+                "Situation clinique": "Péritonite
+                communautaire
+                (PRESENCE de
+                signes de
+                gravité[1])",
+                 "Antibiothérapie de 1ère intention": "Pipéracilline-tazobactam 4g x 3/j à
+                 4g x 4/j (en perfusion de 4h ou en
+                 perfusion continue)
+                 + gentamicine6-8mg/kg/j
+                 +/- Caspofungine [2]70mg(1èreinj)
+                 puis 70mg/j si P>80kg OU 50mg/j
+                 si P<80kg
+                 ",
+                 "Alternative": "OU
+                 Tigécycline 100mg(1ère
+                 injection), puis 50mg/12h", 
+                 
+                 "Durée": "5-7j
+                 *Genta :24-
+                 72h
+                 "
+                    
+             
+             
+             
+             },
+             {
+                "Situation clinique": "Péritonite associée
+                aux soins, abcès
+                intraabdominaux
+                (SANS facteurs de
+                risques de BMR)[3]",
+                 "Antibiothérapie de 1ère intention": "Piperacilline-tazobactam 4g x 3/j à
+                 4g x 4/j (en perfusion de 4h ou en
+                 perfusion continue)
+                 + amikacine 20-30mg/kg/j
+                 +/- vancomycine (si FDR
+                 enterocoque R à l’ampicilline [4])
+                 30-40mg/kg/j (après dose de charge
+                 si perfusion continue)",
+                 "Alternative": "Si allergie aux Blactamines
+                 Ciprofloxacine 800mg
+                 puis 400mg/8h
+                 +métronidazole 500mg/8h
+                 +amikacine 20-30mg/kg
+                 +vancomycine 30-
+                 40mg/kg/j (après dose de
+                 charge si perfusion
+                 continue)", 
+                 
+                 "Durée": "5-15j
+                 *Amikacine
+                 24-72h
+                 "
+                    
+             
+             
+             
+             },
+             {
+                "Situation clinique": "Péritonite associée
+                aux soins, abcès
+                intraabdominaux
+                (PRESENCE
+                facteurs de risque
+                de BMR)[3]",
+                 "Antibiothérapie de 1ère intention": "Imipeneme1g x 3/j
+                 ou méropeneme1-2g x 3/j
+                 +/- amikacine 20-30mg/kg/j
+                 +/- vancomycine (si FDR
+                 entérocoque R à l’ampicilline [4])
+                 30-40mg/kg/j (après dose de charge
+                 si perfusion continue)
+                 +/- caspofungine [2] 70mg(1ère inj)
+                 puis 70mg/j si P>80kg OU 50mg/j
+                 si P<80kg",
+                 "Alternative": "OU
+                 Tigécycline 100mg puis
+                 50mg/12h
+                 +ciprofloxacine 800mg
+                 puis 400mg/8h
+                 ", 
+                 
+                 "Durée": ""
+                    
+             
+             
+             
+             },
+             {
+                "Situation clinique": "",
+                 "Antibiothérapie de 1ère intention": "",
+                 "Alternative": "", 
+                 
+                 "Durée": "",
+                    
+             
+             
+             
+             },
+
+                
+
+            ],
+        },
+    },
+
+    
+
+
+
+    
+  }
+  

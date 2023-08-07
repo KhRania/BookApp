@@ -1,0 +1,1113 @@
+{
+    "pag91":{
+        "titleoage91":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        
+        "tableaupage91":{
+           [
+            "FUCID ANINE":{
+                "DCI ": "Acide fusidique",
+                "Forme et dosage":"250 mg comprimés",
+                 "Posologie usuelle (adultes) " : "500 mg toutes les 8 à 12h ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "OXAZOL IDINON ES":{
+                "DCI ": "Linézolide",
+                "Forme et dosage":"600mg Poudre pour solution injectable",
+                 "Posologie usuelle (adultes) " : "Dose usuelle : 600mg toutes les 12h ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "HN Médicament à lettre",
+            }
+           ],
+           [
+            "GLYCOPEPTIDES":{
+                "DCI ": "Teicoplanine",
+                "Forme et dosage":"400 mg Poudre pour solution injectable",
+                 "Posologie usuelle (adultes) " : "- Infections peu sévères : DC : 400mg (soit 6mg/Kg) toutes les 12h les 3 premières injections DE : 6mg/Kg toutes les 24h - Infections sévères DC : 800mg (soit 12mg/Kg) toutes les 12h les 3 à 5 premières injections DE : 12mg/Kg toutes les 24h ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "GLYCOPEPTIDES":{
+                "DCI ": "Vancomycine",
+                "Forme et dosage":"500 mg, 1g Poudre pour solution à diluer pour perfusion",
+                 "Posologie usuelle (adultes) " : "15 à 20mg/kg toutes les 8 à 12h (sans dépasser 2g/prise) Dans les infections sévères : DC : 25 à 30 mg/Kg en 2h puis 25 à 30mg/Kg/j",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+        
+        }
+
+    },
+
+
+    "pag92":{
+        "titleoage92":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage92":{
+           [
+            "POLYM YXINES":{
+                "DCI ": " Colistine",
+                "Forme et dosage":"1000.000 UI Poudre pour préparation injectable",
+                 "Posologie usuelle (adultes) " : "DC : 9 MUI (pour les infections sévères) puis 9 MUI par jour en 2 ou 3 administrations ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "NITROFURANES":{
+                "DCI ": "Nitrofurantoïne",
+                "Forme et dosage":"50mg Comprimés/gélules",
+                 "Posologie usuelle (adultes) " : "Femme adulte : 100mg toutes les 8h ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "HN Médicament à lettre",
+            }
+           ],
+           [
+            "ANTI-TUBERCULEUX":{
+                "DCI ": "Ethambutol",
+                "Forme et dosage":"400 mg Comprimés",
+                 "Posologie usuelle (adultes) " : "- Infections peu sévères : DC : 400mg (soit 6mg/Kg) toutes les 12h les 3 premières injections DE : 6mg/Kg toutes les 24h - Infections sévères DC : 800mg (soit 12mg/Kg) toutes les 12h les 3 à 5 premières injections DE : 12mg/Kg toutes les 24h ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "ANTI-TUBERCULEUX"
+            :{
+                "DCI ": "Pyrazinamide",
+                "Forme et dosage":"500 mg
+                Comprimé",
+                 "Posologie usuelle (adultes) " : "30 à 40 mg/kg/jour",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 }, 
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "ANTI-TUBERCULEUX":{
+                "DCI ": "Rifampicine",
+                "Forme et dosage":"Gélule 300 mg Suspension buvable 600 mg",
+                 "Posologie usuelle (adultes) " : "Tuberculose : 8 à 12mg/Kg/j en une prise Infections à germes GRAM+ ou GRAM- : 20 à 30 mg/Kg/j ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "ANTI-TUBERCULEUX":{
+                "DCI ": "Isoniazide",
+                "Forme et dosage":"150mg Comprimé/Gélule",
+                 "Posologie usuelle (adultes) " : "4 à 5 mg/Kg/j",              "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           [
+            "ANTI-TUBERCULEUX":{
+                "DCI ": "Isoniazide (H) + Rifampicine (R)",
+                "Forme et dosage":"Akurit 2® Comprimé H : 75 mg R : 150 mg",
+                 "Posologie usuelle (adultes) " : "La nombre de comprimés dépend du poids: P=30-39kg : 2 comprimés ",
+                 "Adaptation posologique" : {
+                    "IR": "Oui",
+                    "IH" : "Non",
+
+                 },
+                 "Disponibilité": "NH",
+            }
+           ],
+           "notetableaup92":"NH : Nomenclature Hospitalières / DC : Dose de Charge / DE : Dose d’Entretien
+ \n       NH : Nomenclature Hospitalières
+ ",
+
+
+        
+        }
+
+    },
+
+    "page93":{
+        "titlepage93":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage93":{
+            [
+                "ANTI-TUBERCULEUX":{
+                    "DCI ": "",
+                    "Forme et dosage":"",
+                     "Posologie usuelle (adultes) " : " P=40-54kg : 3 comprimés P=55-70kg : 4 comprimés P>70kg : 5 comprimés",
+                     "Adaptation posologique" : {
+                        "IR": "",
+                        "IH" : "",
+    
+                     },
+                     "Disponibilité": "",
+                }
+               ],
+               [
+                "ANTI-TUBERCULEUX":{
+                    "DCI ": "Isoniazide (H)+ Rifampicine (R)+ Pyrazinamide (Z)+ Ethambutol (E)",
+                    "Forme et dosage":"Akurit 4® H : 75mg R : 150mg Z : 400 mg E : 275 mg",
+                     "Posologie usuelle (adultes) " : " La nombre de comprimés dépend du poids: P=30-39kg : 2 comprimés P=40-54kg : 3 comprimés P=55-70kg : 4 comprimés P>70kg : 5 comprimés",
+                     "Adaptation posologique" : {
+                        "IR": "Oui",
+                        "IH" : "",
+    
+                     },
+                     "Disponibilité": "NH",
+                }
+               ],
+               [
+                "ANTIFONGIQUES":{
+                    
+                }
+               ],
+               [
+                "Antifongiques-":{
+                    "DCI ": " Fluconazole",
+                    "Forme et dosage":"50 mg, 150mg gélules 100mg, 200mg solution injectable",
+                     "Posologie usuelle (adultes) " : "Candidose oropharyngée, buccale ou œsophagienne : 200 mg à 400 mg le 1er jour puis 100 à 200mg/j Candidose vaginale : 150 mg en dose unique Candidose urinaire : 200 à 400 mg/j Candidose systémique : 800mg à J1 puis 400mg /j Cryptococcose : ",
+                     "Adaptation posologique" : {
+                        "IR": "Oui",
+                        "IH" : "Oui",
+    
+                     },
+                     "Disponibilité": "NH",
+                }
+               ],
+               
+               "notetableaup92":"NH : Nomenclature Hospitalières / DC : Dose de Charge / DE : Dose d’Entretien",
+
+        },
+
+    },
+    "page94":{
+        "titlepapge94":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage94":{
+            [
+                "DCI":"",
+                "Disponibilité":"",
+                "Forme et dosage": "",
+                "Posologie usuelle (adultes)": "Traitement d’attaque : 400mg/j pendant 6 à 8 semaines jusqu’à 800 mg en cas d’infection menaçant le pronostic vital Traitement d’entretien : 200mg/j",
+                "Adaptation posologique":{
+                    "IR":"",
+                    "IH":"",
+                }                
+            ],
+            [
+                "DCI":"Voriconazole",
+                "Forme et dosage": "200mg comprimés 200mg poudre pour solution pour perfusion ",
+                "Disponibilité":"",
+                "Posologie usuelle (adultes)": "DC : 200 mg (soit 6mg/Kg) toutes les 12h à J1 DE : 100mg (soit 4mg/Kg) toutes les 24h",
+                "Adaptation posologique":{
+                    "IR":"Non",
+                    "IH":"",
+                }
+                
+                
+            ],
+            [
+                "DCI":"Caspofungine ",
+                "Disponibilité":"HN",
+                "Forme et dosage": "70mg 50mg Poudre pour solution à diluer pour perfusion",
+                "Posologie usuelle (adultes)": "<80Kg : 70 mg à J1 puis 50mg/j
+                >80Kg : 70mg/j",
+                "Adaptation posologique":{
+                    "IR":"Non",
+                    "IH":"HN",
+                }              
+            ],
+            [
+                "DCI":"Amphotéricine B ",
+                "Disponibilité":"HN",
+                "Forme et dosage": " 50mg
+                Poudre pour solution
+                injectable
+                (Fungizone®)",
+                "Posologie usuelle (adultes)": "0,3mg/kg puis augmentation de 10 mg/j si nécessaire
+                jusqu’au 0,5 à 1 mg/Kg/j
+                Posologie maximale de 1,5mg/kg/j",
+                "Adaptation posologique":{
+                    "IR":"Oui ",
+                    "IH":"",
+                }                
+            ],
+            [
+                "DCI":"Amphotéricine B liposomale",
+                "Disponibilité":"HN",
+                "Forme et dosage": "3mg/Kg/j ",
+                "Posologie usuelle (adultes)": "",
+                "Adaptation posologique":{
+                    "IR":"Non",
+                    "IH":"",
+                }
+                
+            ],
+            "notetabpage94":"HN : Hors Nomenclature
+            ",
+
+        },
+    },
+
+    "page95":{
+        "titlepage95":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+    },
+
+    "page96":{
+        "titlepage96":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage96":{
+            "titretableau96": "Guide d’administration des anti-infectieux injectables
+            ",
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"Amikacine Miacin® ",
+                    "Présentation conservation":"Solution 500 mg ",
+                    "Reconstitution / stabilité après reconstitution" :"Solution ",
+                    "Dilution / stabilité après dilution":"Dilution avec 100mL NaCl 0.9% ou G5% (conc. max. 5 mg/mL) Stable 24h",
+                    "Mode d’administration " :"IM IV lent sur 3-5 minutes De préférence, perfusion IV sur 30 à 60 minutes",
+                    "Particularités pH, compatibilité":"pH 4.2 à 4.8 Incompatible avec pénicillines, céphalosporines, héparine",
+
+                ] 
+                [
+                    "DCI Princeps®":"Amoxicilline-acide clavulanique Augmentin®",
+                    "Présentation conservation":"PPSI 2g/200 mg PPSI 1g/200 mg PPSI 500mg/50 mg",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer 1.2 g avec 20 mL EPPI ou NaCl 0.9% Reconstituer 2.2 g avec 100 mL NaCl 0.9% (Concentration : 50mg/mL d’amoxicilline) Utiliser de suite",
+                    "Dilution / stabilité après dilution":" Dilution avec NaCl 0.9% (conc. max. 50mg/mLd’amoxicilline) Stable 1h",
+                    "Mode d’administration " :"IV lent sur 3 à 5 minutes (dose ≤ 1.2g non dilué) Perfusion IV sur 30 à 60 minutes (1.2g ou 2.2g)",
+                    "Particularités pH, compatibilité":"pH 8.6 à 8.8 Incompatible avec aminoglycosides, protéines, émulsions lipidiques Compatible avec la Nutrition Parentérale Totale Contient 2 principes actifs. Teneur en sodium : 64.5 mg/ g d’amoxicilline",
+
+                ]
+            },
+
+        },
+    },
+    "page97":{
+        "titlepage97":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage97":{
+        
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"Ampicilline Totapen®",
+                    "Présentation conservation":"Lyophilisat 1g ",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer 1g avec 10ml de EPPI (conc : 100 mg/mL) Utiliser de suite",
+                    "Dilution / stabilité après dilution":"Diluer dans NaCl 0,9%, glucosé 5% (conc max : 30 mg/mL) Dans NaCl 0.9% : stable 8 h Dans G5% : stable 1 h",
+                    "Mode d’administration " :"IM IV lent sur 3 à 5 minutes (dose ≤ 1 g) Perfusion IV sur 15 à 30 minutes (1 g ou 2 g)",
+                    "Particularités pH, compatibilité":"pH 8 à 10 Incompatible avec aminoglycosides Stabilité réduite dans les solutions glucosées Teneur en sodium : 62 mg/ g d‘ampicilline",
+
+                ]
+                [
+                    "DCI Princeps®":"Benzathine Benzylpenicilline Extencilline®",
+                    "Présentation conservation":"PPSI 0,6 MUI 1,2 MUI 2 ,4MUI",
+                    "Reconstitution / stabilité après reconstitution" :"EPPI 2ml 4ml 8ml",
+                    "Dilution / stabilité après dilution":"Pas de dilution",
+                    "Mode d’administration " :"IM uniquement",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"Cefazoline Cefazoline®",
+                    "Présentation conservation":"PPSI 1g Conserver à l’abri de la lumièr",
+                    "Reconstitution / stabilité après reconstitution" :"IM: reconstituer avec 2.5 mL EPPI, ou lidocaïne 1% IV : reconstituer1g avec 10mL EPPI (conc. 100mg/mL) Stable 12h",
+                    "Dilution / stabilité après dilution":"Dilution avec 50 à 100 mL NaCl 0.9% ou G5% Stable 12h",
+                    "Mode d’administration " :"IM IV lent sur 3 à 5 minutes (conc.max : 100 mg/mL) Perfusion IV sur 10 à 60 minutes (conc. max : 20 mg/mL) Si restriction hydrique: conc. 100 mg/mL par VVC",
+                    "Particularités pH, compatibilité":"pH 4.5 à 6 Incompatible avec aminoglycosides Teneur en sodium : 48 mg/ g de céfazolin",
+
+                ]
+                [
+                    "DCI Princeps®":"Cefotaxime Claforan®",
+                    "Présentation conservation":"PPSI 500 mg 1g",
+                    "Reconstitution / stabilité après reconstitution" :"2-4 ml EPPI",
+                    "Dilution / stabilité après dilution":"Diluer dans 100 à 250 ml NaCl0,9%, G5%, Ringer",
+                    "Mode d’administration " :"Perfusion (20min) IM directe, lente (3-5 min)",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"Cefotaxime Claforan®",
+                    "Présentation conservation":"PPSI 500 mg 1g",
+                    "Reconstitution / stabilité après reconstitution" :"2-4 ml EPPI ",
+                    "Dilution / stabilité après dilution":"Diluer dans 100 à 250 ml NaCl0,9%, G5%, Ringer",
+                    "Mode d’administration " :"Perfusion (20min) IM directe, lente (3-5 min)",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"Ceftazidime Fortum®",
+                    "Présentation conservation":"Lyophilisat 1g Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"IM: reconstituer avec 3mL EPPI ou lidocaïne à 1%",
+                    "Dilution / stabilité après dilution":"Dilution possible avec 50 mL NaCl 0.9% ou G5%",
+                    "Mode d’administration " :"IM (dose < 1 g) IV lent sur 3 à 5 minutes non dilué",
+                    "Particularités pH, compatibilité":"pH 5 à 8 ",
+
+                ]
+            },
+
+        },
+    },
+
+    "page98":{
+        "titlepage98":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage98":{
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"",
+                    "Présentation conservation":"",
+                    "Reconstitution / stabilité après reconstitution" :"IV : reconstituer avec 10mL EPPI ou NaCl 0.9% (vol final : 11.1 mL, conc : 92 mg/mL) Formation de CO2 lors de la reconstitution ; suivre instructions selon mode d'emploi Stable 18h",
+                    "Dilution / stabilité après dilution":"stable 12h",
+                    "Mode d’administration " :"Perfusion IV sur 15 à 30 minutes (conc max. 40mg/mL) Perfusion IV continue",
+                    "Particularités pH, compatibilité":"Incompatible avec aminoglycosides, vancomycine Teneur en sodium : 52 mg/ g de ceftazidime",
+
+                ]
+                [
+                    "DCI Princeps®":"Céftriaxone Rocéphine®",
+                    "Présentation conservation":"PPSI 1g (IV/IM) Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"IM : Reconstitution de 1 g avec 3.5 mL lidocaine 1% IV, SC : Reconstitution de 1 g avec 10 mL EPPI ou NaCl 0.9% (conc : 100 mg/mL Stable 24h",
+                    "Dilution / stabilité après dilution":"Dilution possible dans 50 à 100 mL de NaCl 0.9% ou G5% (conc : 10 à 100 mg/mL) Stable 24h",
+                    "Mode d’administration " :"IM (max 1 g/ site injection) IV lent sur 3 à 5 minutes (dose ≤ 1 g, conc max : 100 mg/mL) Perfusion IV sur 30 minutes à 1 h (conc max : 40 mg/mL)",
+                    "Particularités pH, compatibilité":"pH 6 à 8 Incompatible avec les sels de calcium, aminoglycosides, Nutrition Parentérale Totale Teneur en sodium : 83 mg/ g de ceftriaxone",
+
+                ]
+            },
+
+        },
+    },
+    "page99":{
+        "titlepage99":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage99":{
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"Clindamycine Dalacine ®",
+                    "Présentation conservation":"Amp 600mg/4ml S",
+                    "Reconstitution / stabilité après reconstitution" :"Solution",
+                    "Dilution / stabilité après dilution":"Dilution avec 50 à 100 mL NaCl 0.9% ou G5% NE PAS INJECTER IV SANS DILUTION (conc. max. 12 mg/mL) Stable 24h",
+                    "Mode d’administration " :"IM: max. 600 mg/dose Perfusion IV sur 10 à 60 minutes Débit max : 20 mg/kg/h (< 30 mg/min))",
+                    "Particularités pH, compatibilité":"pH 5.5 à 7.0 ",
+
+                ]              
+                [
+                    "DCI Princeps®":"Colistine Colimycine®",
+                    "Présentation conservation":"PPSI 1millU = 79mg de colistiméthate sodique = 33.3mg de colistine",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituter avec 3mL de NaCl 0.9% (ampoule de solvant fournie) Stable 6h",
+                    "Dilution / stabilité après dilution":"Dilution dans NaCl 0.9% Stable 24h",
+                    "Mode d’administration " :"IM : répartir la dose journalière en 2 ou 3 injections IV lent sur 3 à 5 minutes Perfusion IV sur 30 à 60 minutes",
+                    "Particularités pH, compatibilité":"Colistine® pour inhalation est le même produit que l’ancienne préparation Colistin® parentérale et peut être administrée",
+
+                ]
+                [
+                    "DCI Princeps®":"Fosfomycine Fosfocine ® ",
+                    "Présentation conservation":"Flacon 1g 4g Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstitution 2g avec 10 mL EPPI (conc : 200 mg/mL",
+                    "Dilution / stabilité après dilution":"Dilution avec EPPI ou G5% 2 g avec 50mL d’EPPI 4 g avec 100mL d’EPPI 8 g avec 200mL d’EPPI A utiliser de suite ou conserver au frigo, à l’abri de la luumière. Stable 12h",
+                    "Mode d’administration " :"2 g en min 15 minutes 4 g en min 30 minutes 8 g en min 60 minutes Débit max : 135 mg/min",
+                    "Particularités pH, compatibilité":"1 g de fosfomycine contient 320mg de sodium, c’est pourquoi le médicament doit être dilué avec de l’EPPI",
+
+                ]
+            },
+
+        },
+    },
+    "page100":{
+        "titlepage96":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage96":{
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"Gentamicine Gentalline®",
+                    "Présentation conservation":"Amp 10mg/2ml 40 mg/2ml 80 mg/2ml 160 mg/2ml",
+                    "Reconstitution / stabilité après reconstitution" :"Solution",
+                    "Dilution / stabilité après dilution":"Dilution avec 50-250 mL NaCl 0.9% ou G5% (conc. 0.3 - 1.6 mg/mL, max. 10 mg/mL) Stable 24h",
+                    "Mode d’administration " :"IM IV lent sur 3 à 5 minutes (non dilué) De préférence, perfusion IV sur 30 à 60 minutes Intrapéritonéal (ajout dans solution dialyse péritonéale)",
+                    "Particularités pH, compatibilité":"pH 3 à 5.5 Incompatible avec pénicillines, héparine Compatible avec Nutrition Parentérale Totale",
+
+                ]
+                [
+                    "DCI Princeps®":"Imipénème + Cilastatine Tienam® Synergic*",
+                    "Présentation conservation":"PPSI 500/500 mg",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec 20 mL NaCl 0.9% (conc. 25 mg/mL)",
+                    "Dilution / stabilité après dilution":"Dilution avec 100 mL de NaCl 0.9% ou G5% (conc. 5mg/mL, max. 7 mg/mL) Ne pas administrer sans dilution Stable 4h (24h au frigo)",
+                    "Mode d’administration " :"Dose < 500mg : Perfusion IV sur 20 à 30 minutes Dose > 500mg : Perfusion IV sur 40 à 60 minutes Perfusion IV plus lente possible si patient nauséeux Perfusion IV prolongée sur 4 h. Intrapéritonéal (ajout dans solution dialyse péritonéale)",
+                    "Particularités pH, compatibilité":"pH 6.5 à 7.5 Incompatible avec lactate Compatible avec Nutrition Parentérale Totale Teneur en sodium : 37.5 mg/ 500 mg d’imipénème",
+
+                ]
+                [
+                    "DCI Princeps®":"Levofloxacine Tavanic®",
+                    "Présentation conservation":"Flacon 500 mg Protéger de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"Solution",
+                    "Dilution / stabilité après dilution":"Prêt à l’emploi Stable 24 h",
+                    "Mode d’administration " :"Perfusion IV sur 1 à 2 h ",
+                    "Particularités pH, compatibilité":"pH 4.3 à 5.3 Incompatible avec héparine, solutions alcalines (bicarbonates)",
+
+                ]
+            },
+
+        },
+    },
+    "page101":{
+        "titlepage101":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage101":{
+            
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"Linézolide Zyvoxid®",
+                    "Présentation conservation":"Flacon 600 mg",
+                    "Reconstitution / stabilité après reconstitution" :"Solution",
+                    "Dilution / stabilité après dilution":"Prêt à l’emploi Stable 24 h",
+                    "Mode d’administration " :"Perfusion IV sur 30 minutes à 2 h",
+                    "Particularités pH, compatibilité":"pH 4.8
+                    ",
+
+                ]
+                [
+                    "DCI Princeps®":"Méropenème",
+                    "Présentation conservation":"",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstitution de 500 mg avec 10 mL EPPI Reconstitution de 1 g avec 20 mL EPPI (conc : 50 mg/mL) Stable 2 h Stable 12 h au frigo",
+                    "Dilution / stabilité après dilution":"Dilution avec NaCl 0.9% ou G5% (conc : 1 à 20 mg/mL) Dans NaCl 0.9% : stable 8 h Dans G5% : stable 2 h",
+                    "Mode d’administration " :"IV lent sur 5 minutes (conc max : 50 mg/mL) Perfusion IV sur 15 à 30 minutes Perfusion IV continue Intrapéritonéal (ajout dans solution dialyse péritonéale)",
+                    "Particularités pH, compatibilité":"pH 8 Compatible avec Nutrition Parentérale Totale Teneur en sodium : 90 mg/ g de méropénème",
+
+                ]
+                [
+                    "DCI Princeps®":"Ofloxacine Oflocet®",
+                    "Présentation conservation":"Flacon 200 mg/40 ml",
+                    "Reconstitution / stabilité après reconstitution" :"Solution prête à l’emploi ou à la dilution",
+                    "Dilution / stabilité après dilution":"Diluer dansNaCl 0,9% G5% Après dilution la stabilité physicochimique est maintenue -3 jours à température ambiante",
+                    "Mode d’administration " :"Perfusion IV (30 min)",
+                    "Particularités pH, compatibilité":"pH 4.3 à 5.3 Incompatible avec héparine, solutions alcalines (bicarbonates)",
+
+                ]
+                [
+                    "DCI Princeps®":"Oxacilline Bristopen®",
+                    "Présentation conservation":"PPSI 1g",
+                    "Reconstitution / stabilité après reconstitution" :"5 ml",
+                    "Dilution / stabilité après dilution":"5 ml EPPI G5% NaCl 0,9%",
+                    "Mode d’administration " :"Perfusion lente IM Après reconstitution ou dilution : 4h à",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"",
+                    "Présentation conservation":"",
+                    "Reconstitution / stabilité après reconstitution" :"",
+                    "Dilution / stabilité après dilution":"",
+                    "Mode d’administration " :"température ambiante <25°C",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"",
+                    "Présentation conservation":"",
+                    "Reconstitution / stabilité après reconstitution" :"",
+                    "Dilution / stabilité après dilution":"",
+                    "Mode d’administration " :"température ambiante <25°C",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+
+                
+                
+            },
+
+        },
+    },
+    "page102":{
+        "titlepage96":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage102":{
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"",
+                    "Présentation conservation":"",
+                    "Reconstitution / stabilité après reconstitution" :"",
+                    "Dilution / stabilité après dilution":"",
+                    "Mode d’administration " :"température ambiante
+                    <25°C
+                    ",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"Piperacilline",
+                    "Présentation conservation":"PPSI 2g ",
+                    "Reconstitution / stabilité après reconstitution" :"M: reconstituer avec 8 mL EPPI ou lidocaine 0.5 à 1% (conc. 400 mg/mL) IV: reconstituer avec 8 mL EPPI (conc. 400 mg/mL) Stable 24h",
+                    "Dilution / stabilité après dilution":"Dilution avec 250 mL de NaCl 0.9% ou G5% (conc. 16mg à 200 mg/mL) Stable 24h",
+                    "Mode d’administration " :"M (dose max. 2g / site d'injection) IV lent sur 3 à 5 minutes Perfusion IV sur 20 à 60 minutes (conc. max. 20 mg/mL)",
+                    "Particularités pH, compatibilité":"",
+
+                ]
+                [
+                    "DCI Princeps®":"Piperacilline / Tazobactam Tazocilline®",
+                    "Présentation conservation":"PPSI 2g/0.25g 4g/0.5g",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer 2g avec 10mL et 4g avec 20 mL NaCl 0.9% ou EPPI (conc : 225mg/mL) Stable 24h",
+                    "Dilution / stabilité après dilution":"Dilution avec 50 mL - 100mLNaCl 0.9% ou G5% Stable 24h",
+                    "Mode d’administration " :"IV lent sur 3 à 5 minutes (non dilué) Perfusion IV sur 20 minutes (2g) sur 40 minutes (4g) Perfusion en continu : PSE : 4.5 g dans 50 mL (90 mg/mL) sur 3 fois 8h. 13,5 g dans 250 mL (54 mg/mL) sur 24 h. Si restriction hydrique : conc max : 225 mg/mL par VVC",
+                    "Particularités pH, compatibilité":"pH 4.5 à 6.8 Osmolarité: 500 mOsm/L (225 mg/mL) Incompatible avec bicarbonates, Ringer et aminoglycosides (p. ex. gentamicine) Teneur en sodium : 54 mg/ g de pipéracilline",
+
+                ]
+            },
+
+        },
+    },
+    "page103":{
+        "titlepage103":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage103":{
+            
+            "Antibiotiques":{
+                [
+                    "DCI Princeps®":"Rifampicine Rifadine®",
+                    "Présentation conservation":"Lyophylisat 600 mg Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec 5 mL d’EPPI (conc. 60mg/mL) Porter un masque et des gants lors de la préparation (risque de réaction d’hypersensibilité de contact). Stable 24h",
+                    "Dilution / stabilité après dilution":"Dilutionde 300mg avec 250 mL de NaCl 0.9% ou G5% (conc. usuelle 1.2 mg/mL, conc. max 6 mg/mL) Stable 6h",
+                    "Mode d’administration " :"Perfusion IV sur 30 minutes à 3h (conc. max. 6 mg/mL) Phlébogène, de préférence VVC si disponible",
+                    "Particularités pH, compatibilité":"pH 7.8 à 8.8 Incompatible avec Nutrition Parentérale Totale Eviter extravasation car très agressif",
+
+                ]
+                [
+                    "DCI Princeps®":"Teicoplanine Targocid®",
+                    "Présentation conservation":"Flacon 400 mg",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec solvant fourni (3 mL EPPI) Agiter doucement pour éviter la formation de mousse Stable 24h",
+                    "Dilution / stabilité après dilution":"Dilution avec NaCl 0.9% ou G5% (conc. max. 40 mg/mL) Stable 24h",
+                    "Mode d’administration " :"IM IV lent sur 3 à 5 minutes (non dilué) Perfusion IV sur 30 minutes",
+                    "Particularités pH, compatibilité":"pH 7.5 Incompatible avec aminoglycosides, Nutrition Parentérale Totale",
+
+                ]
+                [
+                    "DCI Princeps®":"Tigécycline Tygacil®",
+                    "Présentation conservation":"PPSI 50mg Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstitution avec 5.3 mL NaCl 0.9% (conc : 10 mg/mL) Utiliser de suite",
+                    "Dilution / stabilité après dilution":"Dilution avec NaCl 0.9% ou G5% (conc max : 1 mg/mL)",
+                    "Mode d’administration " :"Perfusion IV sur 30 minutes à 1 h",
+                    "Particularités pH, compatibilité":"Incompatible avecsolutions alcalines, amphotericine B, diazepam, esomeprazole",
+
+                ]
+                [
+                    "DCI Princeps®":"Vancomycine Vancomycine®",
+                    "Présentation conservation":"Flacon 500 mg Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec 10 mL EPPI (conc. 50 mg/mL) Stable 24h au frigo",
+                    "Dilution / stabilité après dilution":"Dilution dans minimum 100 mL de NaCl 0.9% ou G5% NE PAS ADMINISTRER SANS DILUTION Stable 24h",
+                    "Mode d’administration " :"Perfusion IV 1 g sur 2h (conc. max 5 mg/mL) Débit max. 10 mg/min Si restriction hydrique: conc. 10 mg/mL par VVC",
+                    "Particularités pH, compatibilité":"pH 2.5 à 4.5 Incompatible avec héparine, béta-lactames Compatible avec Nutrition Parentérale Totale ",
+
+                ]
+            },
+
+        },
+    },
+    "page104":{
+        "titlepage104":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage104":{
+            "Antifongiques":{
+                [
+                    "DCI Princeps®":"Fluconazole",
+                    "Présentation conservation":"Solution pour perfusion 2mg/ml Flacon de 100mg et 200mg",
+                    "Reconstitution / stabilité après reconstitution" :"Après ouverture, le produit doit être utilisé immédiatement",
+                    "Dilution / stabilité après dilution":"Prêt à l’emploi NE PAS DILUER",
+                    "Mode d’administration " :"La perfusion IV doit être administrée à une vitesse ne dépassant pas 10 ml/minute Perfusion IV sur 1 à 2 h Débit max : 20 mg/min Intrapéritonéal (ajout dans solution dialyse péritonéale",
+                    "Particularités pH, compatibilité":"pH 5 à 6.5 Compatible avec Nutrition Parentérale Totale",
+
+                ]
+                [
+                    "DCI Princeps®":" Caspofungine Cancidas®",
+                    "Présentation conservation":"Poudre pour solution à diluer pour perfusion. 50mg et70mg",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec10.5 mL de l’EPPI. (conc : 5 mg/mL resp. 7 mg/mL) Stable 24h à une température comprise entre 2 et 8°C",
+                    "Dilution / stabilité après dilution":"Diluée dans100 à 250 mL de NaCl à 0,9%pour perfusion (conc : 0.2 à 0.45 mg/mL) NE PAS DILUER AVEC GLUCOSE 5% Stable 24 h",
+                    "Mode d’administration " :"Perfusion IV lente environ 1 heure (conc max : 0.45 mg/mL) Si restriction hydrique : utiliser non dilué par VVC",
+                    "Particularités pH, compatibilité":"pH 6.6 A conserver au réfrigérateur (entre 2°C et 8°C). Incompatible avec héparine, Nutrition Parentérale Totale Compatible avec G5% en Y uniquement",
+
+                ]
+                [
+                    "DCI Princeps®":"Voriconazole Vfend®",
+                    "Présentation conservation":"200mg poudre pour solution à diluer pour perfusion",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec 19 ml d’EPPI afin d’obtenir un volume extractible limpide de 20 ml",
+                    "Dilution / stabilité après dilution":"Dilution dans 50 à 100 mL de NaCl 0.9% ou G5% Stable 24h",
+                    "Mode d’administration " :"Perfusion IV lente sur 1 à 2 h (conc : 0.5 à 5 mg/mL) Débit max : 3 mg/kg/h",
+                    "Particularités pH, compatibilité":"pH 5.5 à 7.5 Incompatible avec Nutrition Parentérale Totale,",
+
+                ]
+            },
+
+        },
+    },
+    "page105":{
+        "titlepage105":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "tableauoage105":{
+
+            "Antifongiques":{
+                [
+                    "DCI Princeps®":"",
+                    "Présentation conservation":"",
+                    "Reconstitution / stabilité après reconstitution" :"contenant 10 mg/ml de voriconazole Stable 24h à 2-8 °C",
+                    "Dilution / stabilité après dilution":"",
+                    "Mode d’administration " :"",
+                    "Particularités pH, compatibilité":"bicarbonate Ne doit pas être dilué avec une solution à 4,2 % de bicarbonate de sodium pour perfusion",
+
+                ]
+                [
+                    "DCI Princeps®":"Amphotéricine B Fungizone®",
+                    "Présentation conservation":"50 mg Poudre pour solution injectable Conserver au frigo Conserver à l’abri de la lumière",
+                    "Reconstitution / stabilité après reconstitution" :"10 ml d'EPPI Solution concentrée (50 mg dans 10 ml) Stable 24h",
+                    "Dilution / stabilité après dilution":"Le seul solvant utilisable est le sérum glucosé à 5 % Solution pour perfusion (0,1 mg/ml ou moins) : à utiliser immédiatement. NE PAS DILUER AVEC NaCl 0.9%",
+                    "Mode d’administration " :"Perfusion IV lente sur minimum 6h Phlébogène, de préférence VVC si disponible Si restriction hydrique sévère : conc max : 0.4 mg/mL par VVC",
+                    "Particularités pH, compatibilité":"pH 7.2 à 8 Incompatible avec électrolytes, Nutrition Parentérale Totale Incompatible avec NaCl 0.9% y compris en Y Conserver à une température comprise entre 2°C et 8°C. Ne pas reconstituer avec des solutions salines",
+
+                ]
+                [
+                    "DCI Princeps®":"Amphotéricine B Liposomale Ambisome®",
+                    "Présentation conservation":"50mg Poudre pour suspension de liposomes pour perfusion",
+                    "Reconstitution / stabilité après reconstitution" :"Reconstituer avec de l'EPPI (conc : 4 mg/mL) Stable 24h au frigo",
+                    "Dilution / stabilité après dilution":"Diluer dans une solution de glucose à 5 %(conc : 0.2 à 2 mg/mL) NE PAS DILUER AVEC NaCl 0.9% Stable 24 h",
+                    "Mode d’administration " :"Perfusion IV sur 30 minutes à 2 h (éventuellement sur 4 h en cas de mauvaise tolérance) Administrer sur 2 h si dose > 5 mg/kg Rinçage de la voie avec G5% avant et après administration",
+                    "Particularités pH, compatibilité":"pH 5 à 6 Incompatible avec électrolytes, Nutrition Parentérale Totale Incompatible avec NaCl 0.9% y compris en Y",
+
+                ]
+            },
+
+        },
+
+    },
+
+    "page106":{
+        "titlepage106":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "refpage106":"Références:
+        \n - Résumés des caractéristiques des produits (RCP), ANSM. - Hôpitaux Universitaires de Genève. Guide d’administration des médicaments injectables chez l’adulte. Version 03/04/2023.
+        ",
+
+    },
+    "page108":{
+        "titlepage108":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titrepage108":"Guide d’adaptation posologique des antibiotiques chez l’insuffisant rénal
+        ",
+        "tableaupage108":{
+            "Antibiotique":{
+                "Famille Antibiotique  Céphalospirines":{
+                    "Titre":"Céphalospirines",
+                    "DCI1":{
+                        "Titre":"Céfazoline",
+                        "version1":{
+                            "TitreV1":"Infection légère ou peu sévère",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                "70_60":"Pas d’adaptation",
+                                "60_30":"30 - 40 mg/kg/j",
+                                "30_15":"15 - 20 mg/kg/j",
+                                "15_<10":"15 - 20 mg/kg/48h",
+                            },
+                            "Hémodialyse":{
+                                "Par 24H":"15-20mg/kg/48h après HD",
+                                "Après HD": "15-20mg/kg/48h après HD",
+                            },
+                        },
+                        "version2":{
+                            "TitreV2":"Infection légère ou peu sévère",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                "70_60":"Pas d’adaptation",
+                                "60_30":"40 - 50 mg/kg/j ",
+                                "30_15":"20 - 25mg/kg/j",
+                                "15_<10":"20-25mg/kg/48h ",
+                            },
+                            "Hémodialyse":{
+                                "Par 24H":"20-25mg/kg/48h après HD",
+                                "Après HD": "20-25mg/kg/48h après HD",
+                            },
+                        },
+                        
+                    },
+                    "DCI2":{
+                        "Titre":"Céfotaxime",
+                        "version1":{
+                            "TitreV1":"1-2g/8h",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                "70_60":"Pas d’adaptation",
+                                "60_30":"1-2g/12h",
+                                "30_15":"750mg - 1.5g/12h",
+                                "15_<10":"750mg -1.5g/j",
+                            },
+                            "Hémodialyse":{
+                                "Par 24H":"750mg -1.5g/j",
+                                "Après HD": "750mg -1.5g/j",
+                            },
+                        },
+                        "version2":{
+                            "TitreV2":"Posologies élevées",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                "70_60":"Pas d’adaptation",
+                                "60_30":"IOA :75 - 112.5 mg/kg/j \n  IM : 150 - 225 mg/kg/j",
+                                "30_15":"IOA :50 - 75 mg/kg/j IM : 100 - 150 mg/kg/j",
+                                "15_<10":"IOA :25 - 37.5 mg/kg/j IM : 50 - 75 mg/kg/j ",
+                            },
+                            "Hémodialyse":{
+                                "Par 24H":"IOA :25 - 37.5 mg/kg/j  \n IM : 50 - 75 mg/kg/j",
+                                "Après HD": "IOA :25 - 37.5 mg/kg/j  \n IM : 50 - 75 mg/kg/j",
+                            },
+                        },
+                        
+                    },
+                    "DCI3":{
+                        "titreDCI3":"Céftriaxone",
+                         "Fonction rénale selon la clairance (ml/min)":{
+                            "70_10":"Pas d’adaptation (infections modérées)",
+                            "<10":"Max 2g/j",
+                         },
+                         "Hémodialyse":{
+                            "Par 24H":"1 à 2g",
+                            "Après HD": "1 à 2g",
+                        },
+                    },
+                    "DCI4":{
+                        "titreDCI4":"Céftazidime ",
+                        "Version1DCI4":{
+                            "titrev1":"Perfusion discontinue",
+                            "70_60":"Pas d’adaptation",
+                            "60_30":"2g/12h",
+                            "30_15":"2g/j",
+                            "15_<10":"1g/j",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"",
+                            "Après HD": "2g/48h",
+                        },
+                        "Version2DCI4":{
+                            "titrev2":"Perfusion continue",
+                            "70_60":"Pas d’adaptation",
+                            "60_30":"2g DC suivie par 3g/24h",
+                            "30_15":"2g DC puis 1g/24h",
+                            "15_<10":"ND",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"ND",
+                            "Après HD": "ND",
+                        },
+                    },
+
+                },
+                "Famille Antibiotique Carbapénèmes": {
+                    "titre " :"Carbapénèmes",
+                    "DCI1":{
+                        "titreDCI1":"Ertapénème",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            "70_30":"Pas d’adaptation",
+                            "30_<10":"500mg/j ",
+
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"",
+                            "Après HD":"500mg",
+                        },
+
+                    },
+                    "DCI2":{
+                        "Titre DCI2":"Imipénème+ cilastatine",
+                        "Version1DC2":{
+                            "TitreVersion1":"2g/j",
+                             "Fonction rénale selon la clairance (ml/min)":{
+                                "70_40":"500 mg/8h",
+                                "40_20":"250 mg/6h",
+                                "20_<10":"250mg/12h",
+                             },
+                             "Hémodialyse":{
+                                "Par 24H":"250 mg/12h",
+                                "Après HD ":"250 mg/12h",
+                             },
+
+                        },
+                        "Version2DC2":{
+                            "TitreVersion2":"3g/j",
+                             "Fonction rénale selon la clairance (ml/min)":{
+                                "70_40":"500 mg/6h",
+                                "40_20":"500 mg/8h",
+                                "20_<10":"500mg/12h",
+                             },
+                             "Hémodialyse":{
+                                "Par 24H":"500mg/12h",
+                                "Après HD ":"500mg/12h",
+                             },
+
+                        },
+                        "Version3DC2":{
+                            "TitreVersion3":"4g/j",
+                             "Fonction rénale selon la clairance (ml/min)":{
+                                "70_40":"750 mg/8h ",
+                                "40_20":"500 mg/6h",
+                                "20_<10":"500mg/12h",
+                             },
+                             "Hémodialyse":{
+                                "Par 24H":"500mg/12h",
+                                "Après HD ":"500mg/12h",
+                             },
+
+                        },
+
+                    },
+                    "DCI3":{
+                        "TitreDCI3":"Méropénème",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_50":"Pas d'adaptation",
+                            "50_30":"1 - 2g*2/j",
+                            "30_<10":"500mg à 1g*2/j",
+
+                        },
+                        "Hémodialyse":{
+                            "Par 24h":"500-1g/j",
+                            "Après HD":"500-1g/j",
+                        },
+
+                    },
+                },
+                
+               
+            },
+        },
+        "NOteDc" :" DC : Dose de Charge / DU : Dose Usuelle / HD : Hémodialyse /IM : Infections Méningées/ IOA : Infections Ostéoarticulaires/ TB : Tuberculose / PO : Per Os / INJ : injectable /
+        MUI : Million d’Unités Internationales",
+
+    },
+    "page107":{
+        "titlepage107":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage107":{
+            "antibiotique":{
+                "Famille":"Pénicillines",
+                "DCI0":{
+                    "DCI":"Benzylpénicilline (Pénicilline G)",
+               
+                "Fonction rénale selon la clairance (ml/min)0":{
+                    "+70 _ 50": "Pas d'adaptation",
+                    "50_30":"2 MUI / 4h",
+                    "30_15":"1MUI / 4h",
+                    "15_ <10":"0.5 MUI/6h",
+                },
+
+                "Hémodialyse0":{
+                    "Par 24": "0.5 MUI/6h",
+                    "Après HD" : "0.5 MUI/6h",
+
+                },
+                    
+            }, 
+
+            "DCI1":{
+                "titreDC1":"Benzanthine- benzyl- pénicilline",
+                "DCI":{
+                    "Sous DCI1" :{
+                        "titresousdci1": "2.4MUI /8j",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            "+70 _ 50": "Pas d'adaptation",
+                            "50_15":"1.8 MUI /8j",
+                            "15_ <10":"ND",
+                        },
+                        "Hémodialyse0":{
+                            "Par 24": "ND",
+                            "Après HD" : "ND",
+            
+                        },
+
+
+                    },
+                    "Sous DCI1.2" :{
+                        "titresousdci1.2": "1.2MUI /3-4 sem",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            "+70 _ 50": "Pas d'adaptation",
+                            "50_15":"0.9 MUI /3-4 semaines",
+                            "15_ <10":"ND",
+                        },
+                        "Hémodialyse":{
+                            "Par 24": "ND",
+                            "Après HD" : "ND",
+            
+                        },
+
+
+                    },
+                   
+
+                },
+         
+             }, 
+
+             "DCI2":{
+                "titreDC2":"Oxacilline",
+                "Fonction rénale selon la clairance (ml/min) ":"Pas d'dapptation",
+                "Hémodialyse":{
+                    "Par 24": "Pas d'dapptation",
+                    "Après HD" :"Pas d'dapptation",
+
+                },
+             },
+             "DCI03" :{
+                "titredci03": "Ampicilline",
+                "Fonction rénale selon la clairance (ml/min)":{
+                    "+70 _ 60": "Pas d'adaptation",
+                    "60_15":"1-6g /j ",
+                    "15_ <10":"500 mg-3g /j",
+                },
+                "Hémodialyse0":{
+                    "Par 24": "500 mg-3g /j",
+                    "Après HD" : "500 mg-3g /j",
+    
+                },
+
+
+            },
+
+                "DCI3":{
+                    "titreDCI3":"Amoxicilline PO",
+                    "Sous DCI3.1" :{
+                        "titresousdci3": "1g /12h",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            "+70 _ 30": "Pas d'adaptation",
+                            "30_15":"DC 1g puis 500mg*2/j",
+                            "15_ <10":"DC 1g puis 500mg/j",
+                        },
+                        "Hémodialyse":{
+                            "Par 24": "DC 1g puis 500mg/j",
+                            "Après HD" : "DC 1g puis 500mg/j",
+            
+                        },
+
+
+                    },
+                    "Sous DCI3.2" :{
+                        "titresousdci3.2": "1g /8h ",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            "+70 _ 30": "Pas d'adaptation",
+                            "30_15":"DC 1g puis 500mg*3/j",
+                            "15_ <10":"DC 1g puis 750mg/j",
+                        },
+                        "Hémodialyse":{
+                            "Par 24": "DC 1g puis 750mg/j",
+                            "Après HD" : "DC 1g puis 750mg/j",
+            
+                        },
+
+
+                    },
+
+                    "Sous DCI3.3" :{
+                        "titresousdci3.3": "2g/8h",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            "+70 _ 30": "Pas d'adaptation",
+                            "30_15":"3g/j",
+                            "15_ <10":"1.5 g /j",
+                        },
+                        "Hémodialyse":{
+                            "Par 24": "1.5g/j",
+                            
+                            "Après HD" : "1.5g/j",
+            
+                        },
+
+
+                    },
+      
+                   
+
+                },
+                "DCI4":{
+                    "Titre DCI4 ":"Amoxicilline + Ac. clavulanique",
+                     "Fonction rénale selon la clairance (ml/min) ":{
+                        "vesrion1":{
+                            "70_30":"Pas d’adaptation : 1g/8h ",
+                            "30_15": "1 g puis 500 mg*3/j",
+                            "15_<10":"1 g puis 750 mg/j",
+                            "Hémodialyse0":{
+                                "Par 24": "DC 1g puis 750mg/ j",
+                                "Après HD" : "",
+                
+                            },
+                        },
+                        "vesrion2":{
+                            "70_30":"Pas d’adaptation : 2g/8h",
+                            "30_15": "3g/j",
+                            "15_<10":"1.5g/j",
+                            "Hémodialyse0":{
+                                "Par 24": "DC 1g puis 750mg/ j",
+                                "Après HD" : "1.5g/j",
+                
+                            },
+                        },
+
+                     },
+                },
+                "DCI5":{
+                    "titreDCI5":"Pipéracilline ",
+                    "Fonction rénale selon la clairance (ml/min)" : {
+                        "70_40":"Pas d’adaptation",
+                        "40_20":"Max 3-4g/8h",
+                        "20_<10":"3-4g/12h",
+                         "Hémodialyse":{
+                            "Par24h":"ND",
+                            "Après HD":"ND",
+                         },
+
+
+                    },
+                },
+
+                "DCI6":{
+                    "titreDCI6":"Pipéracilline + Tazobactam ",
+                    "Fonction rénale selon la clairance (ml/min)" : {
+                        "70_40":"Pas d’adaptation",
+                        "40_20":"4g*3/j",
+                        "20_<10":"4g*2/j",
+                         "Hémodialyse":{
+                            "Par24h":"ND",
+                            "Après HD":"ND",
+                         },
+
+
+                    },
+                },
+         
+             }, 
+
+
+
+
+            },
+        },
+       
+    },
+   
+
+
+

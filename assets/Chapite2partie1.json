@@ -1,0 +1,199 @@
+{  "Tirepartie2":"Partie 2 : Caractéristiques des espèces bactériennes isolées",
+    "page74":{
+        "title74:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+    },
+
+    "page75":{
+        "title75:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+       
+    },
+
+    "page76":{
+        "title76:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage76":{
+            "Espèces bactériennes isolées : caractéristiques et antibiotique de choix
+            ":{
+               [
+                "Bactérie":"Acinetobacter baumannii",
+                "Foyer":"Largement répandu dans la nature et dans l'environnement hospitalier Survivent sur les surfaces humides et sèches, y compris sur la La peau humaine saine pendant une période prolongée Bactérie opportuniste (services les plus touchés : soins intensifs)",
+                "Transmision":"Directe par manuportage\n  Indirecte via du matériel souillé ",
+                "Résistances naturelles": "Amoxicilline et à l’Amoxicilline-acide clavulanique Cefalotine (C1G) et C2G Chloramphénicol, triméthoprime Ertapénème, fosfomycine, Norfloxacine, furanes, aztréonam",
+                "Résistances acquises": "Grande capacité à acquérir une multirésistance aux antibiotiques - Carbapénémases = souches ABRI (Acinetobacter baumannii résistant à l’imipénème) - BLSE - Céphalosporinases - Pénicillinase +/- associés à de l’imperméabilité et hyperproduction de systémes d’efflux et production d’enzymes touchant les aminosides",
+                "Antibiothérapie de choix ":"Choix des molécules selon le site de l’infection et l’antibiogramme : - Carbapénèmes - Colistine - Tigécycline et tétracyclines - Aminoglycosides (tobramycine et amikacine plus actives que la gentamycine) Associations d’ATB ++",
+               ]
+                
+
+            }
+        },
+    },
+
+    "page77":{
+        "title77:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage77":{
+            [
+                "Bactérie":"Pseudomonas aeruginosa",
+                "Foyer":"Bactérie ubiquitaire Saprophyte de l’eau, du sol, et des milieux humides Environnement hospitalier (équipements, circuits d’eaux, solutions antiseptiques) Flore commensale respiratoire, digestive, cutanée (transitoirement) : colonisation avant infection",
+                "Transmision":"Directe par manuportage Indirecte via du matériel souillé",
+                "Résistances naturelles": "Aminopénicillines y compris Amoxicilline-acide clavulanique C1G et C2G Céfotaxime Ertapénème Cotrimoxazole Cyclines, tigécycline Acide nalidixique Macrolides et apparentés Glycopeptides Acide fusidique",
+                "Résistances acquises": "Résistance par imperméabilité, pertes de porines et efflux + /- associés à des résistances enzymatiques : hyperproduction de céphalosporinases, Blse, carbapénémases",
+                "Antibiothérapie de choix ":"Choix des molécules selon le site de l’infection et l’antibiogramme : Molécules les plus fréquemment utilisées Ceftazidime Pipéracilline –tazobactam Carbapénèmes : imipénème ou méropénème Amikacine Tobramycine Ciprofloxacine Colistine",
+               ]
+        }
+       
+    },
+
+    "page78":{
+        "title78:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        [
+            "Bactérie":"Stenotrophomon as maltophilia",
+            "Foyer":"Bactérie ubiquitaire : Environnement (sol, eau, plantes...) Environnement hospitalier Denrées alimentaires : produits laitiers, légumes etc Flore commensale digestive de l’homme, flore commensale respiratoire (patients atteints de mucoviscidose)",
+            "Transmision":"Directe par manuportage Indirecte via du matériel souillé",
+            "Résistances naturelles": "Ticarcilline, pipéracilline, carbapénèmes Aminosides Fosfomycine Colistine",
+            "Résistances acquises": "Imperméabilité membranaire Blse de type TEM Résistances acquises possibles à toutes les classes de bétalactamines",
+            "Antibiothérapie de choix ":" Pas de monothérapie Choix des molécules selon le site de l’infection et l’antibiogramme 1 ère intention Cotrimoxazole + lévofloxacine ou ticarcilline + acide clavulanique + cotrimoxazole",
+           ]
+           [
+            "Bactérie":"Haemophilus influenzae",
+            "Foyer":"Flores commensales de l’homme : oropharynx et nasopharynx flore génitale.",
+            "Transmision":"Flore endogène à
+            partir d’un
+            portage
+            Voie maternofoetale
+            ",
+            "Résistances naturelles": "Lincosamides Glycopeptides Acide fusidique",
+            "Résistances acquises": "Pour les bétalactamines : production de pénicillinase Modification des PLP (protéines liant les pénicillines =cibles",
+            "Antibiothérapie de choix ":"Méningites : céphalosporines de 3 ème génération Infection ORL : amoxicilline acide clavulanique",
+           ]
+    },
+
+    "page79":{
+        "title79:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableau79":{
+            [
+                "Bactérie":"Haemophilus influenzae",
+                "Foyer":"Portage asymptomatique (50% pour les souches non capsulées, 2% pour les souches capsulées)",
+                "Transmision":"",
+                "Résistances naturelles": "",
+                "Résistances acquises": "Association possibles",
+                "Antibiothérapie de choix ":"Autres infections : choix de l’antibiotique selon l’antibiogramme et le contexte clinique",
+               ]
+               [
+                "Bactérie":"Escherichia coli",
+                "Foyer":"Flore commensale digestive (colon +++) de l’homme, espèce dominante de la flore intestinale aérobie, bactérie ubiquitaire",
+                "Transmision":"nfection à partir de la flore endogène Transmission interhumaine ou par contact direct avec les animaux Contamination possible par consommation de d’aliments contaminés",
+                "Résistances naturelles": "Pénicilline G, oxacilline, macrolides lincosamides, streptogramines, acide fusidique, glycopeptides, oxazolidinones, l, rifampicine",
+                "Résistances acquises": "
+                Résistance aux bétalactamines : pénicillinases plasmidiques Céphalosprinases hyperproduites BLSE Carbapénèmases Résistances multiples aux autres familles d’antibiotiques par mécanismes enzymatiques et non enzymatiques
+                ",
+                "Antibiothérapie de choix ":"Infection urinaire simple de la femme : 1ère intention : fosfomycine trométamol Cystite à risque de complication : Avec ECBU : amoxicilline 1ère intention si sensible Infection urinaire masculine 1 ère intention : ciprofloxacine 2 ème intention : cotrimoxazole Autres infections : choix de l’antibiotique selon l’antibiogramme et le contexte clinique",
+               ]
+        }
+       
+
+    },
+
+    "page80":{
+        "title80:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableau80":{
+            [
+                "Bactérie":"",
+                "Foyer":"",
+                "Transmision":"",
+                "Résistances naturelles": "",
+                "Résistances acquises": "",
+                "Antibiothérapie de choix ":"",
+               ]
+               [
+                "Bactérie":"Klebsiella pneumoniae",
+                "Foyer":"Bactérie ubiquitaire Environnement (eaux de surface, eaux usées sol, plantes) Flores commensales des intestins, nasopharynx et peau",
+                "Transmision":"Transmission interhumaine directe ou via du matériel souillé Souvent responsable d’épidémie",
+                "Résistances naturelles": "Pénicilline G, aminopénicilline Ticarcilline Pipércailline Oxacilline, macrolides lincosamides, streptogramines, acide fusidique, glycopeptides, oxazolidinones, rifampicine",
+                "Résistances acquises": "Résistance aux bétalactamines : pénicillinases de haut niveau Céphalosprinases plasmidiques BLSE Carbapénèmases Résistances multiples aux autes familles d’antibiotiques par mécanismes enzymatiques et non enzymatiques",
+                "Antibiothérapie de choix ":"Choix de l’antibiotique selon l’antibiogramme et le contexte clinique",
+               ]
+        },
+        
+    },
+
+    "page81":{
+        "title81:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableau81":{
+            [
+                "Bactérie":"Enterobacter cloacae complexe",
+                "Foyer":"Habitat naturel : flore commensale digestive Bactérie opportuniste Responsable d’infections nosocomiales",
+                "Transmision":"Transmission interhumaine directe ou via du matériel souillé Émergence de souches multirésistantes",
+                "Résistances naturelles": "Pénicilline G, amoxicilline amoxicilline –acide clavulanique, cefoxitine oxacilline, macrolides lincosamides, streptogramines, acide fusidique,",
+                "Résistances acquises": "Résistance aux bétalactamines : pénicillinases plasmidiques Céphalosprinases hyperproduites BLSE",
+                "Antibiothérapie de choix ":"Choix de l’antibiotique selon l’antibiogramme et le contexte clinique Risque de sélection de mutants résistants en cas d’utilisation en monothérapie de C3G, risque très diminué avec la céfépime.",
+               ]
+               [
+                "Bactérie":"Enterobacter cloacae complexe",
+                "Foyer":"",
+                "Transmision":"responsables d’épidemies",
+                "Résistances naturelles": "glycopeptides, oxazolidinones, l, rifampicin",
+                "Résistances acquises": "Carbapénèmases Résistances multiples aux autes familles d’antibiotiques par mécanismes enzymatiques et non enzymatiques",
+                "Antibiothérapie de choix ":"",
+               ]
+
+               [
+                "Bactérie":"Anaérobies (bacteroides du grouoe fragilis : bactérie la plus isolée)",
+                "Foyer":"Flores commensales digestive, buccale, génitale, environnement (eaux usées)",
+                "Transmision":" / ",
+                "Résistances naturelles": "Aminosides aztréonam témocilline, acide nalidixique, fosfomycine triméthoprime, quinolones. Aminopénicillines, C1G, C2G, colistine",
+                "Résistances acquises": "Résistance acquise à la céfoxitine, à l’érythromycine, clindamycine, à la tetracycline, aux carbapénèmes (rare)",
+                "Antibiothérapie de choix ":"Choix de l’antibiotique selon l’antibiogramme et le contexte clinique Pour les infections intraabdominales : Pipéracilline/tazobactam, Carbapénèmes, Métronidazole associé à une C3G (cefotaxime)",
+               ]
+               [
+                "Bactérie":"Staphylococcus aureus",
+                "Foyer":"Flore commensale peau et muqueuses portage intermittent",
+                "Transmision":"Directe par manuportage (auto-inoculation",
+                "Résistances naturelles": "Mécillinam, aztréonam, témocilline, acide nalidixique, colisitine",
+                "Résistances acquises": "90% des souches productrices de pénicillinase",
+                "Antibiothérapie de choix ":"Souches méti-S : oxacilline ou cloxacilline",
+               ]
+        },
+
+        
+    },
+
+    "page82":{
+        "title82:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableau82":{
+            [
+                "Bactérie":"Staphylococcus aureus",
+                "Foyer":" (50%) ou persistant (30%)",
+                "Transmision":"ou interhumaine) ou indirecte : vêtements, draps, matériels médicaux, environnement Digestive : ingestion d’aliments porteurs de la toxine",
+                "Résistances naturelles": "",
+                "Résistances acquises": "Méticillino-résistance (gènes mecA ou mecC Résistance aux aminosides (enzymatique essentiellement) Résistance aux macrolides (méthylation de la cible ou efflux) Résistance aux glycopeptides (rare)",
+                "Antibiothérapie de choix ":"Souches meti-R : (SARM) : 1ère intention : vancomycine, teicoplanine",
+               ]
+               [
+                "Bactérie":"Streptococcus pneumoniae",
+                "Foyer":"Flore commensale rhino-pharyngée (15 à 30% de la population, 50% enfants)",
+                "Transmision":"Transmission directe par voie aérienne",
+                "Résistances naturelles": "Aminosides (de bas niveau), quinolones de 1 èregénération, Mécillinam, aztréonam, témocilline, colisitine",
+                "Résistances acquises": "Absence de la production de pénicillinase Résistance à la pénicilline par modification de la cible (PLP) (PSDP : pneumocoque de sensibilité diminuée à la pénicilline) : Résistance aux macrolides efflux ou méthylation de la cible",
+                "Antibiothérapie de choix ":"Pneumonie : amoxiciline (si PSDP : C3G ou pristinamycine) Méningite : amoxicilline ou C3G (selonCMI)(si PSDP : vancomycine) Otite moyenne aigue : amoxicilline (PSDP : céfuroxime, cefpodoxime ou pristinamycine)",
+               ]
+               [
+                "Bactérie":"Enterococcus spp",
+                "Foyer":"Flore intestinale commensale de l’homme, cutanée environnement (eaux, sols)",
+                "Transmision":"Indirecte à partir de l’environnement, manuportage, ou voie endogène (facteurs de risques d’infection ou colonisation : traitement antibiotique antérieur par C3G ou fluoroquinolones, immunodépressio n ...)",
+                "Résistances naturelles": "Péfloxacine Acide fusidique Oxacilline C3G, aminosides de bas niveau, ertapénème",
+                "Résistances acquises": "Résistance aux bétalactamines : plus fréquente chez E.faecium Émergence de la résistance aux glycopeptides chez E.faecium : BHRE (ERV)",
+                "Antibiothérapie de choix ":"Adapté à l’espèce et à l’antibiogramme Exemple : endocardite à entérocoque sensible à la pénicilline : association amoxicilline + aminoside Infection grave : glycopeptides",
+               ]
+        },
+        
+    },
+    
+}

@@ -1,0 +1,161 @@
+{
+
+    "page109":{
+        "titlepage109":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage109":{
+            "Antibiotique":{
+                "Famille Aminosides"{
+                    " Titre Famille Antibiotique":"Aminosides",
+                    "DcI1":{
+                        "Titre Dci1": "Amikacine",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_60":"Pas d’adaptation",
+                            "60_<10":"15 à 30 mg/kg (Adapter selon la résiduelle)",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"15 à 30 mg/kg 2-4 h avant dialyse (Adapter selon résiduelle)",
+                            "Après HD":"15 à 30 mg/kg 2-4 h avant dialyse (Adapter selon résiduelle)",
+                        },
+                    },
+                    "DCI2":{
+                        "Titre Dci1": "Gentamicine",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_60":"Pas d’adaptation",
+                            "60_<10":"CG+ : 3 - 5 mg/kg  \n BG- : 5- 8 mg/kg \n  Adapter selon la résiduelle",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"3mg/kg 2-4h avant dialyse (adapter selon le taux sérique)",
+                            "Après HD":"3mg/kg 2-4h avant dialyse (adapter selon le taux sérique)",
+                        },
+
+                    },
+
+
+            },
+            "Famille Quinolones"{
+                " Titre Famille Antibiotique":"Quinolones",
+                "DcI1":{
+                    "Titre Dci1": "Ofloxacine (INJ)",
+                    "Version1DC1":{
+                        "TitreVersion1DCI1":"200 mg x2/j",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_50":"Pas d’adaptation",
+                            "50_20":"200 mg/j ",
+                            "20_<10":"200 mg/48h",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"",
+                            "Après HD":"200 mg/48h",
+                        },
+
+                    },
+                    "Version2DC1":{
+                        "TitreVersion1DCI1":"200 mg x3/j",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_50":"Pas d’adaptation",
+                            "50_20":"100 mg/8h ",
+                            "20_<10":"150 mg/24h",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"",
+                            "Après HD":"150 mg/24h",
+                        },
+
+                    },
+                   
+                },
+                "DCI2":{
+                    "TitreDC2":"Ciprofloxacine ",
+                    "version1DCI2":{
+                        "TitreVersion1DCI2":"PO",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_60":"Pas d’adaptation",
+                            "60_30":"500-750 mg /12-24h",
+                            "30_<10":"500-750 mg /j",
+
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":" 500-750 mg/j",
+                            
+                            "Après HD":" 500-750 mg/j",
+                        },
+                    },
+                    "version2DCI2":{
+                        "TitreVersion2DCI2":"INJ",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_60":"Pas d’adaptation",
+                            "60_30":"400 mg /12 h",
+                            "30_<10":"400 mg /j",
+
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":" 400 mg/j",
+                            
+                            "Après HD":"400 mg/j",
+                        },
+                    },
+                   
+
+                },
+                "DCI3":{
+                    "TitreDCI3":"Lévofloxacine",
+                    "Fonction rénale selon la clairance (ml/min)":{
+                        ">70_60":"Pas d’adaptation",
+                        "60_30":"500 mg puis 250mg /12-24h ",
+                        "30_20":"500 mg puis 250mg /48h",
+                        "20_<10":"500 mg puis 125- 250mg /48h",
+                    },
+                    "Hémodialyse":{
+                        "Par 24H":"500 mg puis 125-250mg /48h",
+                        "Après HD": "500 mg puis 125-250mg /48h",
+                    },
+                },
+
+
+        },
+        "Famille Cyclines":{
+            "DCI1":{
+                "TitreDCI1":"Tigécycline",
+                "Fonction rénale selon la clairance (ml/min)": "Pas d’adaptation",
+                "Hémodialyse":"Pas d’adaptation",
+            },
+            "DCI2":{
+                "TitreDCI2":"Tigécycline",
+                "Fonction rénale selon la clairance (ml/min)": "Pas d’adaptation",
+                "Hémodialyse":"Pas d’adaptation",
+            },
+        },
+        "Famille Sulfamides":{
+            "DCI":{
+                "TitreDCI":"Sulfamethoxazole + Triméthoprime",
+                "Fonction rénale selon la clairance (ml/min)":{
+                    ">70_30":"Pas d’adaptation",
+                    "30_20":"800mg/160mg /j",
+                    "20_<10":"800mg/160mg /48h",
+                    
+                },
+                "Hémodialyse":{
+                    "Par 24H ":"800mg/160mg/48h",
+                    "Après HD":"800mg/160mg/48h",
+                },
+            },
+        },
+        
+
+        },
+        "NOteDc" :" DC : Dose de Charge / DU : Dose Usuelle / HD : Hémodialyse /IM : Infections Méningées/ IOA : Infections Ostéoarticulaires/ TB : Tuberculose / PO : Per Os / INJ : injectable /
+        MUI : Million d’Unités Internationales",
+       
+    },
+    },
+
+   
+    
+
+
+
+
+
+  
+}

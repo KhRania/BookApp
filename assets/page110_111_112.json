@@ -1,0 +1,436 @@
+{
+    "page110":{
+        "titlepage110":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage110":{
+            "Antibiotique":{
+                "Famille Antibiotique Phosphoniques":{
+                    "Titrefamille ":"Phosphoniques",
+                    "DCI1":{
+                        "TitreDCI1":"Fosfomycine",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_60":"Pas d’adaptation",
+                            "60_30":"4g/12-24h",
+                            "30_15":"4g/36-48h",
+                            "15_<10":"2g/48h",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"",
+                            "Après HD " :"2g 3fois par semaine",
+                        },
+                    },
+
+                },
+                "Famille Antibiotique Nitroimidazolés ":{
+                    "Titre Famille ":"Nitroimidazolés",
+                    "DCI1":{
+                        "TitreDCI1":"Métronidazole",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_15":"Pas d'adaptation",
+                            "15_<10":"250mg/8h",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"",
+                            "Après HD ":"250mg/8h",
+                        },
+:                    },
+                  
+                },
+                "Famille Antibiotique Nitroimidazolés":{
+                    "Titrefamille":"Nitroimidazolés",
+                    "DCI":{
+                        "TitreDCI":"Métronidazole",
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_15":"Pas d'adaptation",
+                            "15_<10":"250mg/8h",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"250mg/8h",
+                            "Après HD ":"250mg/8h",
+                        },
+                       },
+    
+                },
+                "Famille Antibiotique Macrolides ":{
+                    "Titrefamille": "Macrolides",
+                    "DCI1":{
+                        " Spiramycine (PO)":{
+                            "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                            
+                            "Hémodialyse" :"Pas d’adaptation",
+                            
+                        },
+                    },
+                    "DCI2":{
+                        "Erythromycine":{
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70-15":"Pas d’adaptation",
+                                "15_<10":"500-750mg/8-12h",
+                            },
+                            
+                            
+                            "Hémodialyse" :"500-750mg/8-12h",
+                            
+                        },
+                    },
+
+                },
+                "Famille Antibiotique Lincosamides":{
+                    "DCI Clindamycine":{
+                        "Fonction rénale selon la clairance (ml/min) ":"Pas D'adaptation ",
+                        "Hémodialyse":" Pas d'adaptation",
+                    },
+                },
+                "Famille Antibiotique Synergistines":{
+                    "DCI" : "Pristinamycine",
+                    "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                    "Hémodialyse":" Pas d'adaptation",
+                },
+                "Famille Antibiotique Fucidanine ":{
+                    "DCI":"Acide fusidique",
+                    "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                    "Hémodialyse":" Pas d'adaptation",
+                },
+                "Famille Antibiotique Oxazolidinones":{
+                    "DCI":"Linézolide",
+                    "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                    "Hémodialyse":"ND", 
+                },
+                "Famille Antibiotique Glycopeptides":{
+                    " DCI Teicopl -anine":{
+                        "Version1":{
+                            "SousDCI": "6mg/kg",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70_60":"Pas d’adaptation",
+                                "60_30":"DC puis 3mg/kg /j ou 6mg/kg/48h",
+                                "30_<10":"DC puis 2mg/kg /j ou 6mg/kg/72h",
+
+                            },
+                            "Hémodialyse":"DC puis 2mg/kg /j ou 6mg/kg/72h",
+                        },
+                        "Version2":{
+                            "SousDCI": "12mg/kg",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70_60":"Pas d’adaptation",
+                                "60_30":"DC puis 6mg/kg /j ou 12mg/kg/48h",
+                                "30_<10":"DC puis 4mg/kg /j ou 12mg/kg/72h",
+
+                            },
+                            "Hémodialyse":"DC puis 4mg/kg /j ou 12mg/kg/72h",
+                        },
+                    },
+                    "DCI Vancomycine":{
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_50":"Pas d'adaptation",
+                            "50_20":"DC (30mg/kg) puis adaptation selon la résiduelle",
+                            "20_<10":"DC (30mg/kg) puis adaptation selon la résiduelle",
+                        },
+                        "Hémodialyse":"DC (30mg/kg) puis adaptation selon la résiduelle",
+                    },
+                },
+
+            },
+        },
+        "NOteDc" :" DC : Dose de Charge / DU : Dose Usuelle / HD : Hémodialyse /IM : Infections Méningées/ IOA : Infections Ostéoarticulaires/ TB : Tuberculose / PO : Per Os / INJ : injectable /
+        MUI : Million d’Unités Internationales",
+
+    },
+    "page111":{
+        "titlepage111":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage111":{
+            "Antibiotique":{
+                "Famille Antibiotique Polymixines":{
+                    "DCI Colistine":{
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_50":"Pas d'adaptation",
+                            "50_30":"9 MUI DC puis 5,5-7,5 MUI /j (en deux prises)",
+                            "30_10": "DC puis 4,5-5,5 MUI /24h (en deux prises)",
+                            "<10":"DC puis 3,5 MUI /24h (en deux prises)",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"DC puis 1.5 MUI /12h (en dehors des jours d’HD)",
+                            "Après HD ":"1.5MUI /8h (les jours de dialyse)",
+                        },
+                    },
+                },
+                "Famille Antibiotique Antituberculeux":{
+                    "DCI Ethambutol ": {
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_30":"Pas d'adaptation",
+                            "30_<10":"15-20mg/kg/48h ",
+                        },
+                        "Hémodialyse":{
+                            "Après HD ":"15-20mg/kg/48h",
+                            "Par 24H":"15-20mg/kg/48h",
+                        },
+                    },
+                    "DCI Pyrazinamide":{
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_30":"Pas d'adaptation",
+                            "30_<10":"30mg/kg/48h",
+                        },
+                        "Hémodialyse":{
+                            "Après HD ":"30mg/kg/48h",
+                            "Par 24H":"30mg/kg/48h",
+                        },
+                    },
+                    "DCI Rifampicine (PO/INJ)":{
+                        "Fonction rénale selon la clairance (ml/min) ":"Pas D'adaptation ",
+                        "Hémodialyse":"TB : 8-12 mg/kg/j Autres : 20-30 mg/kg/j",
+                    },
+                    "DCI Isoniazide":{
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_30":"Pas d'adaptation",
+                            "30_<10":"3 - 5 mg/kg/j (Max 200 mg/j)",
+                        },
+                        "Hémodialyse":"3 - 5 mg/kg/j (Max 200 mg/j après HD)",
+
+                    },
+                    "DCI Isoniazide + Rifampicine":{
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_25":"Pas d’adaptation",
+                            "25_<10":"Contre indiqué (selon RCP)",
+                        
+
+                        },
+                        "Hémodialyse":"R : 8-12 mg/kg/j I : 3 à 5 mg/kg/j",
+                    },
+                    "DCI Isoniazide + Rifampicine + Pyrazinamide + Ethambutol":{
+                        "Fonction rénale selon la clairance (ml/min)":{
+                            ">70_60":"Pas d'adaptation",
+                            "60_25":"R : Vérifier la rifampicinémie au 2éme ou 3ème jour et espacer les prises",
+                            "25_<10":"Contre indiqué (selon RCP)",
+                        },
+                        "Hémodialyse":{
+                            "Par 24H":"R : 8-12 mg/kg/j I : 3 à 5 mg/kg/j",
+                            "Après HD ":"Z : Max 25 mg/kg /j E: 7.5 mg/kg /j",
+                        },
+                    },
+                },
+            },
+        },
+        "NOteDc" :" DC : Dose de Charge / DU : Dose Usuelle / HD : Hémodialyse /IM : Infections Méningées/ IOA : Infections Ostéoarticulaires/ TB : Tuberculose / PO : Per Os / INJ : injectable /
+        MUI : Million d’Unités Internationales",
+
+    },
+    "page112":{
+
+        "titlepage112":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "tableaupage112":{
+            "Antibiotique":{
+                "Famille Antibiotique Triazolés":{
+                    "DCI Fluconazole (PO/INJ)":{
+                        "Version1":{
+                            "SousDCI":"Candidose O.B.O.",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70_60":"Pas d'adaptation",
+                                "60_15":"DC 200-400mg puis 50-100mg/j ou 100-200mg/48h",
+                                "15_<10":"DC 200-400mg puis 100-200mg 3*/sem",
+                            },
+                            "Hémodialyse":{
+                                "Après HD ":"DC 200-400mg puis 100-200mg 3*/sem",
+                                "Par 24H":"DC 200-400mg puis 100-200mg 3*/sem",
+                            },
+                        },
+                        "Version2":{
+                            "SousDCI":"Candidose urinaire",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70_60":"Pas d'adaptation",
+                                "60_15":"200-400mg puis 100-200mg/j ou 200-400mg/48h",
+                                "15_<10":"200-400mg 3*/sem",
+                            },
+                            "Hémodialyse":{
+                                "Après HD ":"200-400mg 3*/sem",
+                                "Par 24H":"200-400mg 3*/sem",
+                            },
+                        },
+                        "Version3":{
+                            "SousDCI":"Candidémie",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70_60":"Pas d'adaptation",
+                                "60_15":"800mg puis 200mg/j ou 400mg/48h",
+                                "15_<10":"800mg puis 400mg 3*/sem",
+                            },
+                            "Hémodialyse":{
+                                "Après HD ":"800mg puis 400mg 3*/sem",
+                                "Par 24H":"800mg puis 400mg 3*/sem",
+                            },
+                        },
+                    },
+                    "DCI Voriconazole (PO/INJ)":{
+                        "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation (préférer la voie orale)",
+                        "Hémodialyse" :"Pas d’adaptation (préférer la voie orale)",
+                    },
+                },
+                "Famille Antibiotique Polyènes":{
+                    "DCI Amphotéricine B":{
+                        "Sous DCI1":{
+                            "titre":"PO",
+                            "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                            "Hémodialyse":" Pas d'adaptation",
+                        },
+                        "Sous DCI2":{
+                            "titre":"INJ",
+                            "Fonction rénale selon la clairance (ml/min)":{
+                                ">70_60":"0.5-1mg/kg/j",
+                                "60_<10":"Médicament à éviter",
+                            },
+                            "Hémodialyse":"0.5-1mg/kg/j",
+                        },
+                        "DCI Amphotéricine B (liposomale)":{
+                            "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                            "Hémodialyse":" Pas d'adaptation",
+                        },
+                    }
+                },
+                "Famille Antibiotique Echinoca ndines":{
+                    "DCI Anidulafungine":{
+                        "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                        "Hémodialyse":" Pas d'adaptation"
+                    },
+                    "DCI caspofungine":{
+                        "Fonction rénale selon la clairance (ml/min)":"Pas d’adaptation",
+                        "Hémodialyse":" Pas d'adaptation",
+                    },
+                },
+            },
+        },
+        "NOteDc" :" DC : Dose de Charge / DU : Dose Usuelle / HD : Hémodialyse /IM : Infections Méningées/ IOA : Infections Ostéoarticulaires/ TB : Tuberculose / PO : Per Os / INJ : injectable /
+        MUI : Million d’Unités Internationales",
+        "Références:":"- Résumés des caractéristiques des produits (RCP), ANSM. - Sitegpr.com 2023 (mise à jour le 19 Avril 2023)",
+
+    },
+
+    "page113":{
+        "titlepage113":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "Comité de rédaction":{
+            {
+                "tableau": [
+                  {
+                    "Nom": "Dr Mohamed Kahloul",
+                    "Poste": "  Prédisent du CLIN \n Professeur en Anesthésie-Réanimation",
+                    "Service": "Service d’Anesthésie-Réanimation"
+                  },
+                  {
+                    "Nom": "Dr Habiba Ben Hamada",
+                    "Poste": "AHU en Anesthésie-Réanimation",
+                    "Service": "Service d’Anesthésie-Réanimation"
+                  },
+                  {
+                    "Nom": "Dr Asma Mhiri",
+                    "Poste": "AHU en Pharmacie Clinique",
+                    "Service": "Service de Pharmacie"
+                  },
+                  {
+                    "Nom": "Dr Nesrine Kalboussi",
+                    "Poste": "MCA en Pharmacie Galénique",
+                    "Service": "Service de Pharmacie"
+                  },
+                  {
+                    "Nom": "Dr Sarra Mahfoudhi",
+                    "Poste": "AHU en Chimie Analytique",
+                    "Service": "Service de Pharmacie"
+                  },
+                  {
+                    "Nom": "Dr Imen Hadj Mbarek",
+                    "Poste": "Pharmacien Hospitalier",
+                    "Service": "Service de Pharmacie"
+                  },
+                  {
+                    "Nom": "Dr Zeineb Beji",
+                    "Poste": "Résidente en Pharmacie Clinique",
+                    "Service": "Service de Pharmacie"
+                  },
+                  {
+                    "Nom": "Dr Tounes Ben Romdhane",
+                    "Poste": "Résidente en Pharmacie Clinique",
+                    "Service": "Service de Pharmacie"
+                  },
+                  {
+                    "Nom": "Dr Wissal Sahtout",
+                    "Poste": "MCA en Néphrologie",
+                    "Service": "Service de Néphrologie"
+                  },
+                  {
+                    "Nom": "Dr Lamia Tilouche",
+                    "Poste": "MCA en Bactériologie",
+                    "Service": "Service de Microbiologie"
+                  },
+                  {
+                    "Nom": "Dr Farah Azouzi",
+                    "Poste": "AHU en Bactériologie",
+                    "Service": "Service de Microbiologie"
+                  },
+                  {
+                    "Nom": "Dr Faten Yahia",
+                    "Poste": "AHU en Cardiologie",
+                    "Service": "Service de Cardiologie"
+                  },
+                  {
+                    "Nom": "Dr Fares Ben Mansour",
+                    "Poste": "Résident en Cardiologie",
+                    "Service": "Service de Cardiologie"
+                  },
+                  {
+                    "Nom": "Dr Nouha Dammak",
+                    "Poste": "AHU en Chirurgie Générale et Digestive",
+                    "Service": "Service de Chirurgie Générale et Digestive"
+                  },
+                  {
+                    "Nom": "Dr Fatma Ben Fredj",
+                    "Poste": "Professeur en Médecine Interne",
+                    "Service": "Service de Médecine Interne"
+                  },
+                  {
+                    "Nom": "Dr Anis Mzabi",
+                    "Poste": "MCA en Médecine Interne",
+                    "Service": "Service de Médecine Interne"
+                  },
+                  {
+                    "Nom": "Dr Dorra Amor",
+                    "Poste": "AHU en Pharmacologie",
+                    "Service": "Service de Biochimie"
+                  },
+                  {
+                    "Nom": "Dr Sana Boujaafer",
+                    "Poste": "AHU en Pharmacologie",
+                    "Service": "Service de Biochimie"
+                  }
+                ]
+
+              },
+              "Approbation":{
+                {
+                    "tableau2": [
+                      {
+                        "Nom": "Dr Ali Ben Ali",
+                        "Poste": "Professeur en Chirurgie Générale et Digestive",
+                        "Service": "Service de Chirurgie Générale et Digestive"
+                      },
+                      {
+                        "Nom": "Dr Balsam Kacem",
+                        "Poste": "MCA en Pharmacie Galénique",
+                        "Service": "Président du Comité Thérapeutique"
+                      }
+                    ]
+                  }
+                  
+              },
+
+              "Remerciements":"Internes en Pharmacie ayant participé à la rédaction de cet antibioguide :
+              Wael Khouja, Asma Ouahada, Nada Ghorbel, Nsaibia Fatma, Yassin Gaiech, Sarra Guelmami,
+              Oumayma Layeb, Amri Ahmed Aziz et Salma Boussetta.",
+
+              
+              
+
+        },
+        
+
+    },
+    
+
+}
