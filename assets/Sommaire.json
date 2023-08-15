@@ -5,18 +5,27 @@
       {
         "title": "Liste des abréviations",
         "page": 3,
-        "id":1
+        "id":1,
+        "Subtitles":[
+          
+        ]
       },
       {
         "title": "Règles de bon usage des antibiotiques",
         "page": 5,
-        "id":2
+        "id":2,
+        "Subtitles":[
+          
+        ]
 
       },
       {
         "title": "Suivi Thérapeutique Pharmacologique (STP) des antibiotiques",
         "page": 9,
-        "id":3
+        "id":3,
+        "Subtitles":[
+          
+        ]
 
 
       },
@@ -93,10 +102,11 @@
       },
       {
         "title": "Partie 2 : Caractéristiques des espèces bactériennes isolées",
-        "Subtitle": [
+        "Subtitles": [
           {
             "subtitle": "Espèces bactériennes isolées : caractéristiques et antibiotique de choix",
             "page": 76
+            
           }
         ]
       },
@@ -123,7 +133,10 @@
       },
       {
         "title": "Comité de rédaction",
-        "page": 113
+        "page": 113,
+        "Subtitles":[
+          
+        ]
       }
     ]
   }
