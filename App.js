@@ -14,6 +14,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { TouchableOpacity } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+import ReactJson from "react-json-view";
 
 const Stack = createNativeStackNavigator();
 
@@ -32,6 +33,7 @@ export default function App() {
       <Stack.Navigator>
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="Subtitles" component={SubtitlesScreen} />
+        {/* <Stack.Screen name="Content" component={ContentScreen} /> */}
       </Stack.Navigator>
     </NavigationContainer>
   );
@@ -51,9 +53,11 @@ function HomeScreen({ navigation }) {
   const [searchResult, setSearchResult] = React.useState([]);
 
   useEffect(() => {
-    const titles = Sommaire.Titles.map((t) => t.title);
+    const titles = Sommaire.Titles.map((t) => t);
 
-    const searchResults = titles.filter((t) => t.toLowerCase().includes(searchInput.toLowerCase()));
+    const searchResults = titles.filter((t) =>
+      t.title?.toLowerCase().includes(searchInput.toLowerCase())
+    );
 
     setSearchResult(searchResults);
   }, [searchInput]);
@@ -97,11 +101,28 @@ function HomeScreen({ navigation }) {
             key={idx}
             onPress={() =>
               navigation.navigate("Subtitles", {
-                titleId: item,
+                titleId: item.title,
               })
             }
           >
-            <Text>{item}</Text>
+            <View
+              style={{
+                marginBottom: 20,
+              }}
+            >
+              <Text>{"title:"}</Text>
+              <Text>{item?.title}</Text>
+              {item?.content && <Text>{"Content:"}</Text>}
+              {item?.content && (
+                <Text
+                  style={{
+                    marginLeft: 20,
+                  }}
+                >
+                  {item?.content}
+                </Text>
+              )}
+            </View>
           </TouchableOpacity>
         ))}
       </View>
@@ -116,11 +137,12 @@ function SubtitlesScreen({ route, navigation }) {
   const [searchInput, onSearch] = React.useState("");
   const [searchResult, setSearchResult] = React.useState([]);
 
- 
-
   function getTitleSubtitles() {
     let activeTitle = Sommaire.Titles.find((item) => item.title === titleId);
-    return activeTitle.Subtitles;
+    if (activeTitle.Subtitles) {
+      return activeTitle.Subtitles;
+    }
+    return [];
   }
 
   useEffect(() => {
@@ -129,15 +151,16 @@ function SubtitlesScreen({ route, navigation }) {
   }, []);
 
   useEffect(() => {
-    const subtitles = data.map((t) => t.subtitle);
-    const searchResults = subtitles.filter((t) => t.toLowerCase().includes(searchInput.toLowerCase()));
-
+    const subtitles = data;
+    const searchResults = subtitles.filter((t) =>
+      t.subtitle?.toLowerCase().includes(searchInput.toLowerCase())
+    );
     setSearchResult(searchResults);
-  }, [searchInput,data]);
-console.log(data);
+  }, [searchInput, data]);
+
   return (
     <View style={{ flex: 1, padding: 24 }}>
-        <TextInput
+      <TextInput
         onChangeText={onSearch}
         style={{
           height: 40,
@@ -149,100 +172,50 @@ console.log(data);
       />
 
       {searchResult.map((item, idx) => (
-        <View>
-          <Text>{item}</Text>
+        <View
+          style={{
+            marginBottom: 20,
+          }}
+        >
+          <Text>{"Subtitle:"}</Text>
+          <Text>{item?.subtitle}</Text>
+          <Text>{"Content:"}</Text>
+          {item?.content && <SubtitleContent content={item?.content} />}
+          <Text
+            style={{
+              marginLeft: 20,
+            }}
+          >
+            {item?.content}
+          </Text>
         </View>
       ))}
     </View>
   );
 }
 
-// function Filtrage  ()  {
-//   const [filterData, setfilterData] = useState ([]);
-//   const [masterData, setmasterData] = useState ([]);
-//   const [search , setsearch] = useState ('');
+function SubtitleContent({ content }) {
+  const [searchInput, onSearch] = React.useState("");
+  function countInstances(string, word) {
+    return string.split(word).length - 1;
+  }
 
-//   useEffect (() => {
-//     fetchPosts ();
-//     return ()=> {
+  return (
+    <View>
+      <TextInput
+        onChangeText={onSearch}
+        style={{
+          height: 40,
+          margin: 12,
+          borderWidth: 1,
+          padding: 10,
+        }}
+        placeholder="Search here"
+      />
 
-//     }
-//   },[])
-//  const fetchPosts =() => {
-//   fetch (Sommaire)
-//   .then((response)=> response.json())
-//   .then((responseJson)=> {
-//     setfilterData(responseJson);
-//     setmasterData(responseJson);
-//   }).catch((error) => {
-//     console.error(error);
-//   })
-//  }
-
-//  const searchFilter =(text) => {
-//   if(text){
-//     const newData = masterData.filter((item) => {
-//       const itemData = item.idx ? item.idx.toUpperCase ()
-//       : ''.toUpperCase();
-//       const textData = text.toUpperCase();
-//       return itemData.indexOf(textData) > -1 ;
-//     });
-//     setfilterData(newData);
-//     setsearch(text);
-//   } else {
-//     setfilterData(masterData);
-//     setsearch(text);
-//   }
-//  }
-//  const ItemView = ( {item}) => {
-//   return(
-//     <Text style ={styles.itemStyle}>
-//       {item.id}{'. '}{item.idx.toUpperCase()}
-//     </Text>
-//   )
-//  }
-//  const ItemSeparatorView = () => {
-//   return(
-//     <View style = { {height : 0.5 , width : '100%' , backgroundColor: '#c8c8c8'}}/>
-//   )
-//  }
-//  return(
-//   <SafeAreaView style={ {flex: 1}}>
-//     <View style ={styles.container} >
-//       <TextInput
-//       style={styles.TextInputStyle}
-//       value={search}
-//       placeholder="Search "
-//       onChangeText={(Text) => searchFilter(text)}
-//       />
-
-//       <FlatList
-//       data={filterData}
-//       keyExtractor={(item, index) => index.toString()}
-//        ItemSeparatorComponent={ItemSeparatorView}
-//        renderItem={ItemView}
-//       />
-
-//     </View>
-//   </SafeAreaView>
-
-//  );
-//  const styles = StyleSheet.create (
-//   {
-//     container: {
-//       backgroundColor : 'white',
-//          },
-//          itemStyle :{
-//           padding :15
-//          },
-//          TextInputStyle : {
-//           height : 60,
-//           borderWidth : 1,
-//           paddingLeft : 20 ,
-//           margin : 5,
-//           borderColor : '#009688',
-//           backgroundColor:'white'
-//          }
-//   }
-//  )
-// }
+      <Text>
+        {"occurences: "} {countInstances(content, searchInput)}
+      </Text>
+    </View>
+  );
+}
